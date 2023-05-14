@@ -10,7 +10,7 @@ Welcome to contribute.
 ||Google|OpenAI|Meta|EleutherAI|DeepMind|Stability AI|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 2023|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HuggingFace](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|
-2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|ChatGPT||GPT-NeoX||
+2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX||
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)|||||
 
 - [Chatbot Arena ](https://chat.lmsys.org/) - chat with two anonymous models side-by-side and vote for which one is better!
@@ -41,11 +41,8 @@ Welcome to contribute.
 - [OpenAGI: When LLM Meets Domain Experts](https://github.com/agiresearch/OpenAGI)
 
 ## Multi-modal
+- [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Repo](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image,  Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image
 - [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
-- [MONSTER API](https://monsterapi.ai/)
-   - text-to-image: a latent text-to-image diffusion model capable of generating photo-realistic images conditioned on text descriptions
-   - image-to-image: a latent diffusion model capable of generating photo-realistic generating image-to-image translations guided by a text prompt
-   - instruct-pix2pix: a model enables fast and effective image editing based on simple instructions
 - [GEN-2](https://research.runwayml.com/gen2) - a multi-modal AI system that can generate novel videos with text, images, or video clips
   - Mode 01: Text to Video: Synthesize videos in any style you can imagine using nothing but a text prompt. If you can say it, now you can see it
   - Mode 02: Text + Image to Video: Generate a video using a driving image and a text prompt
@@ -54,7 +51,11 @@ Welcome to contribute.
   - Mode 05: Storyboar: Turn mockups into fully stylized and animated renders
   - Mode 06: Mask: Isolate subjects in your video and modify them with simple text prompts
   - Mode 07: Render: Turn untextured renders into realistic outputs by applying an input image or prompt
-  - Mode 08: Customization: Unleash the full power of Gen-2 by customizing the model for even higher fidelity results.
+  - Mode 08: Customization: Unleash the full power of Gen-2 by customizing the model for even higher fidelity results
+- [MONSTER API](https://monsterapi.ai/)
+   - text-to-image: a latent text-to-image diffusion model capable of generating photo-realistic images conditioned on text descriptions
+   - image-to-image: a latent diffusion model capable of generating photo-realistic generating image-to-image translations guided by a text prompt
+   - instruct-pix2pix: a model enables fast and effective image editing based on simple instructions
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Typography
@@ -68,6 +69,7 @@ Welcome to contribute.
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Video & 3D
+- [Shap-E, Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets
 - [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
@@ -93,11 +95,12 @@ Welcome to contribute.
 - [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
-## Speech & Music
- - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT), [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
+## Audio & Speech & Music
+ - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Repo](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
  - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying
-- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff" by Google Research
+- [Whisper](https://openai.com/research/whisper) - an automatic speech recognition (ASR) system, that approaches human level robustness and accuracy on English speech recognition
+- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff" by Google Research
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages by Google Research
 - [MuAViC](https://ai.facebook.com/blog/muavic-audio-visual-speech-translation-benchmark/) - a Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation by MetaAI
 - [Musicfy](https://www.musicfy.lol/) - Music like you've never heard. Create and discover AI covers of your favorite songs 
