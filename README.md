@@ -5,16 +5,17 @@ Welcome to contribute.
 
 ## Large Language Lodels (LLMs) and Chatbots
 [ChatGPT Prompt Engineering for Developers | Andrew Ng | Isa Fulford | Course](https://learn.deeplearning.ai/chatgpt-prompt-eng) \
-[The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E)
-
+[The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E) \
+[Visualization: The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
 ||Google|OpenAI|Meta|EleutherAI|DeepMind|Stability AI|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-2023|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HuggingFace](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|
+2023|[PALM-2](https://ai.google/discover/palm2)<br>[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HuggingFace](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|
 2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX||
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)|||||
 
-- [Chatbot Arena ](https://chat.lmsys.org/) - chat with two anonymous models side-by-side and vote for which one is better!
+- [Chatbot Arena ](https://chat.lmsys.org/) - chat with two anonymous models side-by-side and vote for which one is better
 - [AI Playground](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
+- [MultiModal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model
 - [Pi](https://heypi.com/talk) - this bot is designed to be more of a personal assistant
 - [ChatwithData.ai]() - AI tool that lets you extract valuable insights and information from data files effortlessly
 - [Open Assistant](https://open-assistant.io/) - a completely open-source ChatGPT alternative
@@ -89,9 +90,14 @@ Welcome to contribute.
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
+## Medical
+- [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high quality answers to medical questions
+- [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA) - the official codes for "PMC-LLaMA: Continue Training LLaMA on Medical Papers"
+ 
 ## Robotics
+- [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with Large Language Models
 - [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, DeepMind
-- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) -  We propose embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
+- [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) - embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
 - [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
