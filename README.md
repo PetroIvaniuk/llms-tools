@@ -3,7 +3,7 @@ The repository contains a list of ready-to-use AI Tools, Open Sources, and Resea
 Apart from LLMs, you can find here new AI research from other areas such as Computer Vision, etc.\
 Welcome to contribute.
 
-## Large Language Lodels (LLMs) and Chatbots
+## Large Language Models (LLMs) and Chatbots
 [ChatGPT Prompt Engineering for Developers | Andrew Ng | Isa Fulford | Course](https://learn.deeplearning.ai/chatgpt-prompt-eng) \
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E) \
 [Visualization: The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
@@ -44,6 +44,10 @@ Welcome to contribute.
 - [OpenAGI: When LLM Meets Domain Experts](https://github.com/agiresearch/OpenAGI)
 
 ## Multi-modal
+- [Kaiber](https://kaiber.ai/) - 
+  - Audioreactivity: upload a song, add a touch of your artistic style, and let our audio analysis technology bring your beats to life
+  - Animation: start with a few words or upload your own image, and watch your ideas turn into captivating visuals
+  - Transform: upload your videos and effortlessly transform them into entirely new styles and aesthetics
 - [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Repo](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image,  Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image
 - [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
 - [GEN-2](https://research.runwayml.com/gen2) - a multi-modal AI system that can generate novel videos with text, images, or video clips
@@ -56,9 +60,9 @@ Welcome to contribute.
   - Mode 07: Render: Turn untextured renders into realistic outputs by applying an input image or prompt
   - Mode 08: Customization: Unleash the full power of Gen-2 by customizing the model for even higher fidelity results
 - [MONSTER API](https://monsterapi.ai/)
-   - text-to-image: a latent text-to-image diffusion model capable of generating photo-realistic images conditioned on text descriptions
-   - image-to-image: a latent diffusion model capable of generating photo-realistic generating image-to-image translations guided by a text prompt
-   - instruct-pix2pix: a model enables fast and effective image editing based on simple instructions
+  - text-to-image: a latent text-to-image diffusion model capable of generating photo-realistic images conditioned on text descriptions
+  - image-to-image: a latent diffusion model capable of generating photo-realistic generating image-to-image translations guided by a text prompt
+  - instruct-pix2pix: a model enables fast and effective image editing based on simple instructions
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Typography
@@ -66,19 +70,24 @@ Welcome to contribute.
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Images
+- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use by NVIDIA
 - [Image Upscaling API](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness by Stability AI
 - [Designer](https://designer.microsoft.com/), [Microsoft Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/) by Microsoft. Designer has all the tools you’d expect, plus a few AI superpowers. Generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. Designer can even propose captions and hashtags to make social media sharing effortless
 - [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
-## Video & 3D
+## Animation & Video & 3D
+- [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
+- [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc.
+- [BlockadeLabs](https://skybox.blockadelabs.com/) - AI powered tools for world-building technowizards
 - [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
-- [Shap-E, Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets
+- [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets
 - [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - Bring children's drawings to life, by animating characters to move around by MetaAI
 - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars
+- [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions.
 - [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
 - [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
@@ -106,6 +115,7 @@ Welcome to contribute.
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
 ## Audio & Speech & Music
+- [SadTalker: Demo](https://huggingface.co/spaces/vinthony/SadTalker) - Stylized Audio-Driven Single Image Talking Face Animation
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
  - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Repo](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
