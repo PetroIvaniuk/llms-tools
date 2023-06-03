@@ -6,6 +6,7 @@ Welcome to contribute.
 ## Large Language Models (LLMs) and Chatbots
 [ChatGPT Prompt Engineering for Developers | Andrew Ng | Isa Fulford | Course](https://learn.deeplearning.ai/chatgpt-prompt-eng) \
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E) \
+[State of GPT | Andrej Karpathy](https://youtu.be/bZQun8Y4L2A)\
 [Visualization: The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
 ||Google|OpenAI|Meta|EleutherAI|DeepMind|Stability AI||
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
@@ -13,7 +14,11 @@ Welcome to contribute.
 2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX|||[Bloom](https://huggingface.co/bigscience/bloom)|
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
-- [Chatbot Arena ](https://chat.lmsys.org/) - chat with two anonymous models side-by-side and vote for which one is better
+- [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Repo](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
+- [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
+- [GPT4All](https://gpt4all.io/index.html), [Repo](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style large language models that run locally on your CPU. No GPU or internet required
+- [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), [Repo](https://github.com/tatsu-lab/stanford_alpaca) - a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations. Alpaca behaves qualitatively similarly to OpenAI’s text-davinci-003, while being surprisingly small and easy/cheap to reproduce
+- [Chatbot Arena ](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
 - [AI Playground](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
 - [MultiModal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model
 - [Pi](https://heypi.com/talk) - this bot is designed to be more of a personal assistant
@@ -70,6 +75,7 @@ Welcome to contribute.
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Images
+- [Reimagine](https://clipdrop.co/stable-diffusion-reimagine) - an Clipdrop tool helps to create multiple variations from a single image with stable diffusion
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use by NVIDIA
 - [Image Upscaling API](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness by Stability AI
 - [Designer](https://designer.microsoft.com/), [Microsoft Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/) by Microsoft. Designer has all the tools you’d expect, plus a few AI superpowers. Generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. Designer can even propose captions and hashtags to make social media sharing effortless
@@ -77,8 +83,11 @@ Welcome to contribute.
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Animation & Video & 3D
+- [Lalamu](https://lalamu.studio/demo) - low quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
+- [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
+- [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry by NVIDIA
 - [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
-- [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc.
+- [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
 - [BlockadeLabs](https://skybox.blockadelabs.com/) - AI powered tools for world-building technowizards
 - [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
 - [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets
@@ -87,14 +96,15 @@ Welcome to contribute.
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - Bring children's drawings to life, by animating characters to move around by MetaAI
 - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars
-- [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions.
+- [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
+- [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
 - [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
 - [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
 - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
-- [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space.
+- [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space by NVIDIA
 
 ## Computer Vision
 - [Visual Prompting](https://landing.ai/What-is-visual-prompting/) - an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision
@@ -103,10 +113,6 @@ Welcome to contribute.
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
-## Medical
-- [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high quality answers to medical questions
-- [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA) - the official codes for "PMC-LLaMA: Continue Training LLaMA on Medical Papers"
- 
 ## Robotics
 - [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with Large Language Models
 - [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, DeepMind
@@ -115,6 +121,8 @@ Welcome to contribute.
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
 ## Audio & Speech & Music
+- [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
+- [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software. ElevenLabs brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling
 - [SadTalker: Demo](https://huggingface.co/spaces/vinthony/SadTalker) - Stylized Audio-Driven Single Image Talking Face Animation
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
  - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Repo](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
@@ -128,6 +136,11 @@ Welcome to contribute.
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 - [Mubert](https://mubert.com/) - Human x AI Generative Music. For your video content, podcasts and apps
 
+## Medical
+- [Mind-Video](https://mind-video.com/) - High-quality Video Reconstruction from Brain Activity
+- [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high quality answers to medical questions
+- [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA) - the official codes for "PMC-LLaMA: Continue Training LLaMA on Medical Papers"
+ 
 ## Military
 - [AIP Pillars](https://www.palantir.com/platforms/aip/) - activate LLMs and other AI on your private network, subject to full control
 
