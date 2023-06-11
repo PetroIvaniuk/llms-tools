@@ -14,6 +14,8 @@ Welcome to contribute.
 2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX|||[Bloom](https://huggingface.co/bigscience/bloom)|
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
+- [Open LLM Leaderboard: HuggingFace](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
+- Falcon, [Demo: HuggingFace](https://huggingface.co/blog/falcon) - a new family of state-of-the-art language models created by the Technology Innovation Institute in Abu Dhabi, and released under the Apache 2.0 license
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Repo](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
 - [GPT4All](https://gpt4all.io/index.html), [Repo](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style large language models that run locally on your CPU. No GPU or internet required
@@ -37,8 +39,11 @@ Welcome to contribute.
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 
 ## Text-to-image
+- [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
+- [Flair](https://flair.ai/) - the AI design tool for branded content
+- [Logolivery](https://logolivery.ai/) - the Real Logo AI Generator
 - [Midjourney](https://www.midjourney.com/) - generate images based on prompt
-- [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Demo: Clipdrop](https://clipdrop.co/stable-diffusion) - create descriptive images with shorter prompts and generate words within images
+- [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/) - create descriptive images with shorter prompts and generate worlds within images
 - [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Repo](https://github.com/deep-floyd/IF), [Demo: HuggingFace](https://huggingface.co/spaces/DeepFloyd/IF),- is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI, together with its multimodal AI research lab DeepFloyd
 - [Catbird](https://www.catbird.ai/) - one prompt, many models... generate images from dozens of models at once
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
@@ -49,13 +54,18 @@ Welcome to contribute.
 - [OpenAGI: When LLM Meets Domain Experts](https://github.com/agiresearch/OpenAGI)
 
 ## Multi-modal
+- [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Repo](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image by Meta
+- [Clipdrop](https://clipdrop.co/) - by Stability.AI
+  - [Uncrop](https://clipdrop.co/uncrop), [Blog](https://stability.ai/blog/clipdrop-launches-uncrop-the-ultimate-aspect-ratio-editor) - a tool helps to uncrop your photos to any image format
+  - [Reimagine](https://clipdrop.co/stable-diffusion-reimagine), [Blog](https://stability-ai.squarespace.com/blog/stability-ai-clipdrop-launches-reimagine-xl) - a tool helps to create multiple variations from a single image with stable diffusion
+  - [Stable Diffusion XL](https://clipdrop.co/stable-diffusion) - generate images from text
 - [Kaiber](https://kaiber.ai/) - 
   - Audioreactivity: upload a song, add a touch of your artistic style, and let our audio analysis technology bring your beats to life
   - Animation: start with a few words or upload your own image, and watch your ideas turn into captivating visuals
   - Transform: upload your videos and effortlessly transform them into entirely new styles and aesthetics
-- [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Repo](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image,  Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image
 - [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
-- [GEN-2](https://research.runwayml.com/gen2) - a multi-modal AI system that can generate novel videos with text, images, or video clips
+- [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/), [Research](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
+- [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - greate videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
   - Mode 01: Text to Video: Synthesize videos in any style you can imagine using nothing but a text prompt. If you can say it, now you can see it
   - Mode 02: Text + Image to Video: Generate a video using a driving image and a text prompt
   - Mode 03: Image to Video: Generate video using just a driving image (Variations Mode)
@@ -75,7 +85,6 @@ Welcome to contribute.
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Images
-- [Reimagine](https://clipdrop.co/stable-diffusion-reimagine) - an Clipdrop tool helps to create multiple variations from a single image with stable diffusion
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use by NVIDIA
 - [Image Upscaling API](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness by Stability AI
 - [Designer](https://designer.microsoft.com/), [Microsoft Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/) by Microsoft. Designer has all the tools you’d expect, plus a few AI superpowers. Generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. Designer can even propose captions and hashtags to make social media sharing effortless
@@ -83,6 +92,7 @@ Welcome to contribute.
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Animation & Video & 3D
+- Roop, [Repo](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one imae of the desired face. No dataset, no training
 - [Lalamu](https://lalamu.studio/demo) - low quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
 - [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
 - [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry by NVIDIA
@@ -146,6 +156,13 @@ Welcome to contribute.
 
 ## Climat
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
+
+## Code
+- [🦍 Gorilla: LLM Connected with Massive APIs](https://gorilla.cs.berkeley.edu/) - a finetuned LLaMA-based model that surpasses GPT-4 on writing API calls
+- [CodeT5 and CodeT5+](https://github.com/salesforce/CodeT5/tree/main) -  models can be deployed as an AI-powered coding assistant to boost the productivity of software developers, by Salesforce
+
+## Games
+- [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
 ## Other: Web, presentations
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
