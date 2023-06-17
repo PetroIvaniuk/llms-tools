@@ -55,7 +55,8 @@ Welcome to contribute.
 
 ## Multi-modal
 - [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Repo](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image by Meta
-- [Clipdrop](https://clipdrop.co/) - by Stability.AI
+- [Clipdrop](https://clipdrop.co/) - by StabilityAI
+  - [Image Upscaler](https://clipdrop.co/image-upscaler), [Blog](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness
   - [Uncrop](https://clipdrop.co/uncrop), [Blog](https://stability.ai/blog/clipdrop-launches-uncrop-the-ultimate-aspect-ratio-editor) - a tool helps to uncrop your photos to any image format
   - [Reimagine](https://clipdrop.co/stable-diffusion-reimagine), [Blog](https://stability-ai.squarespace.com/blog/stability-ai-clipdrop-launches-reimagine-xl) - a tool helps to create multiple variations from a single image with stable diffusion
   - [Stable Diffusion XL](https://clipdrop.co/stable-diffusion) - generate images from text
@@ -81,47 +82,55 @@ Welcome to contribute.
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Typography
+- [ControlNet](https://huggingface.co/DionTimmer/controlnet_qrcode), [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/) - QR Code Conditioned ControlNet Models for Stable Diffusion. They provide a solid foundation for generating QR code-based artwork that is aesthetically pleasing, while still maintaining the integral QR code shape.
 - [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Images
-- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use by NVIDIA
-- [Image Upscaling API](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness by Stability AI
+- [Plug-and-Play](https://pnp-diffusion.github.io/), [Code](https://github.com/MichalGeyer/plug-and-play) - a large-scale text-to-image generative models have been a revolutionary breakthrough in the evolution of generative AI, allowing us to synthesize diverse images that convey highly complex visual concepts
+- [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) - a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use, by NVIDIA
 - [Designer](https://designer.microsoft.com/), [Microsoft Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/) by Microsoft. Designer has all the tools you’d expect, plus a few AI superpowers. Generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. Designer can even propose captions and hashtags to make social media sharing effortless
-- [Scribble Diffusion](https://scribblediffusion.com/) - Turn your sketch into a refined image using AI
+- [Scribble Diffusion](https://scribblediffusion.com/) - turn your sketch into a refined image using AI
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
-## Animation & Video & 3D
-- Roop, [Repo](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one imae of the desired face. No dataset, no training
-- [Lalamu](https://lalamu.studio/demo) - low quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
-- [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
-- [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry by NVIDIA
-- [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
-- [Drag Your GAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
-- [BlockadeLabs](https://skybox.blockadelabs.com/) - AI powered tools for world-building technowizards
-- [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
-- [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets
-- [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
-- [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
-- [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
-- [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - Bring children's drawings to life, by animating characters to move around by MetaAI
-- [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars
-- [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
-- [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
-- [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
-- [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
-- [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
-- [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
-- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
-- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
-- [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space by NVIDIA
-
 ## Computer Vision
+- [I-JEPA](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa), [Repo](https://github.com/facebookresearch/ijepa) - Image Joint Embedding Predictive Architecture is a method for self-supervised learning. At a high level, I-JEPA predicts the representations of part of an image from the representations of other parts of the same image
 - [Visual Prompting](https://landing.ai/What-is-visual-prompting/) - an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only
 - [Segment Anything Model (SAM)](https://segment-anything.com/) - a new AI model from Meta AI that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training. [Blog: Introducing Segment Anything](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Repository](https://github.com/facebookresearch/segment-anything)
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
+
+## Video & Animation
+- [Klap](https://klap.app/) - a tool that analyze the video and find short clips
+- [Lalamu](https://lalamu.studio/demo) - low quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
+- [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
+- [BlockadeLabs](https://skybox.blockadelabs.com/) - AI powered tools for world-building technowizards
+- [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
+- [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
+- [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
+- [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
+- [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that bring children's drawings to life, by animating characters to move around, by MetaAI
+- [RERENDER A VIDEO](https://anonymous-31415926.github.io/), [Demo: HF](https://huggingface.co/spaces/Anonymous-sub/Rerender) - a novel zero-shot text-guided video-to-video translation framework to adapt image models to videos
+- Roop, [Repo](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one imae of the desired face. No dataset, no training
+- [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
+- [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
+- [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
+- [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
+
+## 3D
+ - [USD - Universal Scene Description](https://developer.nvidia.com/usd) - an open and extensible framework and ecosystem for describing, composing, simulating and collaborating within 3D worlds, originally developed by Pixar Animation Studios
+ - [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets, by OpenAI
+ - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), [Code](https://github.com/nv-tlabs/nksr)- a novel method for reconstructing a 3D implicit surface from a large-scale, sparse, and noisy point, by NVIDIA
+ - [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry, by NVIDIA
+ - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars, by Microsoft
+ - [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
+- [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
+- [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
+- [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
+- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
+- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
+- [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Robotics
 - [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with Large Language Models
@@ -131,6 +140,8 @@ Welcome to contribute.
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
 ## Audio & Speech & Music
+- [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Repo](https://github.com/facebookresearch/audiocraft) -  a simple and controllable model for music generation by MetaAI
+- [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLabs
 - [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
 - [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software. ElevenLabs brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling
 - [SadTalker: Demo](https://huggingface.co/spaces/vinthony/SadTalker) - Stylized Audio-Driven Single Image Talking Face Animation
@@ -165,5 +176,6 @@ Welcome to contribute.
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
 ## Other: Web, presentations
+- [Framer](https://www.framer.com/) - a tool that constructs a completely unique website for you based on a text prompt
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 - [Gamma](https://gamma.app/) - create visually appealing presentations
