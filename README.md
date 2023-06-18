@@ -10,7 +10,7 @@ Welcome to contribute.
 [Visualization: The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
 ||Google|OpenAI|Meta|EleutherAI|DeepMind|Stability AI||
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-2023|[PALM-2](https://ai.google/discover/palm2)<br>[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HuggingFace](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)||
+2023|[PALM-2](https://ai.google/discover/palm2)<br>[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HF](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)||
 2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX|||[Bloom](https://huggingface.co/bigscience/bloom)|
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
@@ -39,15 +39,25 @@ Welcome to contribute.
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 
 ## Text-to-image
+### Tools
+|Text-to-image|Text-to-video|Games|Brand|
+:-:|:-:|:-:|:-:
+[Midjourney](https://www.midjourney.com/)|[GENMO](https://alpha.genmo.ai/)|[Leonardo.Ai](https://leonardo.ai/)|[Flair](https://flair.ai/)
+[Adobe Firefly](https://firefly.adobe.com/)|||[Logolivery](https://logolivery.ai/)|
+[Catbird](https://www.catbird.ai/)|
+[BlueWillow](https://www.bluewillow.ai/)|
+[Lexica](https://lexica.art/)|
+[Craiyon](https://www.craiyon.com/)|
+
 - [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
-- [Flair](https://flair.ai/) - the AI design tool for branded content
-- [Logolivery](https://logolivery.ai/) - the Real Logo AI Generator
-- [Midjourney](https://www.midjourney.com/) - generate images based on prompt
 - [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/) - create descriptive images with shorter prompts and generate worlds within images
 - [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Repo](https://github.com/deep-floyd/IF), [Demo: HuggingFace](https://huggingface.co/spaces/DeepFloyd/IF),- is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI, together with its multimodal AI research lab DeepFloyd
-- [Catbird](https://www.catbird.ai/) - one prompt, many models... generate images from dozens of models at once
+- [CLIP](https://openai.com/research/clip) - a neural network which efficiently learns visual concepts from natural language supervision, by OpenAI
+- [DALL·E 2](https://openai.com/dall-e-2) - an AI system that can create realistic images and art from a description in natural language, by OpenAI
+- [DALL·E](https://openai.com/research/dall-e) - a version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs, by OpenAI
+- [Parti](https://sites.research.google/parti/) - Pathways Autoregressive Text-to-Image model, an autoregressive text-to-image generation model that achieves high-fidelity photorealistic image generation and supports content-rich synthesis involving complex compositions and world knowledge, by Google Research
 - [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
-- [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/) - a fast, state-of-the-art text-to-image generation and editing model, by Google Research
+- [Muse](https://muse-model.github.io/) - Text-To-Image Generation via Masked Generative Transformers, a fast, state-of-the-art text-to-image generation and editing model, by Google Research
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer](https://damo-vilab.github.io/composer-page/) - a large (5 billion parameters) controllable diffusion model trained on billions of (text, image) pairs. It can exponentially expand the control space through composition, leading to an enormous number of ways to generate and manipulate images, i.e., making the infinite use of finite means
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting
@@ -64,7 +74,6 @@ Welcome to contribute.
   - Audioreactivity: upload a song, add a touch of your artistic style, and let our audio analysis technology bring your beats to life
   - Animation: start with a few words or upload your own image, and watch your ideas turn into captivating visuals
   - Transform: upload your videos and effortlessly transform them into entirely new styles and aesthetics
-- [Leonardo.ai](https://leonardo.ai/) - create stunning game assets with AI, such as items, environments, helmets, buildings, and concept art
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/), [Research](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
 - [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - greate videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
   - Mode 01: Text to Video: Synthesize videos in any style you can imagine using nothing but a text prompt. If you can say it, now you can see it
@@ -107,7 +116,6 @@ Welcome to contribute.
 - [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
 - [BlockadeLabs](https://skybox.blockadelabs.com/) - AI powered tools for world-building technowizards
 - [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
-- [GENMO](https://alpha.genmo.ai/) - create videos from text with AI
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that bring children's drawings to life, by animating characters to move around, by MetaAI
@@ -140,6 +148,7 @@ Welcome to contribute.
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
 ## Audio & Speech & Music
+- MERT, [Code](https://github.com/yizhilll/MERT), [Demo:HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
 - [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Repo](https://github.com/facebookresearch/audiocraft) -  a simple and controllable model for music generation by MetaAI
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLabs
 - [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
@@ -168,7 +177,9 @@ Welcome to contribute.
 ## Climat
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
-## Code
+## Code & Math
+- [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for code large language models (Code LLMs) and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
+- [Let’s Verify Step by Step](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision#fn-1) - a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”), by OpenAI
 - [🦍 Gorilla: LLM Connected with Massive APIs](https://gorilla.cs.berkeley.edu/) - a finetuned LLaMA-based model that surpasses GPT-4 on writing API calls
 - [CodeT5 and CodeT5+](https://github.com/salesforce/CodeT5/tree/main) -  models can be deployed as an AI-powered coding assistant to boost the productivity of software developers, by Salesforce
 
