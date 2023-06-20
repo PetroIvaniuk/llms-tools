@@ -15,7 +15,7 @@ Welcome to contribute.
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
 - [Open LLM Leaderboard: HuggingFace](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
-- Falcon, [Demo: HuggingFace](https://huggingface.co/blog/falcon) - a new family of state-of-the-art language models created by the Technology Innovation Institute in Abu Dhabi, and released under the Apache 2.0 license
+- [Falcon](https://falconllm.tii.ae/), [Demo: HF](https://huggingface.co/blog/falcon) - a new family of state-of-the-art language models created by the Technology Innovation Institute in Abu Dhabi, and released under the Apache 2.0 license
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Repo](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
 - [GPT4All](https://gpt4all.io/index.html), [Repo](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style large language models that run locally on your CPU. No GPU or internet required
@@ -75,12 +75,12 @@ Welcome to contribute.
   - Animation: start with a few words or upload your own image, and watch your ideas turn into captivating visuals
   - Transform: upload your videos and effortlessly transform them into entirely new styles and aesthetics
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/), [Research](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
-- [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - greate videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
+- [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - create videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
   - Mode 01: Text to Video: Synthesize videos in any style you can imagine using nothing but a text prompt. If you can say it, now you can see it
   - Mode 02: Text + Image to Video: Generate a video using a driving image and a text prompt
   - Mode 03: Image to Video: Generate video using just a driving image (Variations Mode)
   - Mode 04: Stylization: Transfer the style of any image or prompt to every frame of your video
-  - Mode 05: Storyboar: Turn mockups into fully stylized and animated renders
+  - Mode 05: Storyboard: Turn mockups into fully stylized and animated renders
   - Mode 06: Mask: Isolate subjects in your video and modify them with simple text prompts
   - Mode 07: Render: Turn untextured renders into realistic outputs by applying an input image or prompt
   - Mode 08: Customization: Unleash the full power of Gen-2 by customizing the model for even higher fidelity results
@@ -105,22 +105,23 @@ Welcome to contribute.
 ## Computer Vision
 - [I-JEPA](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa), [Repo](https://github.com/facebookresearch/ijepa) - Image Joint Embedding Predictive Architecture is a method for self-supervised learning. At a high level, I-JEPA predicts the representations of part of an image from the representations of other parts of the same image
 - [Visual Prompting](https://landing.ai/What-is-visual-prompting/) - an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision
+- [Tracking Everything Everywhere All at Once](https://omnimotion.github.io/) - a new test-time optimization method for estimating dense and long-range motion from a video sequence
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only
 - [Segment Anything Model (SAM)](https://segment-anything.com/) - a new AI model from Meta AI that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training. [Blog: Introducing Segment Anything](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Repository](https://github.com/facebookresearch/segment-anything)
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
-- [Klap](https://klap.app/) - a tool that analyze the video and find short clips
-- [Lalamu](https://lalamu.studio/demo) - low quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
+- [Klap](https://klap.app/) - a tool that analyzes the video and finds short clips
+- [Lalamu](https://lalamu.studio/demo) - low-quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
 - [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
-- [BlockadeLabs](https://skybox.blockadelabs.com/) - AI powered tools for world-building technowizards
+- [BlockadeLabs](https://skybox.blockadelabs.com/) - AI-powered tools for world-building technowizards
 - [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
 - [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
-- [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatar from a single photo
-- [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that bring children's drawings to life, by animating characters to move around, by MetaAI
+- [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatars from a single photo
+- [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that brings children's drawings to life, by animating characters to move around, by MetaAI
 - [RERENDER A VIDEO](https://anonymous-31415926.github.io/), [Demo: HF](https://huggingface.co/spaces/Anonymous-sub/Rerender) - a novel zero-shot text-guided video-to-video translation framework to adapt image models to videos
-- Roop, [Repo](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one imae of the desired face. No dataset, no training
+- Roop, [Repo](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training
 - [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
@@ -148,6 +149,7 @@ Welcome to contribute.
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
 ## Audio & Speech & Music
+- [Voicebox](https://voicebox.metademolab.com/) - Text-Guided Multilingual Universal Speech Generation at Scale, by MetaAI
 - MERT, [Code](https://github.com/yizhilll/MERT), [Demo:HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
 - [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Repo](https://github.com/facebookresearch/audiocraft) -  a simple and controllable model for music generation by MetaAI
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLabs
@@ -157,7 +159,7 @@ Welcome to contribute.
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
  - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Repo](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
- - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying
+ - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communication like laughing, sighing and crying
 - [Whisper](https://openai.com/research/whisper) - an automatic speech recognition (ASR) system, that approaches human level robustness and accuracy on English speech recognition
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff" by Google Research
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages by Google Research
@@ -168,7 +170,7 @@ Welcome to contribute.
 
 ## Medical
 - [Mind-Video](https://mind-video.com/) - High-quality Video Reconstruction from Brain Activity
-- [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high quality answers to medical questions
+- [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high-quality answers to medical questions
 - [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA) - the official codes for "PMC-LLaMA: Continue Training LLaMA on Medical Papers"
  
 ## Military
@@ -186,7 +188,8 @@ Welcome to contribute.
 ## Games
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
-## Other: Web, presentations
+## Other: Fin, Web, Presentation 
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 - [Framer](https://www.framer.com/) - a tool that constructs a completely unique website for you based on a text prompt
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 - [Gamma](https://gamma.app/) - create visually appealing presentations
