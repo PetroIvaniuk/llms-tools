@@ -14,7 +14,8 @@ Welcome to contribute.
 2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX|||[Bloom](https://huggingface.co/bigscience/bloom)|
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
-- [Open LLM Leaderboard: HuggingFace](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
+- [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
+- [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
 - [Falcon](https://falconllm.tii.ae/), [Demo: HF](https://huggingface.co/blog/falcon) - a new family of state-of-the-art language models created by the Technology Innovation Institute in Abu Dhabi, and released under the Apache 2.0 license
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Repo](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
@@ -26,7 +27,7 @@ Welcome to contribute.
 - [Pi](https://heypi.com/talk) - this bot is designed to be more of a personal assistant
 - [ChatwithData.ai]() - AI tool that lets you extract valuable insights and information from data files effortlessly
 - [Open Assistant](https://open-assistant.io/) - a completely open-source ChatGPT alternative
-- [HuggingChat](https://huggingface.co/chat/) - first open source alternative to ChatGPT Powered by Open Assistant's latest model
+- [HuggingChat](https://huggingface.co/chat/) - first open-source alternative to ChatGPT Powered by Open Assistant's latest model
 - [Claude](https://www.anthropic.com/product) - a next-generation AI assistant for your tasks, no matter the scale
 - [ChatPDF](https://www.chatpdf.com/) - chat with any PDF
 - [PdfGPT](https://pdfgpt.io/) - is a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
@@ -42,12 +43,12 @@ Welcome to contribute.
 ### Tools
 |Text-to-image|Text-to-video|Games|Brand|
 :-:|:-:|:-:|:-:
-[Midjourney](https://www.midjourney.com/)|[GENMO](https://alpha.genmo.ai/)|[Leonardo.Ai](https://leonardo.ai/)|[Flair](https://flair.ai/)
-[Adobe Firefly](https://firefly.adobe.com/)|||[Logolivery](https://logolivery.ai/)|
-[Catbird](https://www.catbird.ai/)|
-[BlueWillow](https://www.bluewillow.ai/)|
-[Lexica](https://lexica.art/)|
-[Craiyon](https://www.craiyon.com/)|
+[Midjourney](https://www.midjourney.com/)|[GENMO](https://alpha.genmo.ai/)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)
+[Adobe Firefly](https://firefly.adobe.com/)||[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|
+[Catbird](https://www.catbird.ai/)||[Didimo](https://www.didimo.co/)|
+[BlueWillow](https://www.bluewillow.ai/)||[Scenario](https://www.scenario.com/) - Assets|
+[Lexica](https://lexica.art/)||[Skybox](https://skybox.blockadelabs.com/) - World-building|
+[Craiyon](https://www.craiyon.com/)||[lumine AI](https://ilumine.ai/)|
 
 - [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
 - [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/) - create descriptive images with shorter prompts and generate worlds within images
@@ -91,9 +92,9 @@ Welcome to contribute.
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Typography
-- [ControlNet](https://huggingface.co/DionTimmer/controlnet_qrcode), [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/) - QR Code Conditioned ControlNet Models for Stable Diffusion. They provide a solid foundation for generating QR code-based artwork that is aesthetically pleasing, while still maintaining the integral QR code shape.
+- [ControlNet](https://huggingface.co/DionTimmer/controlnet_qrcode), [Demo: HF](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator), [How to make a QR code with Stable Diffusion](https://stable-diffusion-art.com/qr-code/) - QR Code Conditioned ControlNet Models for Stable Diffusion. They provide a solid foundation for generating QR code-based artwork that is aesthetically pleasing, while still maintaining the integral QR code shape
 - [Word-As-Image for Semantic Typography](https://wordasimage.github.io/Word-As-Image-Page/) - A few examples of our Word-As-Image illustrations in various fonts and for different textual concept. The semantically adjusted letters are created completely automatically using our method, and can then be used for further creative design as we illustrate here
-- [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate an artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
+- [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Images
 - [Plug-and-Play](https://pnp-diffusion.github.io/), [Code](https://github.com/MichalGeyer/plug-and-play) - a large-scale text-to-image generative models have been a revolutionary breakthrough in the evolution of generative AI, allowing us to synthesize diverse images that convey highly complex visual concepts
@@ -113,11 +114,9 @@ Welcome to contribute.
 
 ## Video & Animation
 - [Klap](https://klap.app/) - a tool that analyzes the video and finds short clips
-- [Lalamu](https://lalamu.studio/demo) - low-quality video lip sync with preselected videos / video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
+- [Lalamu](https://lalamu.studio/demo) - low-quality video lip sync with preselected videos/video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
 - [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
-- [BlockadeLabs](https://skybox.blockadelabs.com/) - AI-powered tools for world-building technowizards
 - [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
-- [Dreamlab](https://dreamlab.gg/) - create Animated Game Sprites in Minutes
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatars from a single photo
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that brings children's drawings to life, by animating characters to move around, by MetaAI
 - [RERENDER A VIDEO](https://anonymous-31415926.github.io/), [Demo: HF](https://huggingface.co/spaces/Anonymous-sub/Rerender) - a novel zero-shot text-guided video-to-video translation framework to adapt image models to videos
@@ -128,6 +127,8 @@ Welcome to contribute.
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [AvatarBooth](https://zeng-yifei.github.io/avatarbooth_page/) - is a text-to-3D model. It creates an animatable 3D model with your word description. Also, it can generate customized model with 4~6 photos from your phone or a character design generated from diffusion model
+ - [Infinigen](https://infinigen.org/), [Code](https://github.com/princeton-vl/infinigen) - a procedural generator of 3D scenes, creating depth maps and labeling every aspect of the world it generates, by Princeton Vision & Learning Lab
  - [USD - Universal Scene Description](https://developer.nvidia.com/usd) - an open and extensible framework and ecosystem for describing, composing, simulating and collaborating within 3D worlds, originally developed by Pixar Animation Studios
  - [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Repo](https://github.com/openai/shap-e) - a conditional generative model for 3D assets, by OpenAI
  - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), [Code](https://github.com/nv-tlabs/nksr)- a novel method for reconstructing a 3D implicit surface from a large-scale, sparse, and noisy point, by NVIDIA
@@ -149,6 +150,7 @@ Welcome to contribute.
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
 
 ## Audio & Speech & Music
+- [Waveformer](https://waveformer.replicate.dev/) - make music from text with MusicGen and Replicate
 - [Voicebox](https://voicebox.metademolab.com/) - Text-Guided Multilingual Universal Speech Generation at Scale, by MetaAI
 - MERT, [Code](https://github.com/yizhilll/MERT), [Demo:HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
 - [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Repo](https://github.com/facebookresearch/audiocraft) -  a simple and controllable model for music generation by MetaAI
@@ -180,16 +182,17 @@ Welcome to contribute.
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Code & Math
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
 - [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for code large language models (Code LLMs) and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
 - [Let’s Verify Step by Step](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision#fn-1) - a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”), by OpenAI
 - [🦍 Gorilla: LLM Connected with Massive APIs](https://gorilla.cs.berkeley.edu/) - a finetuned LLaMA-based model that surpasses GPT-4 on writing API calls
 - [CodeT5 and CodeT5+](https://github.com/salesforce/CodeT5/tree/main) -  models can be deployed as an AI-powered coding assistant to boost the productivity of software developers, by Salesforce
+- [Framer](https://www.framer.com/) - a tool that constructs a completely unique website for you based on a text prompt
+- [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Games
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
-## Other: Fin, Web, Presentation 
+## Other: Fin, Presentation 
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
-- [Framer](https://www.framer.com/) - a tool that constructs a completely unique website for you based on a text prompt
-- [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 - [Gamma](https://gamma.app/) - create visually appealing presentations
