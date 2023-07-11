@@ -21,8 +21,8 @@ Welcome to contribute.
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
 - [GPT4All](https://gpt4all.io/index.html), [Code](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style large language models that run locally on your CPU. No GPU or internet required
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), [Code](https://github.com/tatsu-lab/stanford_alpaca) - a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations. Alpaca behaves qualitatively similarly to OpenAI’s text-davinci-003, while being surprisingly small and easy/cheap to reproduce
-- [Chatbot Arena ](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
-- [AI Playground](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
+- [Chatbot Arena](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
+- [SdkVercelAI](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
 - [MultiModal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model
 - [Pi](https://heypi.com/talk) - this bot is designed to be more of a personal assistant
 - [ChatwithData.ai]() - AI tool that lets you extract valuable insights and information from data files effortlessly
@@ -39,6 +39,10 @@ Welcome to contribute.
 - [LLaMA-Adapter](https://github.com/zrrskywalker/llama-adapter) - a lightweight adaption method for fine-tuning instruction-following LLaMA models 
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 
+## Libraries
+- [LangChain](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
+- [LlamaIndex](https://github.com/jerryjliu/llama_index), [Documentation](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps.
+ 
 ## Tools
 |Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|
 :-:|:-:|:-:|:-:|:-:
@@ -47,7 +51,8 @@ Welcome to contribute.
 [Catbird](https://www.catbird.ai/)|||[Didimo](https://www.didimo.co/)|
 [BlueWillow](https://www.bluewillow.ai/)|||[Scenario](https://www.scenario.com/) - Assets|
 [Lexica](https://lexica.art/)|||[Skybox](https://skybox.blockadelabs.com/) - World-building|
-[Craiyon](https://www.craiyon.com/)|||[lumine AI](https://ilumine.ai/)|
+[Playground](https://playgroundai.com/)|||[lumine AI](https://ilumine.ai/)|
+[Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://oft.wyliu.com/) - a principled finetuning method -- Orthogonal Finetuning (OFT), for adapting text-to-image diffusion models to downstream tasks
@@ -110,10 +115,12 @@ Welcome to contribute.
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope) - a watermark-free Modelscope-based video model optimized for producing high-quality 16:9 compositions and a smooth video output
 - [Klap](https://klap.app/) - a tool that analyzes the video and finds short clips
 - [Lalamu](https://lalamu.studio/demo) - low-quality video lip sync with preselected videos/video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
 - [D-ID](https://www.d-id.com/) - uses generative AI to create customized videos featuring talking avatars at a touch of a button for businesses and creators.
 - [Rooms.xyz](https://rooms.xyz) - create & remix interactive rooms from your browser
+- [Wonder Dynamics](https://wonderdynamics.com/) - an AI tool that automatically animates, lights, and composes CG characters into a live-action scene
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatars from a single photo
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that brings children's drawings to life, by animating characters to move around, by MetaAI
 - [RERENDER A VIDEO](https://anonymous-31415926.github.io/), [Demo: HF](https://huggingface.co/spaces/Anonymous-sub/Rerender) - a novel zero-shot text-guided video-to-video translation framework to adapt image models to videos
@@ -124,7 +131,10 @@ Welcome to contribute.
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
- - [AvatarBooth](https://zeng-yifei.github.io/avatarbooth_page/) - is a text-to-3D model. It creates an animatable 3D model with your word description. Also, it can generate customized model with 4~6 photos from your phone or a character design generated from diffusion model
+ - [CSM](https://3d.csm.ai/) - generate textured 3D assets from videos using the iOS or web app
+ - [MotionGPT: Human Motion as Foreign Language](https://motion-gpt.github.io/) - a unified, versatile, and user-friendly motion-language model to handle multiple motion-relevant tasks
+ - [PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360°](https://sizhean.github.io/panohead) - the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in 360° with diverse appearance and detailed geometry using only in-the-wild unstructured images for training
+ - [AvatarBooth](https://zeng-yifei.github.io/avatarbooth_page/) - a text-to-3D model. It creates an animatable 3D model with your word description. Also, it can generate customized model with 4~6 photos from your phone or a character design generated from diffusion model
  - [Infinigen](https://infinigen.org/), [Code](https://github.com/princeton-vl/infinigen) - a procedural generator of 3D scenes, creating depth maps and labeling every aspect of the world it generates, by Princeton Vision & Learning Lab
  - [USD - Universal Scene Description](https://developer.nvidia.com/usd) - an open and extensible framework and ecosystem for describing, composing, simulating and collaborating within 3D worlds, originally developed by Pixar Animation Studios
  - [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Code](https://github.com/openai/shap-e) - a conditional generative model for 3D assets, by OpenAI
