@@ -14,6 +14,8 @@ Welcome to contribute.
 2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX|||[Bloom](https://huggingface.co/bigscience/bloom)|
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
+- [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of Meta AI’s LLaMA
+- [BuboGPT](https://bubo-gpt.github.io/) - is an advanced Large Language Model (LLM) that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
 - [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
 - [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
 - [Falcon](https://falconllm.tii.ae/), [Demo: HF](https://huggingface.co/blog/falcon) - a new family of state-of-the-art language models created by the Technology Innovation Institute in Abu Dhabi, and released under the Apache 2.0 license
@@ -54,10 +56,12 @@ Welcome to contribute.
 [BlueWillow](https://www.bluewillow.ai/)|||[Scenario](https://www.scenario.com/) - Assets|
 [Lexica](https://lexica.art/)|||[Skybox](https://skybox.blockadelabs.com/) - World-building|
 [Playground](https://playgroundai.com/)|||[lumine AI](https://ilumine.ai/)|
+|[Imgcreator](https://imgcreator.zmo.ai/)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
-- [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon) - pronounced like “chameleon”, a single foundation model that does both text-to-image and image-to-text generation, by Meta AI
+- [HyperDreamBooth](https://hyperdreambooth.github.io/) - a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person, by Google Research
+- [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon) - pronounced like “chameleon”, a single foundation model that does both text-to-image and image-to-text generation, by MetaAI
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://oft.wyliu.com/) - Orthogonal Finetuning (OFT), for adapting text-to-image diffusion models to downstream tasks
 - [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
 - [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/) - create descriptive images with shorter prompts and generate worlds within images
@@ -110,15 +114,20 @@ Welcome to contribute.
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Computer Vision
+- [CoTracker](https://co-tracker.github.io/) - an architecture that jointly tracks multiple points throughout an entire video, by MetaAI
+- [TAPIR](https://deepmind-tapir.github.io/) - a model for Tracking Any Point (TAP) that effectively tracks a query point in a video sequence, by Google DeepMind
 - [I-JEPA](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa), [Code](https://github.com/facebookresearch/ijepa) - Image Joint Embedding Predictive Architecture is a method for self-supervised learning. At a high level, I-JEPA predicts the representations of part of an image from the representations of other parts of the same image
 - [Visual Prompting](https://landing.ai/What-is-visual-prompting/) - an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision
 - [Tracking Everything Everywhere All at Once](https://omnimotion.github.io/) - a new test-time optimization method for estimating dense and long-range motion from a video sequence
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only
-- [Segment Anything Model (SAM)](https://segment-anything.com/) - a new AI model from Meta AI that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training. [Blog: Introducing Segment Anything](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Code](https://github.com/facebookresearch/segment-anything)
+- [Segment Anything Model (SAM)](https://segment-anything.com/) - a new AI model from MetaAI that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training. [Blog: Introducing Segment Anything](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Code](https://github.com/facebookresearch/segment-anything)
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- Video-LLaMA, [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA), [Demo: HF](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA) - a multi-model LLM that achieves video-grounded conversations between humans and computers by connecting language decoder with off-the-shelf unimodal pre-trained models
+- [AnimateDiff](https://animatediff.github.io/) - Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
+- [Animate-A-Story](https://videocrafter.github.io/Animate-A-Story/) - a video storytelling approach which can synthesize high-quality, structure-controlled, and character-controlled videos
 - [Zeroscope](https://huggingface.co/spaces/fffiloni/zeroscope) - a watermark-free Modelscope-based video model optimized for producing high-quality 16:9 compositions and a smooth video output
 - [Klap](https://klap.app/) - a tool that analyzes the video and finds short clips
 - [Lalamu](https://lalamu.studio/demo) - low-quality video lip sync with preselected videos/video templates (take clips from videos, give the video new audio, and then the lips will sync up to that new audio within the video)
@@ -130,11 +139,12 @@ Welcome to contribute.
 - [RERENDER A VIDEO](https://anonymous-31415926.github.io/), [Demo: HF](https://huggingface.co/spaces/Anonymous-sub/Rerender) - a novel zero-shot text-guided video-to-video translation framework to adapt image models to videos
 - Roop, [Code](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training
 - [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
-- [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
+- [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/), [Code](https://github.com/XingangPan/DragGAN), [Demo: HF](https://huggingface.co/spaces/DragGan/DragGan) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
  - [CSM](https://3d.csm.ai/) - generate textured 3D assets from videos using the iOS or web app
  - [MotionGPT: Human Motion as Foreign Language](https://motion-gpt.github.io/) - a unified, versatile, and user-friendly motion-language model to handle multiple motion-relevant tasks
  - [PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360°](https://sizhean.github.io/panohead) - the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in 360° with diverse appearance and detailed geometry using only in-the-wild unstructured images for training
