@@ -15,6 +15,7 @@ Welcome to contribute.
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
 
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of Meta AI’s LLaMA
+- Llama2, [Demo: HF](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI) - a model with 70B parameters fine-tuned for chat instruction, by MetaAI
 - [BuboGPT](https://bubo-gpt.github.io/) - is an advanced Large Language Model (LLM) that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
 - [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
 - [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
@@ -42,6 +43,7 @@ Welcome to contribute.
 ## Libraries
 - [LangChain](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [Documentation](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - a powerful and modular stable diffusion GUI and backend. This UI will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO) - a new optimizer, which fuses the gradient computation and the parameter update in one step to reduce memory usage
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - an extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community
@@ -114,8 +116,10 @@ Welcome to contribute.
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Computer Vision
+- [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://dreamsim-nights.github.io/) -  a new benchmark of synthetic image triplets that span a wide range of mid-level variations, labeled with human similarity judgments
 - [CoTracker](https://co-tracker.github.io/) - an architecture that jointly tracks multiple points throughout an entire video, by MetaAI
 - [TAPIR](https://deepmind-tapir.github.io/) - a model for Tracking Any Point (TAP) that effectively tracks a query point in a video sequence, by Google DeepMind
+- [DreamTeache](https://research.nvidia.com/labs/toronto-ai/DreamTeacher/) - a self-supervised feature representation learning framework that utilizes generative networks for pre-training downstream image backbones, by NVIDIA
 - [I-JEPA](https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa), [Code](https://github.com/facebookresearch/ijepa) - Image Joint Embedding Predictive Architecture is a method for self-supervised learning. At a high level, I-JEPA predicts the representations of part of an image from the representations of other parts of the same image
 - [Visual Prompting](https://landing.ai/What-is-visual-prompting/) - an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision
 - [Tracking Everything Everywhere All at Once](https://omnimotion.github.io/) - a new test-time optimization method for estimating dense and long-range motion from a video sequence
@@ -140,6 +144,7 @@ Welcome to contribute.
 - Roop, [Code](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training
 - [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/), [Code](https://github.com/XingangPan/DragGAN), [Demo: HF](https://huggingface.co/spaces/DragGan/DragGan) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
+- [DragDiffusion](https://yujun-shi.github.io/projects/dragdiffusion.html) - Harnessing Diffusion Models for Interactive Point-based Image Editing
 - [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://in-n-out-3d.github.io/) - our core idea is to represent the face in a video using two neural radiance fields, one for in-distribution and the other for out-of-distribution data, and compose them together for reconstruction
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
@@ -175,7 +180,7 @@ Welcome to contribute.
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
  - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Code](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
- - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communication like laughing, sighing and crying
+ - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created, by [Suno](https://www.suno.ai/). Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communication like laughing, sighing and crying
 - [Whisper](https://openai.com/research/whisper) - an automatic speech recognition (ASR) system, that approaches human level robustness and accuracy on English speech recognition
 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff" by Google Research
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages by Google Research
@@ -184,6 +189,7 @@ Welcome to contribute.
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [LeanDojo](https://leandojo.org/) - set of open-source LLM-based theorem provers without any proprietary datasets and release it under a permissive MIT license to facilitate further research
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
 - [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for code large language models (Code LLMs) and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
 - [Let’s Verify Step by Step](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision#fn-1) - a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”), by OpenAI
@@ -196,6 +202,9 @@ Welcome to contribute.
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
   
 ## Robotics
+- [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
+- [Navigating to Objects in the Real World](https://theophilegervet.github.io/projects/real-world-object-navigation/) - 
+- [RVT: Robotic View Transformer](https://robotic-view-transformer.github.io/) - a multi-view transformer for 3D manipulation that is both scalable and accurate. RVT takes camera images and task language description as inputs and predicts the gripper pose action, by NVIDIA
 - [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with Large Language Models
 - [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, DeepMind
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) - embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
@@ -208,6 +217,7 @@ Welcome to contribute.
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Medical
+- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - reconstruct a 3D scene beyond the camera's line-of-sight using portrait images containing eye reflections
 - [Mind-Video](https://mind-video.com/) - High-quality Video Reconstruction from Brain Activity
 - [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high-quality answers to medical questions
 - [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA) - the official codes for "PMC-LLaMA: Continue Training LLaMA on Medical Papers"
