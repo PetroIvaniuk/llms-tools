@@ -8,22 +8,37 @@ Welcome to contribute.
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E) \
 [State of GPT | Andrej Karpathy](https://youtu.be/bZQun8Y4L2A)\
 [Visualization: The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
-||Google|OpenAI|Meta|EleutherAI|DeepMind|Stability AI||Anthropic|
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-2023|[PALM-2](https://ai.google/discover/palm2)<br>[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)||[Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [Demo: HF](https://huggingface.co/spaces/CarperAI/StableVicuna)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)||[Claude2](claude.ai)<br>[Claude](https://www.anthropic.com/product)|
-2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[ChatGPT](https://openai.com/blog/chatgpt)||GPT-NeoX|||[Bloom](https://huggingface.co/bigscience/bloom)|
-2021|[LaMDA](https://blog.google/technology/ai/lamda/)||||||
+
+<!---
+||Google|OpenAI|Meta|EleutherAI|Stability AI|Anthropic|
+:-:|:-:|:-:|:-:|:-:|:-:|:-:
+2023|[PaLM-2](https://ai.google/discover/palm2)<br>[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)|[GPT-4](https://openai.com/product/gpt-4)|LLAMA2<br>[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)|[Pythia](https://github.com/EleutherAI/pythia)|[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot)<br>[StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|[Claude2](claude.ai)<br>[Claude](https://www.anthropic.com/product)|
+2022|[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)<br>[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)|[ChatGPT](https://openai.com/blog/chatgpt)|Galactica|GPT-NeoX<br>GPT Neo||RL-CAI|
+2021|[LaMDA](https://blog.google/technology/ai/lamda/)|||GPT-J||||
+--->
+
+||2021|2022|2023|
+:-:|:-:|:-:|:-:
+Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html), [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2)|
+OpenAI||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4)|
+Meta||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2](https://huggingface.co/blog/llama2)|
+EleutherAI|GPT-J|GPT-NeoX<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
+Stability AI|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|
+Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](claude.ai)|
+BigScience||[Bloom](https://huggingface.co/bigscience/bloom)||
+DeepMind||Chinchilla||
+Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
+[Berkeley-BAIR](https://bair.berkeley.edu/)|||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
+[Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
+[TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of Meta AI’s LLaMA
-- Llama2, [Demo: HF](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI) - a model with 70B parameters fine-tuned for chat instruction, by MetaAI
 - [BuboGPT](https://bubo-gpt.github.io/) - is an advanced Large Language Model (LLM) that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
 - [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
 - [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
-- [Falcon](https://falconllm.tii.ae/), [Demo: HF](https://huggingface.co/blog/falcon) - a new family of state-of-the-art language models created by the Technology Innovation Institute in Abu Dhabi, and released under the Apache 2.0 license
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Code](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
 - [GPT4All](https://gpt4all.io/index.html), [Code](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style large language models that run locally on your CPU. No GPU or internet required
-- [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), [Code](https://github.com/tatsu-lab/stanford_alpaca) - a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations. Alpaca behaves qualitatively similarly to OpenAI’s text-davinci-003, while being surprisingly small and easy/cheap to reproduce
 - [Chatbot Arena](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
 - [SdkVercelAI](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
 - [MultiModal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model
@@ -43,6 +58,7 @@ Welcome to contribute.
 ## Libraries
 - [LangChain](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [Documentation](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
+- [TorchScale](https://github.com/microsoft/torchscale) - a PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - a powerful and modular stable diffusion GUI and backend. This UI will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO) - a new optimizer, which fuses the gradient computation and the parameter update in one step to reduce memory usage
@@ -149,6 +165,7 @@ Welcome to contribute.
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [AutoRecon](https://zju3dv.github.io/autorecon/) - a framework named for the automated discovery and reconstruction of an object from multi-view images
  - [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
  - [CSM](https://3d.csm.ai/) - generate textured 3D assets from videos using the iOS or web app
  - [MotionGPT: Human Motion as Foreign Language](https://motion-gpt.github.io/) - a unified, versatile, and user-friendly motion-language model to handle multiple motion-relevant tasks
@@ -161,12 +178,13 @@ Welcome to contribute.
  - [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry, by NVIDIA
  - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars, by Microsoft
  - [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
-- [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
-- [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
-- [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
-- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
-- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
-- [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
+ - [Zip-NeRF](https://jonbarron.info/zipnerf/) - a technique that combines mip-NeRF 360 and grid-based models such as Instant NGP
+ - [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
+ - [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
+ - [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
+ - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
+ - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
+ - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
 - [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) - a large language model for speech understanding and generation, by Google
@@ -189,6 +207,8 @@ Welcome to contribute.
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [InterCode](https://intercode-benchmark.github.io/) - framework of interactive coding as a standard reinforcement learning (RL) environment, with code as actions and execution feedback as observations
+- [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/) -  LLMs for program synthesis, by Salesforce
 - [LeanDojo](https://leandojo.org/) - set of open-source LLM-based theorem provers without any proprietary datasets and release it under a permissive MIT license to facilitate further research
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
 - [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for code large language models (Code LLMs) and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
@@ -202,6 +222,7 @@ Welcome to contribute.
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
   
 ## Robotics
+- [Robots That Ask For Help](https://robot-help.github.io/) - a framework for measuring and aligning the uncertainty of LLM-based planners such that they know when they don't know and ask for help when needed
 - [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
 - [Navigating to Objects in the Real World](https://theophilegervet.github.io/projects/real-world-object-navigation/) - 
 - [RVT: Robotic View Transformer](https://robotic-view-transformer.github.io/) - a multi-view transformer for 3D manipulation that is both scalable and accurate. RVT takes camera images and task language description as inputs and predicts the gripper pose action, by NVIDIA
