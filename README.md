@@ -22,8 +22,8 @@ Welcome to contribute.
 Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html), [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2)|
 OpenAI||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4)|
 Meta||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2](https://huggingface.co/blog/llama2)|
-EleutherAI|GPT-J|GPT-NeoX<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
-Stability AI|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)|
+EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
+Stability AI|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models)|
 Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](claude.ai)|
 BigScience||[Bloom](https://huggingface.co/bigscience/bloom)||
 DeepMind||Chinchilla||
@@ -32,13 +32,15 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [Quivr](https://github.com/StanGirard/quivr) - utilizes the power of GenerativeAI to store and retrieve unstructured information
+- [LongLLaMA](https://github.com/CStanKonrad/long_llama) - a LLM capable of handling long contexts of 256k tokens or even more
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of Meta AI’s LLaMA
-- [BuboGPT](https://bubo-gpt.github.io/) - is an advanced Large Language Model (LLM) that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
+- [BuboGPT](https://bubo-gpt.github.io/) - is an advanced LLM that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
 - [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
 - [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Code](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
-- [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models1 all running locally on your Mac
-- [GPT4All](https://gpt4all.io/index.html), [Code](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style large language models that run locally on your CPU. No GPU or internet required
+- [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models all running locally on your CPU
+- [GPT4All](https://gpt4all.io/index.html), [Code](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style LLM that run locally on your CPU
 - [Chatbot Arena](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
 - [SdkVercelAI](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
 - [MultiModal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model
@@ -58,6 +60,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 ## Libraries
 - [LangChain](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [Documentation](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - the simplest, fastest repository for training/finetuning medium-sized GPTs
 - [TorchScale](https://github.com/microsoft/torchscale) - a PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - a powerful and modular stable diffusion GUI and backend. This UI will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
@@ -70,7 +73,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 :-:|:-:|:-:|:-:|:-:
 [Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[GENMO](https://alpha.genmo.ai/)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)
 [Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|
-[Catbird](https://www.catbird.ai/)|||[Didimo](https://www.didimo.co/)|
+[Catbird](https://www.catbird.ai/)||[Invidio](https://invideo.io/)|[Didimo](https://www.didimo.co/)|
 [BlueWillow](https://www.bluewillow.ai/)|||[Scenario](https://www.scenario.com/) - Assets|
 [Lexica](https://lexica.art/)|||[Skybox](https://skybox.blockadelabs.com/) - World-building|
 [Playground](https://playgroundai.com/)|||[lumine AI](https://ilumine.ai/)|
@@ -78,6 +81,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
+- [FABRIC](https://sd-fabric.github.io/) - Feedback via Attention-Based Reference Image Conditioning - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion.
 - [HyperDreamBooth](https://hyperdreambooth.github.io/) - a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person, by Google Research
 - [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon) - pronounced like “chameleon”, a single foundation model that does both text-to-image and image-to-text generation, by MetaAI
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://oft.wyliu.com/) - Orthogonal Finetuning (OFT), for adapting text-to-image diffusion models to downstream tasks
@@ -124,6 +128,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Images
+- [AnyDoor: Zero-shot Object-level Image Customization](https://damo-vilab.github.io/AnyDoor-Page/) - a diffusion-based image generator with the power to move target objects to new scenes at user-specified locations in a harmonious way
 - [Matting Anything](https://chrisjuniorli.github.io/project/Matting-Anything/), [Code](https://github.com/SHI-Labs/Matting-Anything), [Demo: HF](https://huggingface.co/spaces/shi-labs/Matting-Anything) - an efficient and versatile framework for estimating the alpha matte of any instance in an image with user-prompt guidance
 - [Plug-and-Play](https://pnp-diffusion.github.io/), [Code](https://github.com/MichalGeyer/plug-and-play) - a large-scale text-to-image generative models have been a revolutionary breakthrough in the evolution of generative AI, allowing us to synthesize diverse images that convey highly complex visual concepts
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) - a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use, by NVIDIA
@@ -145,6 +150,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [PlazmaPunk](https://www.plazmapunk.com/) - create your own music video with the power of AI
 - Video-LLaMA, [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA), [Demo: HF](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA) - a multi-model LLM that achieves video-grounded conversations between humans and computers by connecting language decoder with off-the-shelf unimodal pre-trained models
 - [AnimateDiff](https://animatediff.github.io/) - Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
 - [Animate-A-Story](https://videocrafter.github.io/Animate-A-Story/) - a video storytelling approach which can synthesize high-quality, structure-controlled, and character-controlled videos
@@ -167,7 +173,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 ## 3D
  - [AutoRecon](https://zju3dv.github.io/autorecon/) - a framework named for the automated discovery and reconstruction of an object from multi-view images
  - [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
- - [CSM](https://3d.csm.ai/) - generate textured 3D assets from videos using the iOS or web app
+ - [CSM (Common Sense Machines)](https://3d.csm.ai/) - generate your own textured 3D assets
  - [MotionGPT: Human Motion as Foreign Language](https://motion-gpt.github.io/) - a unified, versatile, and user-friendly motion-language model to handle multiple motion-relevant tasks
  - [PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360°](https://sizhean.github.io/panohead) - the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in 360° with diverse appearance and detailed geometry using only in-the-wild unstructured images for training
  - [AvatarBooth](https://zeng-yifei.github.io/avatarbooth_page/) - a text-to-3D model. It creates an animatable 3D model with your word description. Also, it can generate customized model with 4~6 photos from your phone or a character design generated from diffusion model
@@ -187,10 +193,14 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
-- [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) - a large language model for speech understanding and generation, by Google
+- [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/) - our simple framework that generates high-quality, realistic audio and music from text-based user inputs after training on raw audio signals as opposed to MIDI or piano rolls, by MetaAI
+  - [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Code](https://github.com/facebookresearch/audiocraft) - a simple and controllable model for music generation
+  - [AudioGen](https://felixkreuk.github.io/audiogen/) - an auto-regressive generative model that generates audio samples conditioned on text inputs
+  - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/) - a neural network that is trained end to end to reconstruct the input signal
+- [MuAViC](https://ai.facebook.com/blog/muavic-audio-visual-speech-translation-benchmark/) - a Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation, by MetaAI
 - [Voicebox](https://voicebox.metademolab.com/) - Text-Guided Multilingual Universal Speech Generation at Scale, by MetaAI
+- [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) - a large language model for speech understanding and generation, by Google
 - MERT, [Code](https://github.com/yizhilll/MERT), [Demo: HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
-- [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Code](https://github.com/facebookresearch/audiocraft) -  a simple and controllable model for music generation by MetaAI
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLabs
 - [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
 - [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software. ElevenLabs brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling
@@ -198,15 +208,16 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
  - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Code](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
+ - [Chirp](https://suno-ai.notion.site/Chirp-Examples-f05351485da74d769d6183220a6e5da7) - music model, generates realistic audio - including speech, music and sound effects
  - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created, by [Suno](https://www.suno.ai/). Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communication like laughing, sighing and crying
 - [Whisper](https://openai.com/research/whisper) - an automatic speech recognition (ASR) system, that approaches human level robustness and accuracy on English speech recognition
-- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff" by Google Research
-- [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages by Google Research
-- [MuAViC](https://ai.facebook.com/blog/muavic-audio-visual-speech-translation-benchmark/) - a Multilingual Audio-Visual Corpus for Robust Speech Recognition and Robust Speech-to-Text Translation by MetaAI
+- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff", by Google Research
+- [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages, by Google Research
 - [Musicfy](https://www.musicfy.lol/) - Music like you've never heard. Create and discover AI covers of your favorite songs 
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [Teaching Arithmetic to Small Transformers](https://github.com/lee-ny/teaching_arithmetic) - small transformers, trained from random initialization, can efficiently learn arithmetic operations such as addition, multiplication, and elementary functions like square root, using the next-token prediction objective
 - [InterCode](https://intercode-benchmark.github.io/) - framework of interactive coding as a standard reinforcement learning (RL) environment, with code as actions and execution feedback as observations
 - [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/) -  LLMs for program synthesis, by Salesforce
 - [LeanDojo](https://leandojo.org/) - set of open-source LLM-based theorem provers without any proprietary datasets and release it under a permissive MIT license to facilitate further research
@@ -222,6 +233,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
   
 ## Robotics
+- [RT-2](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control
 - [Robots That Ask For Help](https://robot-help.github.io/) - a framework for measuring and aligning the uncertainty of LLM-based planners such that they know when they don't know and ask for help when needed
 - [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
 - [Navigating to Objects in the Real World](https://theophilegervet.github.io/projects/real-world-object-navigation/) - 
