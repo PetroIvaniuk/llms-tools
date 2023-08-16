@@ -21,7 +21,7 @@ Welcome to contribute.
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html), [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2)|
 OpenAI||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4)|
-Meta||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2](https://huggingface.co/blog/llama2)|
+Meta||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2)|
 EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
 Stability AI|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models)|
 Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](claude.ai)|
@@ -32,6 +32,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [FlashAttention](https://princeton-nlp.github.io/flash-atttention-2/) - an algorithm to speed up attention and reduce its memory footprint—without any approximation
 - [Quivr](https://github.com/StanGirard/quivr) - utilizes the power of GenerativeAI to store and retrieve unstructured information
 - [LongLLaMA](https://github.com/CStanKonrad/long_llama) - a LLM capable of handling long contexts of 256k tokens or even more
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of Meta AI’s LLaMA
@@ -81,6 +82,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
+- [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
 - [FABRIC](https://sd-fabric.github.io/) - Feedback via Attention-Based Reference Image Conditioning - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion.
 - [HyperDreamBooth](https://hyperdreambooth.github.io/) - a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person, by Google Research
 - [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon) - pronounced like “chameleon”, a single foundation model that does both text-to-image and image-to-text generation, by MetaAI
@@ -128,6 +130,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Images
+- [Interpolating between Images with Diffusion Models](https://clintonjwang.github.io/interpolation) - a method for zero-shot controllable interpolation using latent diffusion models
 - [AnyDoor: Zero-shot Object-level Image Customization](https://damo-vilab.github.io/AnyDoor-Page/) - a diffusion-based image generator with the power to move target objects to new scenes at user-specified locations in a harmonious way
 - [Matting Anything](https://chrisjuniorli.github.io/project/Matting-Anything/), [Code](https://github.com/SHI-Labs/Matting-Anything), [Demo: HF](https://huggingface.co/spaces/shi-labs/Matting-Anything) - an efficient and versatile framework for estimating the alpha matte of any instance in an image with user-prompt guidance
 - [Plug-and-Play](https://pnp-diffusion.github.io/), [Code](https://github.com/MichalGeyer/plug-and-play) - a large-scale text-to-image generative models have been a revolutionary breakthrough in the evolution of generative AI, allowing us to synthesize diverse images that convey highly complex visual concepts
@@ -150,6 +153,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [To Infinity and Beyond](https://fablestudio.github.io/showrunner-agents/) - an approach to generating high-quality episodic content for IP's (Intellectual Property) using LLMs, custom state-of-the art diffusion models and our multi-agent simulation for contextualization, story progression and behavioral control
 - [PlazmaPunk](https://www.plazmapunk.com/) - create your own music video with the power of AI
 - Video-LLaMA, [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA), [Demo: HF](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA) - a multi-model LLM that achieves video-grounded conversations between humans and computers by connecting language decoder with off-the-shelf unimodal pre-trained models
 - [AnimateDiff](https://animatediff.github.io/) - Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
@@ -230,9 +234,12 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Games
+- [STEVE-1](https://sites.google.com/view/steve-1) - a Generative Model for Text-to-Behavior in Minecraft
+- [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information) - DeepNash, an AI agent that learned the game from scratch to a human expert level by playing against itself
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
   
 ## Robotics
+- [VIMA](https://vimalabs.github.io/) - General Robot Manipulation with Multimodal Prompts
 - [RT-2](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control
 - [Robots That Ask For Help](https://robot-help.github.io/) - a framework for measuring and aligning the uncertainty of LLM-based planners such that they know when they don't know and ask for help when needed
 - [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
@@ -250,6 +257,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Medical
+- [Brain2Music](https://google-research.github.io/seanet/brain2music/) - Reconstructing Music from Human Brain Activity
 - [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - reconstruct a 3D scene beyond the camera's line-of-sight using portrait images containing eye reflections
 - [Mind-Video](https://mind-video.com/) - High-quality Video Reconstruction from Brain Activity
 - [Med-PaLM](https://sites.research.google/med-palm/) - a large language model (LLM) designed to provide high-quality answers to medical questions
