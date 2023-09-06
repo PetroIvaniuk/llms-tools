@@ -23,7 +23,7 @@ Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googl
 OpenAI||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4)|
 Meta||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2)|
 EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
-Stability AI|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models)|
+[Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models), [Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village)|
 Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](claude.ai)|
 BigScience||[Bloom](https://huggingface.co/bigscience/bloom)||
 DeepMind||Chinchilla||
@@ -32,6 +32,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 - [FlashAttention](https://princeton-nlp.github.io/flash-atttention-2/) - an algorithm to speed up attention and reduce its memory footprint—without any approximation
 - [Quivr](https://github.com/StanGirard/quivr) - utilizes the power of GenerativeAI to store and retrieve unstructured information
 - [LongLLaMA](https://github.com/CStanKonrad/long_llama) - a LLM capable of handling long contexts of 256k tokens or even more
@@ -62,8 +63,10 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [LangChain](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [Documentation](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - the simplest, fastest repository for training/finetuning medium-sized GPTs
-- [TorchScale](https://github.com/microsoft/torchscale) - a PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively.
+- [TorchScale](https://github.com/microsoft/torchscale) - a PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively
+- [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - an implementation of Stable Diffusion, the open source text-to-image and image-to-image generator
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - a powerful and modular stable diffusion GUI and backend. This UI will let you design and execute advanced stable diffusion pipelines using a graph/nodes/flowchart based interface
+- [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO) - a new optimizer, which fuses the gradient computation and the parameter update in one step to reduce memory usage
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - an extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community
@@ -82,6 +85,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
+- [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
+- [L-Eval](https://github.com/OpenLMLab/LEval) - a comprehensive long-context language models evaluation suite with 18 long document tasks across multiple domains that require reasoning over long texts, including summarization, question answering, in-context learning with long CoT examples, topic retrieval, and paper writing assistance
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
 - [FABRIC](https://sd-fabric.github.io/) - Feedback via Attention-Based Reference Image Conditioning - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion.
 - [HyperDreamBooth](https://hyperdreambooth.github.io/) - a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person, by Google Research
@@ -89,7 +94,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://oft.wyliu.com/) - Orthogonal Finetuning (OFT), for adapting text-to-image diffusion models to downstream tasks
 - [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
 - [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/) - create descriptive images with shorter prompts and generate worlds within images
-- [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF) - is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI, together with its multimodal AI research lab DeepFloyd
+- [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF) - is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI together with its multimodal AI research lab DeepFloyd
 - [CLIP](https://openai.com/research/clip) - a neural network which efficiently learns visual concepts from natural language supervision, by OpenAI
 - [DALL·E 2](https://openai.com/dall-e-2) - an AI system that can create realistic images and art from a description in natural language, by OpenAI
 - [DALL·E](https://openai.com/research/dall-e) - a version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs, by OpenAI
@@ -130,6 +135,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Images
+- [Textify](https://textify.storia.ai/) - a tool for replacing the gibberish in AI-generated images with your desired text
 - [Interpolating between Images with Diffusion Models](https://clintonjwang.github.io/interpolation) - a method for zero-shot controllable interpolation using latent diffusion models
 - [AnyDoor: Zero-shot Object-level Image Customization](https://damo-vilab.github.io/AnyDoor-Page/) - a diffusion-based image generator with the power to move target objects to new scenes at user-specified locations in a harmonious way
 - [Matting Anything](https://chrisjuniorli.github.io/project/Matting-Anything/), [Code](https://github.com/SHI-Labs/Matting-Anything), [Demo: HF](https://huggingface.co/spaces/shi-labs/Matting-Anything) - an efficient and versatile framework for estimating the alpha matte of any instance in an image with user-prompt guidance
@@ -140,6 +146,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Computer Vision
+- [Tracking Anything in High Quality](https://github.com/jiawen-zhu/HQTrack) - a framework for high performance video object tracking and segmentation
 - [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://dreamsim-nights.github.io/) -  a new benchmark of synthetic image triplets that span a wide range of mid-level variations, labeled with human similarity judgments
 - [CoTracker](https://co-tracker.github.io/) - an architecture that jointly tracks multiple points throughout an entire video, by MetaAI
 - [TAPIR](https://deepmind-tapir.github.io/) - a model for Tracking Any Point (TAP) that effectively tracks a query point in a video sequence, by Google DeepMind
@@ -197,7 +204,12 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
-- [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/) - our simple framework that generates high-quality, realistic audio and music from text-based user inputs after training on raw audio signals as opposed to MIDI or piano rolls, by MetaAI
+- [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/) - a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text: automatic speech recognition, speech-to-text and speech-to-speech translation, text-to-text and text-to-speech translation
+- [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software
+  - [Eleven Multilingual v2](https://elevenlabs.io/blog/multilingualv2/) - a Foundational AI Speech Model for Nearly 30 Languages
+  - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there
+  - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLabs
+- [AudioCraft](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/) - simple framework that generates high-quality, realistic audio and music from text-based user inputs after training on raw audio signals as opposed to MIDI or piano rolls, by MetaAI
   - [MusicGen](https://ai.honu.io/papers/musicgen/), [Demo: HF](https://huggingface.co/spaces/facebook/MusicGen), [Code](https://github.com/facebookresearch/audiocraft) - a simple and controllable model for music generation
   - [AudioGen](https://felixkreuk.github.io/audiogen/) - an auto-regressive generative model that generates audio samples conditioned on text inputs
   - [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/) - a neural network that is trained end to end to reconstruct the input signal
@@ -205,13 +217,10 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voicebox](https://voicebox.metademolab.com/) - Text-Guided Multilingual Universal Speech Generation at Scale, by MetaAI
 - [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) - a large language model for speech understanding and generation, by Google
 - MERT, [Code](https://github.com/yizhilll/MERT), [Demo: HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
-- [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLabs
 - [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
-- [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software. ElevenLabs brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling
 - [SadTalker: Demo](https://huggingface.co/spaces/vinthony/SadTalker) - Stylized Audio-Driven Single Image Talking Face Animation
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
  - AudioGPT, [Demo: HuggingFace](https://huggingface.co/spaces/AIGC-Audio/AudioGPT), [Code](https://github.com/AIGC-Audio/AudioGPT) - Understanding and Generating Speech, Music, Sound, and Talking Head
- - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there. Our deep learning model renders human intonation and inflections with unprecedented fidelity and adjusts delivery based on context
  - [Chirp](https://suno-ai.notion.site/Chirp-Examples-f05351485da74d769d6183220a6e5da7) - music model, generates realistic audio - including speech, music and sound effects
  - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created, by [Suno](https://www.suno.ai/). Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communication like laughing, sighing and crying
 - [Whisper](https://openai.com/research/whisper) - an automatic speech recognition (ASR) system, that approaches human level robustness and accuracy on English speech recognition
@@ -221,6 +230,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
+- [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) - a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts, by Meta AI
+- [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding) - LLM generative AI product for coding designed to assist programmers with their daily work, by Stability AI
 - [Teaching Arithmetic to Small Transformers](https://github.com/lee-ny/teaching_arithmetic) - small transformers, trained from random initialization, can efficiently learn arithmetic operations such as addition, multiplication, and elementary functions like square root, using the next-token prediction objective
 - [InterCode](https://intercode-benchmark.github.io/) - framework of interactive coding as a standard reinforcement learning (RL) environment, with code as actions and execution feedback as observations
 - [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/) -  LLMs for program synthesis, by Salesforce
@@ -234,6 +246,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Games
+- [AI Town](https://github.com/a16z-infra/AI-town) - a deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents) - contains our core simulation module for generative agents—computational agents that simulate believable human behaviors—and their game environment
 - [STEVE-1](https://sites.google.com/view/steve-1) - a Generative Model for Text-to-Behavior in Minecraft
 - [Mastering Stratego](https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information) - DeepNash, an AI agent that learned the game from scratch to a human expert level by playing against itself
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
