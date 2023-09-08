@@ -32,6 +32,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [ToolBench](https://github.com/OpenBMB/ToolBench) - open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability
+- [OPENFLAMINGO V2](https://laion.ai/blog/open-flamingo-v2/) - an open-source effort to replicate DeepMind's Flamingo models
+- [MetaGPT](https://github.com/geekan/metagpt) - a framework involving LLM-based multi-agents that encodes human standardized operating procedures (SOPs) to extend complex problem-solving capabilities that mimic efficient human workflows
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 - [FlashAttention](https://princeton-nlp.github.io/flash-atttention-2/) - an algorithm to speed up attention and reduce its memory footprint—without any approximation
 - [Quivr](https://github.com/StanGirard/quivr) - utilizes the power of GenerativeAI to store and retrieve unstructured information
@@ -85,6 +88,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
+- [ConceptLab](https://kfirgoldberg.github.io/ConceptLab/) - text-to-image generative models have enabled us to transform our words into vibrant, captivating imagery
+- [IP-Adapter](https://ip-adapter.github.io/) - Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
+- [MATCHAI](https://www.color.io/) - a powerful web app that can copy the color grading from images so you can apply it to your own
 - [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
 - [L-Eval](https://github.com/OpenLMLab/LEval) - a comprehensive long-context language models evaluation suite with 18 long document tasks across multiple domains that require reasoning over long texts, including summarization, question answering, in-context learning with long CoT examples, topic retrieval, and paper writing assistance
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
@@ -146,6 +152,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Computer Vision
+- [FACET (FAirness in Computer Vision EvaluaTion)](https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation) - a new comprehensive benchmark for evaluating the fairness of computer vision models across classification, detection, instance segmentation, and visual grounding tasks
 - [Tracking Anything in High Quality](https://github.com/jiawen-zhu/HQTrack) - a framework for high performance video object tracking and segmentation
 - [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://dreamsim-nights.github.io/) -  a new benchmark of synthetic image triplets that span a wide range of mid-level variations, labeled with human similarity judgments
 - [CoTracker](https://co-tracker.github.io/) - an architecture that jointly tracks multiple points throughout an entire video, by MetaAI
@@ -160,6 +167,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [CoDeF](https://qiuyu96.github.io/CoDeF/) - Content Deformation Fields for Temporally Consistent Video Processing
+- [MagicEdit](https://magic-edit.github.io/) - supports various editing applications, including video stylization, local editing, video-MagicMix and video outpainting
 - [To Infinity and Beyond](https://fablestudio.github.io/showrunner-agents/) - an approach to generating high-quality episodic content for IP's (Intellectual Property) using LLMs, custom state-of-the art diffusion models and our multi-agent simulation for contextualization, story progression and behavioral control
 - [PlazmaPunk](https://www.plazmapunk.com/) - create your own music video with the power of AI
 - Video-LLaMA, [Code](https://github.com/DAMO-NLP-SG/Video-LLaMA), [Demo: HF](https://huggingface.co/spaces/DAMO-NLP-SG/Video-LLaMA) - a multi-model LLM that achieves video-grounded conversations between humans and computers by connecting language decoder with off-the-shelf unimodal pre-trained models
@@ -194,6 +203,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), [Code](https://github.com/nv-tlabs/nksr)- a novel method for reconstructing a 3D implicit surface from a large-scale, sparse, and noisy point, by NVIDIA
  - [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry, by NVIDIA
  - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars, by Microsoft
+ - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) - three key elements that allow us to achieve state-of-the-art visual quality while maintaining competitive training times and importantly allow high-quality real-time (≥ 100 fps) novel-view synthesis at 1080p resolution
  - [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
  - [Zip-NeRF](https://jonbarron.info/zipnerf/) - a technique that combines mip-NeRF 360 and grid-based models such as Instant NGP
  - [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
@@ -204,6 +214,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
+- [Vscoped](https://vscoped.com/) - effortlessly transcribe your video content to boost click-through rates and watch time
 - [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/) - a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text: automatic speech recognition, speech-to-text and speech-to-speech translation, text-to-text and text-to-speech translation
 - [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software
   - [Eleven Multilingual v2](https://elevenlabs.io/blog/multilingualv2/) - a Foundational AI Speech Model for Nearly 30 Languages
@@ -271,6 +282,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Medical
+- [Med-Flamingo](https://huggingface.co/med-flamingo/med-flamingo) - a medical vision-language model with multimodal in-context learning abilities
 - [Brain2Music](https://google-research.github.io/seanet/brain2music/) - Reconstructing Music from Human Brain Activity
 - [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - reconstruct a 3D scene beyond the camera's line-of-sight using portrait images containing eye reflections
 - [Mind-Video](https://mind-video.com/) - High-quality Video Reconstruction from Brain Activity
