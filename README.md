@@ -32,6 +32,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [AgentBench](https://github.com/THUDM/AgentBench) - the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments
+- [Platypus](https://platypus-llm.github.io/) - a family of fine-tuned and merged Large Language Models (LLMs) that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability
 - [OPENFLAMINGO V2](https://laion.ai/blog/open-flamingo-v2/) - an open-source effort to replicate DeepMind's Flamingo models
 - [MetaGPT](https://github.com/geekan/metagpt) - a framework involving LLM-based multi-agents that encodes human standardized operating procedures (SOPs) to extend complex problem-solving capabilities that mimic efficient human workflows
@@ -63,8 +65,10 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [LLaMA-Adapter](https://github.com/zrrskywalker/llama-adapter) - a lightweight adaption method for fine-tuning instruction-following LLaMA models 
 
 ## Libraries
-- [LangChain](https://github.com/hwchase17/langchain), [Documentation](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
-- [LlamaIndex](https://github.com/jerryjliu/llama_index), [Documentation](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
+- [LangChain](https://github.com/hwchase17/langchain), [docs](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
+- [LlamaIndex](https://github.com/jerryjliu/llama_index), [docs](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
+- [outlines](https://github.com/outlines-dev/outlines), [docs](https://outlines-dev.github.io/outlines/) - a Python library to write reliable programs for interactions with generative models: language models, diffusers, multimodal models, classifiers, etc
+- [guidance](https://github.com/guidance-ai/guidance) - interleave generation, prompting, and logical control into a single continuous flow matching how the language model actually processes the text
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - the simplest, fastest repository for training/finetuning medium-sized GPTs
 - [TorchScale](https://github.com/microsoft/torchscale) - a PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - an implementation of Stable Diffusion, the open source text-to-image and image-to-image generator
@@ -152,6 +156,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Computer Vision
+- [PUG (Photorealistic Unreal Graphics)](https://pug.metademolab.com/) - 3 datasets for representation learning research
 - [FACET (FAirness in Computer Vision EvaluaTion)](https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation) - a new comprehensive benchmark for evaluating the fairness of computer vision models across classification, detection, instance segmentation, and visual grounding tasks
 - [Tracking Anything in High Quality](https://github.com/jiawen-zhu/HQTrack) - a framework for high performance video object tracking and segmentation
 - [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://dreamsim-nights.github.io/) -  a new benchmark of synthetic image triplets that span a wide range of mid-level variations, labeled with human similarity judgments
@@ -167,6 +172,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Motrica](https://www.motorica.ai/) - technologies and tools for advanced character animation
 - [CoDeF](https://qiuyu96.github.io/CoDeF/) - Content Deformation Fields for Temporally Consistent Video Processing
 - [MagicEdit](https://magic-edit.github.io/) - supports various editing applications, including video stylization, local editing, video-MagicMix and video outpainting
 - [To Infinity and Beyond](https://fablestudio.github.io/showrunner-agents/) - an approach to generating high-quality episodic content for IP's (Intellectual Property) using LLMs, custom state-of-the art diffusion models and our multi-agent simulation for contextualization, story progression and behavioral control
@@ -241,6 +247,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
 - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) - a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts, by Meta AI
 - [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding) - LLM generative AI product for coding designed to assist programmers with their daily work, by Stability AI
