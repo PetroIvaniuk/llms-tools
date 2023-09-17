@@ -32,6 +32,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [Prompt2Model](https://github.com/neulab/prompt2model) - a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment
+- [Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/) - a new family of models that are finetuned from base LLaMA and LLaMA2
 - [AgentBench](https://github.com/THUDM/AgentBench) - the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments
 - [Platypus](https://platypus-llm.github.io/) - a family of fine-tuned and merged Large Language Models (LLMs) that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability
@@ -92,7 +94,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
-- [ConceptLab](https://kfirgoldberg.github.io/ConceptLab/) - text-to-image generative models have enabled us to transform our words into vibrant, captivating imagery
+- [Würstchen](https://huggingface.co/blog/wuerstchen) - Fast Diffusion for Image Generation
+- [ExactlyAI](https://exactly.ai) - create images in seconds with an AI that understands your style
+- [ConceptLab](https://kfirgoldberg.github.io/ConceptLab/) - generative models have enabled us to transform our words into vibrant, captivating imagery
 - [IP-Adapter](https://ip-adapter.github.io/) - Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
 - [MATCHAI](https://www.color.io/) - a powerful web app that can copy the color grading from images so you can apply it to your own
 - [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
@@ -197,6 +201,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [HiFA](https://hifa-team.github.io/HiFA-site/) - High-fidelity Text-to-3D with Advanced Diffusion Guidance
  - [AutoRecon](https://zju3dv.github.io/autorecon/) - a framework named for the automated discovery and reconstruction of an object from multi-view images
  - [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
  - [CSM (Common Sense Machines)](https://3d.csm.ai/) - generate your own textured 3D assets
@@ -220,6 +225,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
+- [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music) - AI product for music and sound generation
 - [Vscoped](https://vscoped.com/) - effortlessly transcribe your video content to boost click-through rates and watch time
 - [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/) - a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text: automatic speech recognition, speech-to-text and speech-to-speech translation, text-to-text and text-to-speech translation
 - [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software
@@ -247,6 +253,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [v0](https://v0.dev/) - a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS that people can use in their projects
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
 - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) - a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts, by Meta AI
