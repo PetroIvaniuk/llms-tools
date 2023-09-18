@@ -34,10 +34,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 
 - [Prompt2Model](https://github.com/neulab/prompt2model) - a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment
 - [Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/) - a new family of models that are finetuned from base LLaMA and LLaMA2
-- [AgentBench](https://github.com/THUDM/AgentBench) - the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments
-- [Platypus](https://platypus-llm.github.io/) - a family of fine-tuned and merged Large Language Models (LLMs) that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability
-- [OPENFLAMINGO V2](https://laion.ai/blog/open-flamingo-v2/) - an open-source effort to replicate DeepMind's Flamingo models
+- [Platypus](https://platypus-llm.github.io/) - a family of fine-tuned and merged Large Language Models (LLMs) that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work
+- [OpenFlamingo V2](https://laion.ai/blog/open-flamingo-v2/) - an open-source effort to replicate DeepMind's Flamingo models
 - [MetaGPT](https://github.com/geekan/metagpt) - a framework involving LLM-based multi-agents that encodes human standardized operating procedures (SOPs) to extend complex problem-solving capabilities that mimic efficient human workflows
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 - [FlashAttention](https://princeton-nlp.github.io/flash-atttention-2/) - an algorithm to speed up attention and reduce its memory footprint—without any approximation
@@ -46,11 +45,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of Meta AI’s LLaMA
 - [BuboGPT](https://bubo-gpt.github.io/) - is an advanced LLM that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
 - [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
-- [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
 - [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Code](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models all running locally on your CPU
 - [GPT4All](https://gpt4all.io/index.html), [Code](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style LLM that run locally on your CPU
-- [Chatbot Arena](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
 - [SdkVercelAI](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
 - [MultiModal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - a vision and language model for multi-round dialogue with humans; the model is fine-tuned from OpenFlamingo, with LoRA added in the cross-attention and self-attention parts of the language model
 - [Pi](https://heypi.com/talk) - this bot is designed to be more of a personal assistant
@@ -66,6 +63,14 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 - [LLaMA-Adapter](https://github.com/zrrskywalker/llama-adapter) - a lightweight adaption method for fine-tuning instruction-following LLaMA models 
 
+## Evaluation
+- [Arthur Bench](https://www.arthur.ai/blog/introducing-arthur-bench) - an open-source evaluation tool for comparing LLMs, prompts, and hyperparameters for generative text models
+- [AgentBench](https://github.com/THUDM/AgentBench) - the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments
+- [L-Eval](https://github.com/OpenLMLab/LEval) - a comprehensive long-context language models evaluation suite with 18 long document tasks across multiple domains that require reasoning over long texts, including summarization, question answering, in-context learning with long CoT examples, topic retrieval, and paper writing assistance
+- [OpenICL](https://github.com/Shark-NLP/OpenICL) - an open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
+- [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
+- [Chatbot Arena](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
+
 ## Libraries
 - [LangChain](https://github.com/hwchase17/langchain), [docs](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [docs](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
@@ -79,7 +84,6 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO) - a new optimizer, which fuses the gradient computation and the parameter update in one step to reduce memory usage
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - an extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community
-- [OpenICL](https://github.com/Shark-NLP/OpenICL) - a new open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
  
 ## Tools
 |Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|
@@ -100,7 +104,6 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [IP-Adapter](https://ip-adapter.github.io/) - Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
 - [MATCHAI](https://www.color.io/) - a powerful web app that can copy the color grading from images so you can apply it to your own
 - [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
-- [L-Eval](https://github.com/OpenLMLab/LEval) - a comprehensive long-context language models evaluation suite with 18 long document tasks across multiple domains that require reasoning over long texts, including summarization, question answering, in-context learning with long CoT examples, topic retrieval, and paper writing assistance
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
 - [FABRIC](https://sd-fabric.github.io/) - Feedback via Attention-Based Reference Image Conditioning - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion.
 - [HyperDreamBooth](https://hyperdreambooth.github.io/) - a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person, by Google Research
@@ -149,6 +152,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Prismer: A Vision-Language Model with Multi-Modal Experts](https://shikun.io/projects/prismer) - a data- and parameter-efficient vision-language model that leverages an ensemble of diverse, pre-trained domain experts
 
 ## Images
+- [IDEFICS](https://huggingface.co/blog/idefics) - an open-access visual language model based on Flamingo. The model accepts arbitrary sequences of image and text inputs and produces text outputs, aiming to bring transparency to AI systems and serve as a foundation for open research in multimodal AI systems
 - [Textify](https://textify.storia.ai/) - a tool for replacing the gibberish in AI-generated images with your desired text
 - [Interpolating between Images with Diffusion Models](https://clintonjwang.github.io/interpolation) - a method for zero-shot controllable interpolation using latent diffusion models
 - [AnyDoor: Zero-shot Object-level Image Customization](https://damo-vilab.github.io/AnyDoor-Page/) - a diffusion-based image generator with the power to move target objects to new scenes at user-specified locations in a harmonious way
@@ -201,6 +205,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [MAV3D (Make-A-Video3D)](https://make-a-video3d.github.io/) - a method for generating three-dimensional dynamic scenes from text descriptions. Our approach uses a 4D dynamic Neural Radiance Field (NeRF), which is optimized for scene appearance, density, and motion consistency by querying a Text-to-Video (T2V) diffusion-based model
  - [HiFA](https://hifa-team.github.io/HiFA-site/) - High-fidelity Text-to-3D with Advanced Diffusion Guidance
  - [AutoRecon](https://zju3dv.github.io/autorecon/) - a framework named for the automated discovery and reconstruction of an object from multi-view images
  - [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
@@ -253,6 +258,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [Defog](https://defog.ai/blog/open-sourcing-sqlcoder/) - a state-of-the-art LLM for converting natural language questions to SQL queries, which outperforms major open-source models and slightly outperforms gpt-3
 - [v0](https://v0.dev/) - a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS that people can use in their projects
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
@@ -278,6 +284,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
   
 ## Robotics
+- [Language to rewards for robotic skill synthesis](https://blog.research.google/2023/08/language-to-rewards-for-robotic-skill.html) - an approach to teaching robots novel actions through natural language input is proposed, using reward functions as an interface to bridge the gap between language and low-level robot actions
 - [VIMA](https://vimalabs.github.io/) - General Robot Manipulation with Multimodal Prompts
 - [RT-2](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control
 - [Robots That Ask For Help](https://robot-help.github.io/) - a framework for measuring and aligning the uncertainty of LLM-based planners such that they know when they don't know and ask for help when needed
