@@ -32,6 +32,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
 
+- [TextFX](https://textfx.withgoogle.com/) - AI-powered tools for rappers, writers and wordsmiths
+- [G-prompter](https://www.g-prompter.com/en) - for Midjourney or Stable diffusion - Unleash your creativity with innovative and powerful prompters
 - [Prompt2Model](https://github.com/neulab/prompt2model) - a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment
 - [Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/) - a new family of models that are finetuned from base LLaMA and LLaMA2
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability
@@ -84,6 +86,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO) - a new optimizer, which fuses the gradient computation and the parameter update in one step to reduce memory usage
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - an extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community
+- [Heron](https://github.com/turingmotors/heron) -  a library that seamlessly integrates multiple Vision and Language models, as well as Video and Language models. Additionally, we provide pretrained weights trained on various datasets
  
 ## Tools
 |Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|
@@ -98,6 +101,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
+- [OpenCLIP](https://github.com/mlfoundations/open_clip) - an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training)
+- [LEDITS](https://editing-images-project.hf.space/) - combined lightweight approach for real-image editing, incorporating the Edit Friendly DDPM inversion technique with Semantic Guidance, thus extending Semantic Guidance to real image editing, while harnessing the editing capabilities of DDPM inversion
 - [Würstchen](https://huggingface.co/blog/wuerstchen) - Fast Diffusion for Image Generation
 - [ExactlyAI](https://exactly.ai) - create images in seconds with an AI that understands your style
 - [ConceptLab](https://kfirgoldberg.github.io/ConceptLab/) - generative models have enabled us to transform our words into vibrant, captivating imagery
@@ -180,6 +185,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Unscreen](https://www.unscreen.com/) - remove video background
 - [Motrica](https://www.motorica.ai/) - technologies and tools for advanced character animation
 - [CoDeF](https://qiuyu96.github.io/CoDeF/) - Content Deformation Fields for Temporally Consistent Video Processing
 - [MagicEdit](https://magic-edit.github.io/) - supports various editing applications, including video stylization, local editing, video-MagicMix and video outpainting
@@ -220,6 +226,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry, by NVIDIA
  - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars, by Microsoft
  - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) - three key elements that allow us to achieve state-of-the-art visual quality while maintaining competitive training times and importantly allow high-quality real-time (≥ 100 fps) novel-view synthesis at 1080p resolution
+ - [ConsistentNeRF](https://skhu101.github.io/ConsistentNeRF) - a method that leverages depth information to regularize both multi-view and single-view 3D consistency among pixels
  - [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
  - [Zip-NeRF](https://jonbarron.info/zipnerf/) - a technique that combines mip-NeRF 360 and grid-based models such as Instant NGP
  - [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
@@ -286,7 +293,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 ## Robotics
 - [Language to rewards for robotic skill synthesis](https://blog.research.google/2023/08/language-to-rewards-for-robotic-skill.html) - an approach to teaching robots novel actions through natural language input is proposed, using reward functions as an interface to bridge the gap between language and low-level robot actions
 - [VIMA](https://vimalabs.github.io/) - General Robot Manipulation with Multimodal Prompts
-- [RT-2](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control
+- [RT-2](https://robotics-transformer2.github.io/) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control
 - [Robots That Ask For Help](https://robot-help.github.io/) - a framework for measuring and aligning the uncertainty of LLM-based planners such that they know when they don't know and ask for help when needed
 - [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
 - [Navigating to Objects in the Real World](https://theophilegervet.github.io/projects/real-world-object-navigation/) - 
@@ -318,4 +325,5 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 
 ## Other: Fin, Presentation 
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+- [](https://www.guidde.com/) - create documentation/presentation/FAQ from captured video
 - [Gamma](https://gamma.app/) - create visually appealing presentations
