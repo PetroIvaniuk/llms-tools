@@ -72,6 +72,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - an open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 - [Open LLM Leaderboard: HF](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - aims to track, rank and evaluate LLMs and chatbots as they are released
 - [Chatbot Arena](https://chat.lmsys.org/) - a scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems. Chat with two anonymous models side-by-side and vote for which one is better
+- [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
 ## Libraries
 - [LangChain](https://github.com/hwchase17/langchain), [docs](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
@@ -86,21 +87,28 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Wanda](https://github.com/locuslab/wanda) - Pruning LLMs by Weights and Activation: removes weights on a per-output basis, by the product of weight magnitudes and input activation norms
 - [LOMO: LOw-Memory Optimization](https://github.com/OpenLMLab/LOMO) - a new optimizer, which fuses the gradient computation and the parameter update in one step to reduce memory usage
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - an extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community
-- [Heron](https://github.com/turingmotors/heron) -  a library that seamlessly integrates multiple Vision and Language models, as well as Video and Language models. Additionally, we provide pretrained weights trained on various datasets
+- [Heron](https://github.com/turingmotors/heron) - a library that seamlessly integrates multiple Vision and Language models, as well as Video and Language models. Additionally, we provide pretrained weights trained on various datasets
  
 ## Tools
 |Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|
 :-:|:-:|:-:|:-:|:-:
 [Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[GENMO](https://alpha.genmo.ai/)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)
 [Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|
-[Catbird](https://www.catbird.ai/)||[Invidio](https://invideo.io/)|[Didimo](https://www.didimo.co/)|
-[BlueWillow](https://www.bluewillow.ai/)|||[Scenario](https://www.scenario.com/) - Assets|
+[Catbird](https://www.catbird.ai/)||[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)|
+[BlueWillow](https://www.bluewillow.ai/)||[Invidio](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets|
 [Lexica](https://lexica.art/)|||[Skybox](https://skybox.blockadelabs.com/) - World-building|
 [Playground](https://playgroundai.com/)|||[lumine AI](https://ilumine.ai/)|
 |[Imgcreator](https://imgcreator.zmo.ai/)|
 [Craiyon](https://www.craiyon.com/)||||
 
 ## Text-to-image
+
+||Models|
+:-:|:-:
+|OpenAI|[CLIP](https://openai.com/research/clip), [DALL·E](https://openai.com/research/dall-e), [DALL·E 2](https://openai.com/dall-e-2), [DALL·E 3](https://openai.com/dall-e-3)|
+|Google|[Muse](https://muse-model.github.io/), [Imagen](https://imagen.research.google/), [Parti](https://sites.research.google/parti/), [HyperDreamBooth](https://hyperdreambooth.github.io/)|
+|stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/)<br>[DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF)|
+
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training)
 - [LEDITS](https://editing-images-project.hf.space/) - combined lightweight approach for real-image editing, incorporating the Edit Friendly DDPM inversion technique with Semantic Guidance, thus extending Semantic Guidance to real image editing, while harnessing the editing capabilities of DDPM inversion
 - [Würstchen](https://huggingface.co/blog/wuerstchen) - Fast Diffusion for Image Generation
@@ -111,35 +119,15 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
 - [FABRIC](https://sd-fabric.github.io/) - Feedback via Attention-Based Reference Image Conditioning - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion.
-- [HyperDreamBooth](https://hyperdreambooth.github.io/) - a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person, by Google Research
 - [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon) - pronounced like “chameleon”, a single foundation model that does both text-to-image and image-to-text generation, by MetaAI
-- [Controlling Text-to-Image Diffusion by Orthogonal Finetuning](https://oft.wyliu.com/) - Orthogonal Finetuning (OFT), for adapting text-to-image diffusion models to downstream tasks
+- [Controlling Text-to-Image Diffusion by Orthogonal Finetuning (OFT)](https://oft.wyliu.com/) - for adapting text-to-image diffusion models to downstream tasks
 - [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
-- [Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/) - create descriptive images with shorter prompts and generate worlds within images
-- [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF) - is a state-of-the-art text-to-image model released on a non-commercial, research-permissible license that provides an opportunity for research labs to examine and experiment with advanced text-to-image generation approaches. In line with other Stability AI models, Stability AI intends to release a DeepFloyd IF model fully open source at a future date, by Stability AI together with its multimodal AI research lab DeepFloyd
-- [CLIP](https://openai.com/research/clip) - a neural network which efficiently learns visual concepts from natural language supervision, by OpenAI
-- [DALL·E 2](https://openai.com/dall-e-2) - an AI system that can create realistic images and art from a description in natural language, by OpenAI
-- [DALL·E](https://openai.com/research/dall-e) - a version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs, by OpenAI
-- [Parti](https://sites.research.google/parti/) - Pathways Autoregressive Text-to-Image model, an autoregressive text-to-image generation model that achieves high-fidelity photorealistic image generation and supports content-rich synthesis involving complex compositions and world knowledge, by Google Research
-- [Imagen](https://imagen.research.google/) - a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding, by Google Research, Brain Team
-- [Muse](https://muse-model.github.io/) - Text-To-Image Generation via Masked Generative Transformers, a fast, state-of-the-art text-to-image generation and editing model, by Google Research
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer](https://damo-vilab.github.io/composer-page/) - a large (5 billion parameters) controllable diffusion model trained on billions of (text, image) pairs. It can exponentially expand the control space through composition, leading to an enormous number of ways to generate and manipulate images, i.e., making the infinite use of finite means
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting
-- [OpenAGI: When LLM Meets Domain Experts](https://github.com/agiresearch/OpenAGI)
 
 ## Multi-modal
-- [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Code](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image by Meta
-- [Clipdrop](https://clipdrop.co/) - by StabilityAI
-  - [Image Upscaler](https://clipdrop.co/image-upscaler), [Blog](https://stability.ai/blog/stability-ai-releases-image-upscaling-api) - an AI-powered tool that increases the size of any image without compromising its sharpness
-  - [Uncrop](https://clipdrop.co/uncrop), [Blog](https://stability.ai/blog/clipdrop-launches-uncrop-the-ultimate-aspect-ratio-editor) - a tool helps to uncrop your photos to any image format
-  - [Reimagine](https://clipdrop.co/stable-diffusion-reimagine), [Blog](https://stability-ai.squarespace.com/blog/stability-ai-clipdrop-launches-reimagine-xl) - a tool helps to create multiple variations from a single image with stable diffusion
-  - [Stable Diffusion XL](https://clipdrop.co/stable-diffusion) - generate images from text
-  - [Stable Doodle](https://clipdrop.co/stable-doodle) - transform your doodles into real images in seconds
-- [Kaiber](https://kaiber.ai/) - 
-  - Audioreactivity: upload a song, add a touch of your artistic style, and let our audio analysis technology bring your beats to life
-  - Animation: start with a few words or upload your own image, and watch your ideas turn into captivating visuals
-  - Transform: upload your videos and effortlessly transform them into entirely new styles and aesthetics
+- [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Code](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image, by MetaAI
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/), [Research](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
 - [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - create videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
   - Mode 01: Text to Video: Synthesize videos in any style you can imagine using nothing but a text prompt. If you can say it, now you can see it
@@ -237,7 +225,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
-- [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music) - AI product for music and sound generation
+- [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music) - a system that generates music and sound effects from text
+- [RIFFUSION](https://www.riffusion.com/about) - the model to generate images of spectrograms and can then be converted to an audio clip
+- [CLAP](https://github.com/LAION-AI/CLAP/) - you can extract a latent representation of any given audio and text for your own model, or for different downstream task
 - [Vscoped](https://vscoped.com/) - effortlessly transcribe your video content to boost click-through rates and watch time
 - [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/) - a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text: automatic speech recognition, speech-to-text and speech-to-speech translation, text-to-text and text-to-speech translation
 - [Eleven Labs](https://beta.elevenlabs.io/) - the most realistic Text to Speech and Voice Cloning software
@@ -259,9 +249,10 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [Chirp](https://suno-ai.notion.site/Chirp-Examples-f05351485da74d769d6183220a6e5da7) - music model, generates realistic audio - including speech, music and sound effects
  - [Bark](https://github.com/suno-ai/bark) - a transformer-based text-to-audio model created, by [Suno](https://www.suno.ai/). Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communication like laughing, sighing and crying
 - [Whisper](https://openai.com/research/whisper) - an automatic speech recognition (ASR) system, that approaches human level robustness and accuracy on English speech recognition
-- [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff", by Google Research
+- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff", by Google Research
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages, by Google Research
-- [Musicfy](https://www.musicfy.lol/) - Music like you've never heard. Create and discover AI covers of your favorite songs 
+- [Musicfy](https://www.musicfy.lol/) - music like you've never heard. Create and discover AI covers of your favorite songs
+- [Jukebox](https://openai.com/research/jukebox) - learned to compress their training set and generated audio from this compressed space
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
