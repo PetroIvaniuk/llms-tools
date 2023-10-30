@@ -21,7 +21,7 @@ Welcome to contribute.
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html), [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2)|
 OpenAI||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4)|
-Meta||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2)|
+MetaAI||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2)|
 EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
 [Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village)|
 Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](claude.ai)|
@@ -98,7 +98,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [LMFlow](https://github.com/OptimalScale/LMFlow) - an extensible, convenient, and efficient toolbox for finetuning large machine learning models, designed to be user-friendly, speedy and reliable, and accessible to the entire community
 - [Heron](https://github.com/turingmotors/heron) - a library that seamlessly integrates multiple Vision and Language models, as well as Video and Language models. Additionally, we provide pretrained weights trained on various datasets
 - [Curated Transformers](https://github.com/explosion/curated-transformers) - is a transformer library for PyTorch. It provides state-of-the-art models that are composed from a set of reusable components, by Explosion
-- [spacy-llm](https://github.com/explosion/spacy-llm) - this package integrates Large Language Models (LLMs) into spaCy, featuring a modular system for fast prototyping and prompting, and turning unstructured responses into robust outputs for various NLP tasks, no training data required, by Explosion
+- [spacy-llm](https://github.com/explosion/spacy-llm) - integrates LLMs into spaCy, featuring a modular system for fast prototyping and prompting, and turning unstructured responses into robust outputs for various NLP tasks, no training data required, by Explosion
+- [Medusa](https://github.com/FasterDecoding/Medusa) - a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads
 
 ## Tools
 |Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|Prompt|
@@ -107,8 +108,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|[Prompt Builder](https://promptomania.com/midjourney-prompt-builder/)|
 [Catbird](https://www.catbird.ai/)||[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)||[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
 [BlueWillow](https://www.bluewillow.ai/)||[Invidio](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets||[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
-[Lexica](https://lexica.art/)|||[Skybox](https://skybox.blockadelabs.com/) - World-building|
-[Playground](https://playgroundai.com/)|||[lumine AI](https://ilumine.ai/)|
+[Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building|
+[Playground](https://playgroundai.com/)||[Morph Studio](https://www.morphstudio.com/)|[lumine AI](https://ilumine.ai/)|
 |[Imgcreator](https://imgcreator.zmo.ai/)|
 [Craiyon](https://www.craiyon.com/)||||
 
@@ -117,8 +118,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 ||Models|
 :-:|:-:
 |OpenAI|[CLIP](https://openai.com/research/clip), [DALL·E](https://openai.com/research/dall-e), [DALL·E 2](https://openai.com/dall-e-2), [DALL·E 3](https://openai.com/dall-e-3)|
-|Google|[Muse](https://muse-model.github.io/), [Imagen](https://imagen.research.google/), [Parti](https://sites.research.google/parti/), [HyperDreamBooth](https://hyperdreambooth.github.io/)|
-|stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/)<br>[DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model), [Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF)|
+|Google|[Muse](https://muse-model.github.io/), [Imagen](https://imagen.research.google/), [Parti](https://sites.research.google/parti/)<br>[HyperDreamBooth](https://hyperdreambooth.github.io/), [StyleDrop](https://styledrop.github.io/)|
+|MetaAI|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon)|
+|stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/)<br>[DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))|
 
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training)
 - [LEDITS](https://editing-images-project.hf.space/) - combined lightweight approach for real-image editing, incorporating the Edit Friendly DDPM inversion technique with Semantic Guidance, thus extending Semantic Guidance to real image editing, while harnessing the editing capabilities of DDPM inversion
@@ -130,9 +132,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
 - [FABRIC](https://sd-fabric.github.io/) - Feedback via Attention-Based Reference Image Conditioning - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion.
-- [CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon) - pronounced like “chameleon”, a single foundation model that does both text-to-image and image-to-text generation, by MetaAI
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning (OFT)](https://oft.wyliu.com/) - for adapting text-to-image diffusion models to downstream tasks
-- [StyleDrop: Text-To-Image Generation in Any Style](https://styledrop.github.io/) - that enables the generation of images that faithfully follow a specific style, powered by Muse, a text-to-image generative vision transformer, by Google Research
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer](https://damo-vilab.github.io/composer-page/) - a large (5 billion parameters) controllable diffusion model trained on billions of (text, image) pairs. It can exponentially expand the control space through composition, leading to an enormous number of ways to generate and manipulate images, i.e., making the infinite use of finite means
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting
@@ -184,6 +184,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Hotshot](https://hotshot.co/) - GIF generator
 - [Unscreen](https://www.unscreen.com/) - remove video background
 - [Motrica](https://www.motorica.ai/) - technologies and tools for advanced character animation
 - [CoDeF](https://qiuyu96.github.io/CoDeF/) - Content Deformation Fields for Temporally Consistent Video Processing
@@ -210,6 +211,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [Masterpiece X](https://www.masterpiecex.com/) - the generative text-to-3D app that allows users to create 3D objects and characters complete with mesh, texture, and animations
  - [GAUSSIAN SPLAT](https://poly.cam/gaussian-splatting) - a rasterization technique for 3D reconstruction and rendering
  - [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - generating multiview-consistent images from a single-view image
  - [MAV3D (Make-A-Video3D)](https://make-a-video3d.github.io/) - a method for generating three-dimensional dynamic scenes from text descriptions. Our approach uses a 4D dynamic Neural Radiance Field (NeRF), which is optimized for scene appearance, density, and motion consistency by querying a Text-to-Video (T2V) diffusion-based model
@@ -295,6 +297,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
   
 ## Robotics
+- [Open X-Embodiment](https://robotics-transformer-x.github.io/) - Robotic Learning Datasets and RT-X Models
+- [Eureka](https://eureka-research.github.io/) - a human-level reward design algorithm powered by LLMs, by NVIDIA
 - [Language to rewards for robotic skill synthesis](https://blog.research.google/2023/08/language-to-rewards-for-robotic-skill.html) - an approach to teaching robots novel actions through natural language input is proposed, using reward functions as an interface to bridge the gap between language and low-level robot actions
 - [VIMA](https://vimalabs.github.io/) - General Robot Manipulation with Multimodal Prompts
 - [RT-2](https://robotics-transformer2.github.io/) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control
