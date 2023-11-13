@@ -4,10 +4,12 @@ Apart from LLMs, you can find here new AI research from other areas such as Comp
 Welcome to contribute.
 
 ## Large Language Models (LLMs) and Chatbots
-[ChatGPT Prompt Engineering for Developers | Andrew Ng | Isa Fulford | Course](https://learn.deeplearning.ai/chatgpt-prompt-eng) \
-[The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E) \
-[State of GPT | Andrej Karpathy](https://youtu.be/bZQun8Y4L2A)\
-[Visualization: The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
+[DeepLearning.AI Short Courses | Andrew Ng](https://learn.deeplearning.ai/) - short courses about LLMs\
+[The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED](https://youtu.be/C_78DM8fG6E)\
+[State of GPT | Andrej Karpathy | Video](https://youtu.be/bZQun8Y4L2A)\
+[Opportunities in AI - 2023 | Andrew Ng | Video](https://youtu.be/5p248yoa3oE?si=LJQTHeOF-XUQB72U)\
+[GPT-4 Turbo| OpenAI DevDay, Opening Keynote| Sam Altman | Video](https://www.youtube.com/live/U9mJuUkhUzk?si=f4qPQh0_buASTp1b)\
+[The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT| Visualization](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)
 
 <!---
 ||Google|OpenAI|Meta|EleutherAI|Stability AI|Anthropic|
@@ -20,7 +22,7 @@ Welcome to contribute.
 ||2021|2022|2023|
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html), [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2)|
-OpenAI||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4)|
+[OpenAI](https://openai.com/)||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|
 MetaAI||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2)|
 EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
 [Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village)|
@@ -144,6 +146,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting
 
 ## Multi-modal
+- [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 - [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Code](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image, by MetaAI
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/), [Research](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
 - [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - create videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
@@ -249,6 +252,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
+- [StockMusic](https://www.stockmusic.app/) - a platform for AI-generated tunes that allows you to generate up to 10 minutes of copyright-free music
 - [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music) - a system that generates music and sound effects from text
 - [RIFFUSION](https://www.riffusion.com/about) - the model to generate images of spectrograms and can then be converted to an audio clip
 - [CLAP](https://github.com/LAION-AI/CLAP/) - you can extract a latent representation of any given audio and text for your own model, or for different downstream task
@@ -329,6 +333,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Bio & Med
+- [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases
 - [evodiff](https://github.com/microsoft/evodiff) - combines evolutionary-scale data with diffusion models for controllable protein sequence generation
 - [SAM-Med2D](https://github.com/OpenGVLab/SAM-Med2D) - applying the Segment Anything Model (SAM) to medical 2D images
 - [Med-Flamingo](https://huggingface.co/med-flamingo/med-flamingo) - a medical vision-language model with multimodal in-context learning abilities
