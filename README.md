@@ -20,13 +20,13 @@ Welcome to contribute.
 2021|[LaMDA](https://blog.google/technology/ai/lamda/)|||GPT-J||||
 --->
 
-||2021|2022|2023|
-:-:|:-:|:-:|:-:
+||2021|2022|2023|2024
+:-:|:-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html), [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)<br>Chinchilla|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|
 [OpenAI](https://openai.com/)||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|
 [MetaAI](https://ai.meta.com/)||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2), [Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|
 EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
-[Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|
+[Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2)
 Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|
 BigScience||[Bloom](https://huggingface.co/bigscience/bloom)||
 Microsoft|||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|
@@ -177,6 +177,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
   - instruct-pix2pix: a model enables fast and effective image editing based on simple instructions
 
 ## Images
+- [PhotoMaker](https://photo-maker.github.io/) - Customizing Realistic Human Photos via Stacked ID Embedding
+- [DeWatermark](https://dewatermark.ai/) - Remove Watermark from photos online free with AI; [Upscales](https://upscales.ai/) - Upscale Images with AI upto 4K
 - [NSF](https://light.princeton.edu/publication/nsf/) - Neural Spline Fields for Burst Image Fusion and Layer Separation
 - [Material Palette](https://astra-vision.github.io/MaterialPalette/) - a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image
 - [DiffusionLight] - a simple yet effective technique to estimate lighting in a single input image
@@ -196,7 +198,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 
 ## Computer Vision
 - [TAO-Amodal](https://tao-amodal.github.io/) - benchmark is a dataset that includes amodal and modal bounding boxes for visible and occluded objects
-- [EdgeSAM](https://mmlab-ntu.github.io/project/edgesam/) - an accelerated variant of the Segment Anything Model (SAM), optimized for efficient execution on edge devices with minimal compromise in performance
+- [OMG-Seg](https://github.com/lxtGH/OMG-Seg) - One Model that is Good enough to efficiently and effectively handle all the segmentation tasks, including image semantic, instance, and panoptic segmentation, as well as their video counterparts, open vocabulary settings, prompt-driven, interactive segmentation like SAM, and video object segmentation
 - [PUG (Photorealistic Unreal Graphics)](https://pug.metademolab.com/) - 3 datasets for representation learning research
 - [FACET (FAirness in Computer Vision EvaluaTion)](https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation) - a new comprehensive benchmark for evaluating the fairness of computer vision models across classification, detection, instance segmentation, and visual grounding tasks
 - [Tracking Anything in High Quality](https://github.com/jiawen-zhu/HQTrack) - a framework for high performance video object tracking and segmentation
@@ -208,11 +210,15 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Visual Prompting](https://landing.ai/What-is-visual-prompting/) - an innovative approach that takes text prompting, used in applications such as ChatGPT, to computer vision
 - [Tracking Everything Everywhere All at Once](https://omnimotion.github.io/) - a new test-time optimization method for estimating dense and long-range motion from a video sequence
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only
+- [EdgeSAM](https://mmlab-ntu.github.io/project/edgesam/) - an accelerated variant of the SAM, optimized for efficient execution on edge devices with minimal compromise in performance
 - [Segment Anything Model (SAM)](https://segment-anything.com/) - a new AI model that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training. [Blog: Introducing Segment Anything](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Code](https://github.com/facebookresearch/segment-anything)
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [LUMIERE](https://lumiere-video.github.io/) - A Space-Time Diffusion Model for Video Generation: Text-to-Video, Image-to-Video, Stylized Generation, Video Stylization, Cinemagraphs, Video Inpainting
+- [ActAnywhere](https://actanywhere.github.io/) - Subject-Aware Video Background Generation
+- [MagicVideo-V2](https://magicvideov2.github.io/) - integrates the text-to-image model, video motion generator, reference image embedding module and frame interpolation module into an end-to-end video generation pipeline
 - [I2VGen-XL](https://i2vgen-xl.github.io/) - High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models
 - [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - an innovative diffusion pipeline designed for real-time interactive generation
 - [WALT - Window Attention Latent Transformer](https://walt-video-diffusion.github.io/) - a transformer-based method for latent video diffusion models (LVDMs)
@@ -244,6 +250,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [BlendNeRF](tps://blandocs.github.io/blendnerf) - 3D-aware Blending with Generative NeRFs
  - [4DGen](https://vita-group.github.io/4DGen/) - Grounded 4D Content Generation with Spatial-temporal Consistency
  - [MobileBrick](https://code.active.vision/MobileBrick/) - Building LEGO for 3D Reconstruction on Mobile Devices. A novel data capturing and 3D annotation pipeline to obtain precise 3D ground-truth shapes without relying on expensive 3D scanners
  - [PoseGPT](https://yfeng95.github.io/posegpt/) - Chatting about 3D Human Pose
@@ -301,6 +308,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages
 
 ### [Eleven Labs](https://beta.elevenlabs.io/)
+- [Dubbing Studio](https://elevenlabs.io/blog/introducing-dubbing-studio/) - a tool, enabling automatic, end-to-end video translation across 29 languages. hands-on control over transcript, translation, timing, and more
 - [Speech to Speech](https://elevenlabs.io/blog/product-update-speech-to-speech-and-changes-to-voices/) - a tool that lets you turn the recording of one voice to sound as if spoken by another
 - [Eleven Multilingual v2](https://elevenlabs.io/blog/multilingualv2/) - a Foundational AI Speech Model for Nearly 30 Languages
 - [Eleven Multilingual v1](https://beta.elevenlabs.io/blog/eleven-multilingual-v1/), [Demo](https://beta.elevenlabs.io/?ref=beta.elevenlabs.io) - generate top-quality spoken audio in any voice and style with the most advanced and multipurpose AI speech tool out there
@@ -327,8 +335,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [alphageometry](https://github.com/google-deepmind/alphageometry) - Solving Olympiad Geometry without Human Demonstrations, by Google DeepMind
 - [sketch-2-app](https://www.sketch2app.io/examples) - generate code based on sketch
-- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - a true AI developer that writes code, debugs it, talks to you when it needs help, etc.
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - a true AI developer that writes code, debugs it, talks to you when it needs help, etc
 - [FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/) - a method to search for new solutions in mathematics and computer science
 - [MAmmoTH](https://tiger-ai-lab.github.io/MAmmoTH/) - a series of open-source LLMs specifically tailored for general math problem-solving. The MAmmoTH models are trained on MathInstruct, our meticulously curated instruction tuning dataset
 - [Defog](https://defog.ai/blog/open-sourcing-sqlcoder/) - a state-of-the-art LLM for converting natural language questions to SQL queries, which outperforms major open-source models and slightly outperforms gpt-3
@@ -383,6 +392,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Bio & Med
+- [AMIE] - A research AI system for diagnostic medical reasoning and conversations, by Google
 - [MentalLLaMA](https://github.com/SteveKGYang/MentalLLaMA) - mental health analysis with LLMs
 - [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases
 - [evodiff](https://github.com/microsoft/evodiff) - combines evolutionary-scale data with diffusion models for controllable protein sequence generation
