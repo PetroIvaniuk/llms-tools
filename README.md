@@ -26,24 +26,30 @@ Google|[LaMDA](https://blog.google/technology/ai/lamda/)|[GLaM](https://ai.googl
 [OpenAI](https://openai.com/)||[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|
 [MetaAI](https://ai.meta.com/)||Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)<br>[LLaMA2](https://ai.meta.com/llama/), [HF](https://huggingface.co/blog/llama2), [Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|
 EleutherAI|GPT-J|GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
-[Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2)
-Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|
+[Stability AI](https://stability.ai/)|||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
+Anthropic||RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet, and Opus](https://www.anthropic.com/news/claude-3-family)
 BigScience||[Bloom](https://huggingface.co/bigscience/bloom)||
 Microsoft|||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|
-[Mistral AI](https://mistral.ai/)|||[Mistral](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|
-[Inflection AI](https://inflection.ai/)|||[Pi](https://heypi.com/talk), [Inflection-2](https://inflection.ai/inflection-2)|
+[Mistral AI](https://mistral.ai/)|||[Mistral](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/)|
+[Inflection AI](https://inflection.ai/)|||[Pi](https://heypi.com/talk), [Inflection-2](https://inflection.ai/inflection-2)|[Inflection-2.5](https://inflection.ai/inflection-2-5)|
 Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Berkeley-BAIR](https://bair.berkeley.edu/)|||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
 [Vicuna Team](https://lmsys.org/about/)|||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)|||[Falcon](https://huggingface.co/blog/falcon)|
+[Cohere](https://cohere.com/)||||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
+[xAI](https://x.ai/blog)||||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5)|
 
+- [DBRX](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-dbrx-new-standard-efficient-open-source-models) - ageneral purpose LLM that outperforms all established open source models on standard benchmarks, by Databricks
+- [Jamba](https://www.ai21.com/blog/announcing-jamba) - the world’s first production-grade Mamba based model, by AI21Lab
+- [ChatFlow](https://chatflow.no/) - a no-code platform that lets you set up an OpenAI-powered chatbot for your website
+- [Perplexity](https://www.perplexity.ai/) - the AI-chatbot-powered search engine
 - [Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1) - an open-source model to surpass an average score of 80%, by abacus.ai
-- [Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai) - a demo app that lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, videos, or other data
+- [Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai) - a demo app that lets you personalize a GPT LLM connected to your own content—docs, notes, videos, or other data
 - [Ferret](https://github.com/apple/ml-ferret) - An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response, by Apple
 - [NotebookLM](https://notebooklm.google/) - a powerful new interface that lets you shift effortlessly from reading to asking questions to writing, with an AI thought partner helping you at every turn
 - [Amazon Titan](https://aws.amazon.com/bedrock/titan/) - a breadth of high-performing image, multimodal, and text model choices, via a fully managed API, by AWS
 - [Qwen](https://github.com/QwenLM/Qwen) - chat & pretrained LLM, by Alibaba Cloud
-- [Phind](https://www.phind.com/blog/phind-model-beats-gpt4-fast) - model that matches and exceeds GPT-4's coding abilities while running 5x faster
+- [Phind](https://www.phind.com/blog/phind-model-beats-gpt4-fast), [Phind-70B](https://www.phind.com/blog/introducing-phind-70b) - model that matches and exceeds GPT-4's coding abilities while running 5x faster
 - [FacTool](https://github.com/GAIR-NLP/factool) - a tool augmented framework for detecting factual errors of texts generated by LLMs. Factool now supports 4 tasks: knowledge-based QA, code generation, mathematical reasoning, scientific literature review
 - [Nougat](https://facebookresearch.github.io/nougat/) - Neural Optical Understanding for Academic Documents, a Visual Transformer model that performs an Optical Character Recognition (OCR) task for processing scientific documents into a markup language, and demonstrate the effectiveness of our model on a new dataset of scientific documents, by MetaAI
 - [TextFX](https://textfx.withgoogle.com/) - AI-powered tools for rappers, writers and wordsmiths
@@ -119,9 +125,17 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [spacy-llm](https://github.com/explosion/spacy-llm) - integrates LLMs into spaCy, featuring a modular system for fast prototyping and prompting, and turning unstructured responses into robust outputs for various NLP tasks, no training data required, by Explosion
 - [Medusa](https://github.com/FasterDecoding/Medusa) - a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads
 
+## Offline
+- [LM Studio](https://lmstudio.ai/) - an easy way to run open-source LLMs locally
+- [Jan](https://jan.ai/) - open-source ChatGPT alternative that runs 100% offline on your computer
+- [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
+
 ## Devices
 - [Frame AI glasses](https://brilliant.xyz/) - , by Brilliant Labs
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
+- [FigureAI](https://www.figure.ai/) - AI robotics company bringing a general purpose humanoid to life
+- [rabbit r1](https://www.rabbit.tech/) - 
+- [Open Interpreter](https://www.openinterpreter.com/01) - a new computer (the 01) with Open Interpreter at the center
 
 ## Income
 - [GPTs Store](https://chat.openai.com/gpts) - discover and create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills
@@ -136,9 +150,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Catbird](https://www.catbird.ai/)||[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)||[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
 [BlueWillow](https://www.bluewillow.ai/)||[Invidio](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets||[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
 [Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building||[FlowGPT](https://flowgpt.com/)|
-[Playground](https://playgroundai.com/)||[Morph Studio](https://www.morphstudio.com/)|[lumine AI](https://ilumine.ai/)|
-|[Imgcreator](https://imgcreator.zmo.ai/)||[Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)|
-[Craiyon](https://www.craiyon.com/)||||
+[Playground](https://playgroundai.com/)||[Morph Studio](https://www.morphstudio.com/)|[ilumine AI](https://ilumine.ai/)|
+[Imgcreator](https://imgcreator.zmo.ai/)||[Haiper](https://haiper.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|
+[Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
 
 ## Text-to-image
 
@@ -149,6 +163,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
 |stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)|
 
+- [Distribution Matching Distillation](https://tianweiy.github.io/dmd/) - one-step generator achieves comparable image quality with StableDiffusion v1.5 while being 30x faster
 - [Generative Powers of Ten](https://powers-of-10.github.io/) - a method that uses a text-to-image model to generate consistent content across multiple image scales, enabling extreme semantic zooms into a scene, e.g., ranging from a wide-angle landscape view of a forest to a macro shot of an insect sitting on one of the tree branches
 - [Playground v2](https://blog.playgroundai.com/playground-v2/) - open weights - an early preview of our efforts to make increasingly powerful graphics models
 - [Delta Denoising Score](https://delta-denoising-score.github.io/) - a novel scoring function for text-based image editing that guides minimal modifications of an input image towards the content described in a target prompt
@@ -169,8 +184,6 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting
 
 ## Multi-modal
-- [Jan](https://jan.ai/) - Open-source ChatGPT alternative that runs 100% offline on your computer
-- [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 - [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Code](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image, by MetaAI
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/), [Research](https://research.runwayml.com/gen1) - use words and images to generate new videos out of existing ones by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
 - [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/), [Research](https://research.runwayml.com/gen2) - create videos in any style you can imagine with Text to Video generation by Runway: [AI-Magic-Tools](https://runwayml.com/ai-magic-tools/)
@@ -192,8 +205,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [DeWatermark](https://dewatermark.ai/) - Remove Watermark from photos online free with AI; [Upscales](https://upscales.ai/) - Upscale Images with AI upto 4K
 - [NSF](https://light.princeton.edu/publication/nsf/) - Neural Spline Fields for Burst Image Fusion and Layer Separation
 - [Material Palette](https://astra-vision.github.io/MaterialPalette/) - a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image
-- [DiffusionLight] - a simple yet effective technique to estimate lighting in a single input image
-- [KREA](https://www.krea.ai/) - generate images and videos with a delightful AI-powered design tool.
+- [DiffusionLight](https://diffusionlight.github.io/) - a simple yet effective technique to estimate lighting in a single input image
+- [KREA](https://www.krea.ai/) - generate images and videos with a delightful AI-powered design tool
 - [Magnific](https://magnific.ai/) - the image Upscaler & Enhancer
 - [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
 - [wasitai](https://wasitai.com/) - check if an image was generated by a machine
@@ -229,6 +242,9 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [MagicTime](https://pku-yuangroup.github.io/MagicTime/) - Time-lapse Video Generation Models as Metamorphic Simulators
+- [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) - a foundation model for generative video based on the image model Stable Diffusiona
+- [EMO](https://humanaigc.github.io/emote-portrait-alive/) - Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 - [SORA](https://openai.com/sora) - an AI model that can create realistic and imaginative scenes from text instructions, by OpenAI
 - [LUMIERE](https://lumiere-video.github.io/) - A Space-Time Diffusion Model for Video Generation: Text-to-Video, Image-to-Video, Stylized Generation, Video Stylization, Cinemagraphs, Video Inpainting
 - [ActAnywhere](https://actanywhere.github.io/) - Subject-Aware Video Background Generation
@@ -264,7 +280,10 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
- - [BlendNeRF](tps://blandocs.github.io/blendnerf) - 3D-aware Blending with Generative NeRFs
+ - [SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings
+ - [Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d) -  Quality Novel View Synthesis and 3D Generation from Single Images, by Stability AI
+ - [TripoSR](https://stability.ai/news/triposr-3d-generation) - Fast 3D Object Generation from Single Images, by Stability AI
+ - [BlendNeRF](https://blandocs.github.io/blendnerf) - 3D-aware Blending with Generative NeRFs
  - [4DGen](https://vita-group.github.io/4DGen/) - Grounded 4D Content Generation with Spatial-temporal Consistency
  - [MobileBrick](https://code.active.vision/MobileBrick/) - Building LEGO for 3D Reconstruction on Mobile Devices. A novel data capturing and 3D annotation pipeline to obtain precise 3D ground-truth shapes without relying on expensive 3D scanners
  - [PoseGPT](https://yfeng95.github.io/posegpt/) - Chatting about 3D Human Pose
@@ -329,11 +348,14 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLab
 
 ### Other
+- [Voice Engine](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices) - a model for creating custom voices, by OpenAI 
+- [Udio](https://www.udio.com/) - discover, create, and share music with the world
+- [Hume](https://demo.hume.ai/) - empathic AI voice chat
 - [Image to SFX](https://huggingface.co/spaces/fffiloni/Image2SFX-comparison) - compare sound effects generation models from image caption
 - [DubbingAI](https://dubbing-ai.com/) - AI tool can convert your voice into high-quality cloned voices—from celebrities to your favorite gaming characters—in real time
 - [Lyria](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/) - AI music generation model
 - [StockMusic](https://www.stockmusic.app/) - a platform for AI-generated tunes that allows you to generate up to 10 minutes of copyright-free music
-- [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music) - a system that generates music and sound effects from text
+- [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music), [Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0) - a system that generates music and sound effects from text
 - [RIFFUSION](https://www.riffusion.com/about) - the model to generate images of spectrograms and can then be converted to an audio clip
 - [CLAP](https://github.com/LAION-AI/CLAP/) - you can extract a latent representation of any given audio and text for your own model, or for different downstream task
 - [Vscoped](https://vscoped.com/) - effortlessly transcribe your video content to boost click-through rates and watch time
@@ -350,6 +372,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b) - instruction-tuned Code LM based on [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), handle a variety of tasks such as code generation, math and other software development related queries, by Stability AI
+- [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
 - [AlphaCodium](https://www.codium.ai/products/alpha-codium/) - a test-based, multi-stage, code-oriented iterative flow, that improves the performances of LLMs on code problems
 - [alphageometry](https://github.com/google-deepmind/alphageometry) - Solving Olympiad Geometry without Human Demonstrations, by Google DeepMind
 - [sketch-2-app](https://www.sketch2app.io/examples) - generate code based on sketch
@@ -375,6 +399,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Games
+- [Genie](https://sites.google.com/view/genie-2024/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by DeepMind
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - train RL agents to play Pokemon Red
 - [BitMagic](https://bitmagic.games/) - game creation
 - [AI Town](https://github.com/a16z-infra/AI-town) - a deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize
@@ -384,6 +409,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
 ## Robotics
+- [OpenEQA](https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/) - from word models to world models
 - [Mobile ALOHA](https://mobile-aloha.github.io/) - Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation, by Stanford
 - [AutoRT, SARA-RT and RT-Trajectory](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/) - by DeepMind
 - [Robot Parkour Learning](https://robot-parkour.github.io/) - a system for learning a single end-to-end vision-based parkour policy of diverse parkour skills using a simple reward without any reference motion data
