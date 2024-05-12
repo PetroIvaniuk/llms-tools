@@ -63,6 +63,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Cohere](https://cohere.com/)||||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
 [xAI](https://x.ai/blog)||||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5)|
 
+- [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - Multimodal LLM
 - [Jamba](https://www.ai21.com/blog/announcing-jamba) - the world’s first production-grade Mamba based model, by AI21Lab
 - [ChatFlow](https://chatflow.no/) - a no-code platform that lets you set up an OpenAI-powered chatbot for your website
 - [Perplexity](https://www.perplexity.ai/) - the AI-chatbot-powered search engine
@@ -108,7 +109,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 
 ### Large Visual Language Models (LVLMs)
-- [Grok-1.5 Vision](https://x.ai/blog/grok-1.5v) - can now process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs
+- [Idefics2](https://huggingface.co/blog/idefics2) - it can answer questions about images, describe visual content, create stories grounded in multiple images, extract information from documents, and perform basic arithmetic operations
+- [Grok-1.5 Vision](https://x.ai/blog/grok-1.5v) - can process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs
 - [AnyText](https://github.com/tyxsspa/AnyText) - Multilingual Visual Text Generation And Editing
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL) - multimodal version of the large model series. Accepts image, text, and bounding box as inputs, outputs text and bounding box
 - [AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - the LVLM based Industrial Anomaly Detection (IAD) method that can detect anomalies in industrial images without the need for manually specified thresholds
@@ -120,6 +122,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
 ## Evaluation
+- [TheFastest.AI](https://thefastest.ai/) - site that provides reliable measurements for the performance of popular models
 - [Arthur Bench](https://www.arthur.ai/blog/introducing-arthur-bench) - an open-source evaluation tool for comparing LLMs, prompts, and hyperparameters for generative text models
 - [AgentBench](https://github.com/THUDM/AgentBench) - the first benchmark designed to evaluate LLM-as-Agent across a diverse spectrum of different environments
 - [L-Eval](https://github.com/OpenLMLab/LEval) - a comprehensive long-context language models evaluation suite with 18 long document tasks across multiple domains that require reasoning over long texts, including summarization, question answering, in-context learning with long CoT examples, topic retrieval, and paper writing assistance
@@ -154,17 +157,21 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Curated Transformers](https://github.com/explosion/curated-transformers) - a transformer library for PyTorch. It provides state-of-the-art models that are composed from a set of reusable components, by Explosion
 - [spacy-llm](https://github.com/explosion/spacy-llm) - integrates LLMs into spaCy, featuring a modular system for fast prototyping and prompting, and turning unstructured responses into robust outputs for various NLP tasks, no training data required, by Explosion
 - [Medusa](https://github.com/FasterDecoding/Medusa) - a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads
+- [Self-RAG]() - a new framework to train an arbitrary LM to learn to retrieve, generate, and critique to enhance the factuality and quality of generations, without hurting the versatility of LLMs
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
 
 ## Devices
 - [Frame AI glasses](https://brilliant.xyz/) - , by Brilliant Labs
-- [Ray-Ban|MetaAI](https://www.meta.com/smart-glasses/) - a 12 MP camera and five-mic system, by Ray-Ban & MetaAI
+- [Ray-Ban|MetaAI Smart Glasses](https://www.meta.com/smart-glasses/) - a 12 MP camera and five-mic system, [updates](https://about.fb.com/news/2024/04/new-ray-ban-meta-smart-glasses-styles-and-meta-ai-updates/), by Ray-Ban & MetaAI
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
 - [FigureAI](https://www.figure.ai/) - AI robotics company bringing a general purpose humanoid to life
-- [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard.
+- [SanctuaryAI](https://sanctuary.ai/) - company on a mission to create the world’s first human-like intelligence in general-purpose robots
+- [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard
 - [rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
 - [Open Interpreter](https://www.openinterpreter.com/01) - a new computer (the 01) with Open Interpreter at the center
 
 ## Income
+- [Poe](https://techcrunch.com/2024/04/09/poe-introduces-a-price-per-message-revenue-model-for-ai-bot-creators/) - price-per-message revenue model for AI bot creators
 - [GPTs Store](https://chat.openai.com/gpts) - create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills
 - [Voice Library](https://elevenlabs.io/payouts) - share your voice in the Voice Library today and earn cash rewards when it's used
 - [HuggingChat](https://huggingface.co/chat/) - making the community's best AI chat models available to everyone
@@ -208,7 +215,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning (OFT)](https://oft.wyliu.com/) - for adapting text-to-image diffusion models to downstream tasks
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer](https://damo-vilab.github.io/composer-page/) - a large (5 billion parameters) controllable diffusion model trained on billions of (text, image) pairs. It can exponentially expand the control space through composition, leading to an enormous number of ways to generate and manipulate images, i.e., making the infinite use of finite means
-- [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting
+- [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting, by Adobe Research
 
 ## Multi-modal
 - [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Code](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image, by MetaAI
@@ -269,6 +276,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [VideoGigaGAN: Towards Detail-rich Video Super-Resolution](https://videogigagan.github.io/) - a generative VSR model that can produce videos with high-frequency details and temporal consistency, by Adobe Research
 - [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/) - Lifelike Audio-Driven Talking Faces Generated in Real Time, by Microdoft
 - [MagicTime](https://pku-yuangroup.github.io/MagicTime/) - Time-lapse Video Generation Models as Metamorphic Simulators
 - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) - a foundation model for generative video based on the image model Stable Diffusiona
@@ -364,7 +372,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voicebox](https://voicebox.metademolab.com/) - Text-Guided Multilingual Universal Speech Generation at Scale
 
 ### Google
-- [Music-FX](https://aitestkitchen.withgoogle.com/tools/music-fx) - g new experimental tool that enables users to generate their own music using AI
+- [Music-FX](https://aitestkitchen.withgoogle.com/tools/music-fx) - a new experimental tool that enables users to generate their own music using AI
+- [SingSong](https://storage.googleapis.com/sing-song/index.html) - a system which generates instrumental music to accompany input vocals
 - [SynthID](https://deepmind.google/technologies/synthid/) - users can embed a digital watermark directly into AI-generated images or audio they create
 - [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) - a LLM for speech understanding and generation
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
@@ -401,6 +410,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [Llemma](https://github.com/EleutherAI/math-lm) - an open language model for mathematics (repository also contains submodules related to the overlap, fine-tuning, and theorem proving experiments described in the paper)
 - [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b) - instruction-tuned Code LM based on [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), handle a variety of tasks such as code generation, math and other software development related queries, by Stability AI
 - [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
 - [AlphaCodium](https://www.codium.ai/products/alpha-codium/) - a test-based, multi-stage, code-oriented iterative flow, that improves the performances of LLMs on code problems
@@ -428,7 +438,7 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
 
 ## Games
-- [Genie](https://sites.google.com/view/genie-2024/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by DeepMind
+- [Genie](https://sites.google.com/view/genie-2024/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by Google DeepMind
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - train RL agents to play Pokemon Red
 - [BitMagic](https://bitmagic.games/) - game creation
 - [AI Town](https://github.com/a16z-infra/AI-town) - a deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize
@@ -438,21 +448,25 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
 ## Robotics
-- [OpenEQA](https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/) - from word models to world models
+- [LeRobot](https://github.com/huggingface/lerobot) - aims to provide models, datasets, and tools for real-world robotics in PyTorch
+- [DrEurek](https://eureka-research.github.io/dr-eureka/) - Language Model Guided Sim-To-Real Transfer
+- [UniSim](https://universal-simulator.github.io/unisim/) - a real-world simulator range from controllable content creation in games and movies to training embodied agents purely in simulation that can be directly deployed in the real world
+- [JAT (Jack of All Trades)](https://huggingface.co/blog/jat) - a transformer-based agent capable of playing video games, controlling a robot to perform a wide variety of tasks, understanding and executing commands in a simple navigation environment
+- [OpenEQA](https://ai.meta.com/blog/openeqa-embodied-question-answering-robotics-ar-glasses/) - from word models to world models, by MetaAI
 - [Mobile ALOHA](https://mobile-aloha.github.io/) - Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation, by Stanford
-- [AutoRT, SARA-RT and RT-Trajectory](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/) - by DeepMind
+- [AutoRT, SARA-RT and RT-Trajectory](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/) - by Google DeepMind
 - [Robot Parkour Learning](https://robot-parkour.github.io/) - a system for learning a single end-to-end vision-based parkour policy of diverse parkour skills using a simple reward without any reference motion data
 - [Open X-Embodiment](https://robotics-transformer-x.github.io/) - Robotic Learning Datasets and RT-X Models
 - [Eureka](https://eureka-research.github.io/) - a human-level reward design algorithm powered by LLMs, by NVIDIA
 - [Language to rewards for robotic skill synthesis](https://blog.research.google/2023/08/language-to-rewards-for-robotic-skill.html) - an approach to teaching robots novel actions through natural language input is proposed, using reward functions as an interface to bridge the gap between language and low-level robot actions
 - [VIMA](https://vimalabs.github.io/) - General Robot Manipulation with Multimodal Prompts
-- [RT-2](https://robotics-transformer2.github.io/) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control, by DeepMind
+- [RT-2](https://robotics-transformer2.github.io/) - a novel vision-language-action (VLA) model that learns from both web and robotics data, and translates this knowledge into generalised instructions for robotic control, by Google DeepMind
 - [Robots That Ask For Help](https://robot-help.github.io/) - a framework for measuring and aligning the uncertainty of LLM-based planners such that they know when they don't know and ask for help when needed
 - [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
 - [Navigating to Objects in the Real World](https://theophilegervet.github.io/projects/real-world-object-navigation/) - 
 - [RVT: Robotic View Transformer](https://robotic-view-transformer.github.io/) - a multi-view transformer for 3D manipulation that is both scalable and accurate. RVT takes camera images and task language description as inputs and predicts the gripper pose action, by NVIDIA
 - [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with Large Language Models
-- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, by DeepMind
+- [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, by Google DeepMind
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) - embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
 - [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
 - [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://tonyzhaozh.github.io/aloha/) - low-cost system that performs end-to-end imitation learning directly from real demonstrations, collected with a custom teleoperation interface
@@ -463,6 +477,8 @@ Stanford|||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Bio & Med
+- [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - a new AI model that predict the structure of proteins, DNA, RNA, ligands and more, and how they interact, by Google DeepMind and Isomorphic Labs
+- [The Open Medical-LLM Leaderboard](https://huggingface.co/blog/leaderboard-medicalllm) - aims to track, rank and evaluate the performance of LLMs on medical question answering tasks
 - [AMIE](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html) - a research AI system for diagnostic medical reasoning and conversations, by Google
 - [MentalLLaMA](https://github.com/SteveKGYang/MentalLLaMA) - mental health analysis with LLMs
 - [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases
