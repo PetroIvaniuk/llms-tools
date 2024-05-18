@@ -170,7 +170,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Medusa](https://github.com/FasterDecoding/Medusa) - a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads
 - [Self-RAG]() - a new framework to train an arbitrary LM to learn to retrieve, generate, and critique to enhance the factuality and quality of generations, without hurting the versatility of LLMs
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
-- [gateway](https://github.com/Portkey-AI/gateway) — route to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency.
+- [Mirascope](https://github.com/Mirascope/mirascope), [docs](https://docs.mirascope.io) - a toolkit for developing production-ready LLM-powered tools using Python and Pydantic
+- [gateway](https://github.com/Portkey-AI/gateway) — route to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency
 
 ## Devices
 - [Frame AI glasses](https://brilliant.xyz/) - , by Brilliant Labs
