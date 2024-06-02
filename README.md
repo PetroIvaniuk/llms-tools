@@ -33,6 +33,7 @@ Welcome to contribute.
 |[Pi](https://pi.ai/)|Inflection AI||
 |[Gemini](https://gemini.google.com/app)|Google||
 |[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai)|Nvidia|runs locally on your PC|
+|[Le Chat](https://mistral.ai/news/le-chat-mistral/)|Mistral AI||
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
@@ -64,7 +65,9 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
 [xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5)|
 
-- [Snowflake Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) - an enterprise-focused Language Learning Model (LLM) designed to provide cost-effective training and openness
+- [FILM](v) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training
+- [gpt2-chatbots (aka GPT-4o)](https://rentry.org/GPT2)
+- [Snowflake Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) - an enterprise-focused LLM designed to provide cost-effective training and openness
 - [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - Multimodal LLM
 - [Jamba](https://www.ai21.com/blog/announcing-jamba) - the world’s first production-grade Mamba based model, by AI21Lab
 - [ChatFlow](https://chatflow.no/) - a no-code platform that lets you set up an OpenAI-powered chatbot for your website
@@ -132,7 +135,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - an open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
-#### Leaderboards:
+### Leaderboards
+- [vals.ai](https://www.vals.ai/) - an independent model testing service, developed benchmarks that rank large language models’ performance of tasks associated with income taxes, corporate finance, and contract law; it also maintains a pre-existing legal benchmark
 - [Chatbot Arena](https://chat.lmsys.org/) - an open platform to evaluate LLMs by human preference in the real-world
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) -  evaluate models on 6 key benchmarks using the [Eleuther AI Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness), a unified framework to test generative language models on a large number of different evaluation tasks
 - [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) - a benchmark the performance (latency, throughput, memory & energy) of LLMs with different hardwares, backends and optimizations using [Optimum-Benhcmark](https://github.com/huggingface/optimum-benchmark)
@@ -155,7 +159,6 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [outlines](https://github.com/outlines-dev/outlines), [docs](https://outlines-dev.github.io/outlines/) - a library to write reliable programs for interactions with generative models: language models, diffusers, multimodal models, classifiers, etc
 - [OneLLM](https://onellm.csuhan.com/) - One Framework to Align All Modalities with Language
 - [guidance](https://github.com/guidance-ai/guidance) - interleave generation, prompting, and logical control into a single continuous flow matching how the language model actually processes the text
-- [agents](https://github.com/aiwaves-cn/agents) - an open-source library/framework for building autonomous language agents
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - the simplest, fastest repository for training/finetuning medium-sized GPTs
 - [TorchScale](https://github.com/microsoft/torchscale) - a PyTorch library that allows researchers and developers to scale up Transformers efficiently and effectively
 - [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - an implementation of Stable Diffusion, the open source text-to-image and image-to-image generator
@@ -169,9 +172,13 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [spacy-llm](https://github.com/explosion/spacy-llm) - integrates LLMs into spaCy, featuring a modular system for fast prototyping and prompting, and turning unstructured responses into robust outputs for various NLP tasks, no training data required, by Explosion
 - [Medusa](https://github.com/FasterDecoding/Medusa) - a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads
 - [Self-RAG]() - a new framework to train an arbitrary LM to learn to retrieve, generate, and critique to enhance the factuality and quality of generations, without hurting the versatility of LLMs
-- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
 - [Mirascope](https://github.com/Mirascope/mirascope), [docs](https://docs.mirascope.io) - a toolkit for developing production-ready LLM-powered tools using Python and Pydantic
 - [gateway](https://github.com/Portkey-AI/gateway) — route to 100+ open & closed source models with a unified API. It is also production-ready with support for caching, fallbacks, retries, timeouts, loadbalancing, and can be edge-deployed for minimum latency
+- [corenet](https://github.com/apple/corenet) - a library for training deep neural networks for variety of tasks, including foundation models (e.g., CLIP and LLM), object classification, object detection, and semantic segmentation
+### Agents
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
+- [agents](https://github.com/aiwaves-cn/agents) - an open-source library/framework for building autonomous language agents
+- [ChatDev](https://github.com/OpenBMB/ChatDev) - highly customizable and extendable framework, which is based on LLMs and serves as an ideal scenario for studying collective intelligence
 
 ## Devices
 - [Frame AI glasses](https://brilliant.xyz/) - , by Brilliant Labs
@@ -210,6 +217,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
 |stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)|
 
+- [Ilus AI](https://ilus.ai/) - AI illustration Generator
 - [Distribution Matching Distillation](https://tianweiy.github.io/dmd/) - one-step generator achieves comparable image quality with StableDiffusion v1.5 while being 30x faster
 - [Generative Powers of Ten](https://powers-of-10.github.io/) - a method that uses a text-to-image model to generate consistent content across multiple image scales, enabling extreme semantic zooms into a scene, e.g., ranging from a wide-angle landscape view of a forest to a macro shot of an insect sitting on one of the tree branches
 - [Playground v2](https://blog.playgroundai.com/playground-v2/) - open weights - an early preview of our efforts to make increasingly powerful graphics models
@@ -426,6 +434,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [Codestral](https://mistral.ai/news/codestral/) - an open-weight generative AI model explicitly designed for code generation tasks
+- [LearnLM](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) - a family of models fine-tuned for learning, and grounded in educational research to make teaching and learning experiences more active, personal and engaging, by Google
 - [Llemma](https://github.com/EleutherAI/math-lm) - an open language model for mathematics (repository also contains submodules related to the overlap, fine-tuning, and theorem proving experiments described in the paper)
 - [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b) - instruction-tuned Code LM based on [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), handle a variety of tasks such as code generation, math and other software development related queries, by Stability AI
 - [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
@@ -508,6 +518,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
  
 ## Military
 - [AIP Pillars](https://www.palantir.com/platforms/aip/) - activate LLMs and other AI on your private network, subject to full control
+- [GeoSpy](https://geospy.ai/) - upload satellite or aerial images, and GeoSpy’s AI examines visual details like landmarks, terrain features, and vegetation patterns to provide precise location predictions
 
 ## Climat
 - [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) - AI model for faster and more accurate global weather forecasting
