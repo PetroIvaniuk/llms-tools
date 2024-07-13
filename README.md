@@ -58,7 +58,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 ### Chats & Assistants
 |Chat|Company|Notes|
 :-|:-:|:-|
-|[Moshi]()|Kyutai|thinks and speaks at the same time|
+|[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br> Stable Video, Stable Image Services and Stable LM 2 12B|
+|[Moshi](https://www.moshi.chat/)|Kyutai|thinks and speaks at the same time|
 |[MetaAI](https://www.meta.ai)|MetaAI||
 |[character.ai](https://character.ai/)|Character.AI|talk with fictional AI characters|
 |[POE](https://poe.com/)|Quora|talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others|
@@ -128,6 +129,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [PaliGemma](https://developers.googleblog.com/en/gemma-family-and-toolkit-expansion-io-2024/) - a powerful open VLM inspired by PaLI-3, optimized for image captioning, visual Q&A and other image labeling tasks, by Google
 - [Idefics2](https://huggingface.co/blog/idefics2) - it can answer questions about images, describe visual content, create stories grounded in multiple images, extract information from documents, and perform basic arithmetic operations
 - [Grok-1.5 Vision](https://x.ai/blog/grok-1.5v) - can process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs, by xAI
+- [CogVLM & CogAgent](https://github.com/THUDM/CogVLM) - an 18 billion parameter visual language model specializing in GUI understanding and navigation; supports high-resolution inputs (1120x1120) and shows abilities in tasks such as visual Q&A, visual grounding, and GUI Agent
 - [AnyText](https://github.com/tyxsspa/AnyText) - Multilingual Visual Text Generation And Editing
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL) - multimodal version of the large model series. Accepts image, text, and bounding box as inputs, outputs text and bounding box
 - [AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - the LVLM based Industrial Anomaly Detection (IAD) method that can detect anomalies in industrial images without the need for manually specified thresholds
@@ -139,6 +141,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
 ## Evaluation
+- [promptbench] - a Unified Library for Evaluating and Understanding LLM
 - [Vibe-Eval](https://www.reka.ai/news/vibe-eval) - evaluation suite for measuring progress of multimodal language models, by Reka
 - [FACET](https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation) - FAirness in Computer Vision EvaluaTion - a new comprehensive benchmark for evaluating the fairness of computer vision models across classification, detection, instance segmentation, and visual grounding tasks
 - [Arthur Bench](https://www.arthur.ai/blog/introducing-arthur-bench) - an open-source evaluation tool for comparing LLMs, prompts, and hyperparameters for generative text models
@@ -242,6 +245,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
 |stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)|
 
+- [Kolors](https://huggingface.co/Kwai-Kolors/Kolors) - a large-scale text-to-image generation model based on latent diffusion, by the Kuaishou Kolors team
 - [StoryDiffusion](https://storydiffusion.github.io/) - Consistent Self-Attention for Long-Range Image and Video Generation
 - [Ilus AI](https://ilus.ai/) - AI illustration Generator
 - [Improving Diffusion Models for Authentic Virtual Try-on in the Wild](https://idm-vton.github.io/) - image-based virtual try-on, which renders an image of a person wearing a curated garment, given a pair of images depicting the person and the garment, respectively
@@ -267,6 +271,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting, by Adobe Research
 
 ## Images
+- [PaintsUndo](https://lllyasviel.github.io/pages/paints_undo/) - A Base Model of Drawing Behaviors in Digital Paintings
+- [SkyReels](https://skyreels.ai/) - generate comics from stories or files you upload
 - [PhotoMaker](https://photo-maker.github.io/) - Customizing Realistic Human Photos via Stacked ID Embedding
 - [DeWatermark](https://dewatermark.ai/) - Remove Watermark from photos online free with AI; [Upscales](https://upscales.ai/) - Upscale Images with AI upto 4K
 - [NSF](https://light.princeton.edu/publication/nsf/) - Neural Spline Fields for Burst Image Fusion and Layer Separation
@@ -308,6 +314,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [LivePortrait](https://liveportrait.github.io/) - Efficient Portrait Animation with Stitching and Retargeting Control
+- [Odyssey](https://odyssey.systems/) - Hollywood-grade visual AI
 - [VideoPoet](https://research.google/blog/videopoet-a-large-language-model-for-zero-shot-video-generation/) - a large language model for zero-shot video generation, by Google Reasearch
 - [Character-1](https://www.hedra.com/) - model allows you to create lip-synced videos to any audio from a still image; imagine worlds, characters and stories with complete creative control, by Hedra
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/) & [Research](https://research.runwayml.com/gen1), [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/) & [Research](https://research.runwayml.com/gen2), GEN-3-alpha & [Research](https://runwayml.com/blog/introducing-gen-3-alpha/) - a new frontier for high-fidelity, controllable video generation. It is a major improvement in fidelity, consistency, and motion over Gen-2, and a step towards building [General World Models](https://research.runwayml.com/introducing-general-world-models), by Runway
@@ -459,6 +467,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+- [MathPile](https://gair-nlp.github.io/MathPile/) - a diverse and high-quality math-centric corpus comprising about 9.5 billion tokens
 - [magicoder](https://github.com/ise-uiuc/magicoder) - a model family empowered by OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code
 - [Codestral](https://mistral.ai/news/codestral/) - an open-weight generative AI model explicitly designed for code generation tasks
 - [LearnLM](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) - a family of models fine-tuned for learning, and grounded in educational research to make teaching and learning experiences more active, personal and engaging, by Google
