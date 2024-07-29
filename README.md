@@ -9,12 +9,14 @@ Welcome to contribute.
 [State of GPT | Andrej Karpathy | Video](https://youtu.be/bZQun8Y4L2A)\
 [Opportunities in AI - 2023 | Andrew Ng | Video](https://youtu.be/5p248yoa3oE?si=LJQTHeOF-XUQB72U)\
 [GPT-4 Turbo | OpenAI DevDay, Opening Keynote | Sam Altman | Video](https://www.youtube.com/live/U9mJuUkhUzk?si=f4qPQh0_buASTp1b)\
-[The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT | Visualization](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)\
 [Generative AI exists because of the transformer | Visualization](https://ig.ft.com/generative-ai/)\
 [2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
 [AI Index Report (Since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)\
 [Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
 [Prompt engineering | OpenAI | Reading](https://platform.openai.com/docs/guides/prompt-engineering)
+
+[The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT | Visualization](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)\
+[Opening up ChatGPTOpening up ChatGPT: tracking openness of instruction-tuned LLMs](https://opening-up-chatgpt.github.io/)
 
 [Gemini API Developer Competition](https://ai.google.dev/competition) - build incredible apps with the Gemini API, $1 million in cash prizes
 <!---
@@ -29,14 +31,14 @@ Welcome to contribute.
 ||2021-22|2023|2024
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemma](https://blog.google/technology/developers/gemma-open-models/),<br>[Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/)|
-[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)|
-[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2)<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3)|
-EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
+[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/),<br>[CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)|
+[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/)|
+[Mistral AI](https://mistral.ai/)||[Mistral](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
-Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet, and Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
+Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
+EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
 BigScience|[Bloom](https://huggingface.co/bigscience/bloom)||
 Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/), [phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)|
-[Mistral AI](https://mistral.ai/)||[Mistral](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/)|
 [Inflection AI](https://inflection.ai/)||[Inflection-2](https://inflection.ai/inflection-2)|[Inflection-2.5](https://inflection.ai/inflection-2-5)|
 Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Berkeley-BAIR](https://bair.berkeley.edu/)||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
@@ -59,7 +61,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |Chat|Company|Notes|
 :-|:-:|:-|
 |[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br> Stable Video, Stable Image Services and Stable LM 2 12B|
-|[Moshi](https://www.moshi.chat/)|Kyutai|thinks and speaks at the same time|
+|[Moshi](https://www.moshi.chat/)|Kyutai|engaging conversations limited to five minutes, thinks and speaks at the same time|
 |[MetaAI](https://www.meta.ai)|MetaAI||
 |[character.ai](https://character.ai/)|Character.AI|talk with fictional AI characters|
 |[POE](https://poe.com/)|Quora|talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others|
@@ -71,6 +73,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [SmolLM](https://huggingface.co/blog/smollm) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
+- [SearchGPT](https://openai.com/index/searchgpt-prototype/) - a temporary prototype of new AI search features that give you fast and timely answers with clear and relevant sources
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
 - [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b) - family of LLMs, which includes a 340-billion parameter base model as well as versions fine-tuned to follow instructions and to serve as a reward model in RLHF, by NVIDIA
 - [Qwen](https://github.com/QwenLM/Qwen), [Qwen2](https://qwenlm.github.io/blog/qwen2/) - family of language models that includes base and instruction-tuned versions of five models, by Alibaba Cloud
@@ -117,9 +121,11 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [PdfGPT](https://pdfgpt.io/) - a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
 - [Baize](https://github.com/project-baize/baize-chatbot) - an open-source chat model trained with LoRA. It uses 100k dialogs generated by letting ChatGPT chat with itself
 - [Chameleon](https://chameleon-llm.github.io/) - a compositional reasoning framework designed to enhance LLMs and overcome their inherent limitations, such as outdated information and lack of precise reasoning
+- [Natural Questions Dataset](https://ai.google.com/research/NaturalQuestions) - contains questions from real users, and it requires QA systems to read and comprehend an entire Wikipedia article that may or may not contain the answer to the question
 
 ### Offline-Mode
-- [ollama](https://ollama.com/) - get up and running with Llama 3, Mistral, Gemma, and other large language models
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
+- [ollama](https://ollama.com/) - get up and running with Llama 3, Mistral, Gemma, and other LLMs
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - an open-source platform designed to facilitate the deployment and operation of LLMs in real-world applications
 - [LM Studio](https://lmstudio.ai/) - an easy way to run open-source LLMs locally
 - [Jan](https://jan.ai/) - open-source ChatGPT alternative that runs 100% offline on your computer
@@ -151,9 +157,11 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
 ### Leaderboards
+- [Artificial Analysis](https://artificialanalysis.ai/text-to-image) - Text to Image AI Model & Provider Leaderboard across quality, generation time, and price
 - [SEAL Leaderboards](https://scale.com/leaderboard) - Safety, Evaluations and Alignment Lab: (i) generate code, (ii) work on Spanish-language inputs and outputs, (iii) follow detailed instructions, and (iv) solve fifth-grade math problems, by Scale AI
 - [HELM](https://crfm.stanford.edu/helm) - Holistic Evaluation of Language Models projec - leaderboards with many scenarios, metrics, and models with support for multimodality and model-graded evaluation, by Stanford
 - [vals.ai](https://www.vals.ai/) - an independent model testing service, developed benchmarks that rank LLM performance of tasks associated with income taxes, corporate finance, and contract law; it also maintains a pre-existing legal benchmark, by Vals AI
+- [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) - a comprehensive study of Trustworthiness in LLMs
 - [LMSYS Chatbot Arena](https://chat.lmsys.org/) - an open platform to evaluate LLMs by human preference in the real-world
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - evaluate models on 6 key benchmarks using the [Eleuther AI Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness), a unified framework to test generative language models on a large number of different evaluation tasks
 - [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) - a benchmark the performance (latency, throughput, memory & energy) of LLMs with different hardwares, backends and optimizations using [Optimum-Benhcmark](https://github.com/huggingface/optimum-benchmark)
@@ -196,8 +204,9 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [MONSTER API](https://monsterapi.ai/) - a platform for no code LLM fine tuning and deployments
 - [Lamini Platform](https://www.lamini.ai/) - a LLM platform that seamlessly integrates every step of the model refinement and deployment process – making model selection, model tuning and inference usage incredibly straightforward for your dev team
 - [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - a CPU/GPU LLM inference engine leveraging activation locality for your device
+- [mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - efficient inference of Mixtral-8x7B models
 ### Agents
-- [Pearl](https://github.com/facebookresearch/pearl) - a production-ready RL AI Agent Library, by Meta AI
+- [Pearl](https://github.com/facebookresearch/pearl) - a production-ready RL AI Agent Library, by MetaAI
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
 - [agents](https://github.com/aiwaves-cn/agents) - an open-source library/framework for building autonomous language agents
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - highly customizable and extendable framework, which is based on LLMs and serves as an ideal scenario for studying collective intelligence
@@ -205,12 +214,14 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 
 ## Devices
+- [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
 - [FigureAI](https://www.figure.ai/) - AI robotics company bringing a general purpose humanoid to life
 - [SanctuaryAI](https://sanctuary.ai/) - company on a mission to create the world’s first human-like intelligence in general-purpose robots
+- [Mytra](https://mytra.ai/) - warehouse robotics
 - [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard
 - [rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
-- [Open Interpreter](https://www.openinterpreter.com/01) - a new computer (the 01) with Open Interpreter at the center
+- [01 Project](https://www.openinterpreter.com/01) - the open-source language model computer, by Open Interpreter
 ### Glasses
 - [AirGo Vision](https://solosglasses.com/) - Audio Smartglasses powered by ChatGPT, by Solosglasses
 - [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/) - a 12 MP camera and five-mic system, [updates](https://about.fb.com/news/2024/04/new-ray-ban-meta-smart-glasses-styles-and-meta-ai-updates/), by Ray-Ban & MetaAI
@@ -271,6 +282,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting, by Adobe Research
 
 ## Images
+- [Sakana AI](https://sakana.ai/evolutionary-model-merge/) - drops image models to generate Japan’s traditional ukiyo-e artwork
 - [PaintsUndo](https://lllyasviel.github.io/pages/paints_undo/) - A Base Model of Drawing Behaviors in Digital Paintings
 - [SkyReels](https://skyreels.ai/) - generate comics from stories or files you upload
 - [PhotoMaker](https://photo-maker.github.io/) - Customizing Realistic Human Photos via Stacked ID Embedding
@@ -308,8 +320,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Tracking Everything Everywhere All at Once](https://omnimotion.github.io/) - a new test-time optimization method for estimating dense and long-range motion from a video sequence
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only
 - [EdgeSAM](https://mmlab-ntu.github.io/project/edgesam/) - an accelerated variant of the SAM, optimized for efficient execution on edge devices with minimal compromise in performance
-- [EfficientSAM](https://yformer.github.io/efficient-sam/) - light-weight SAM models that exhibit decent performance with largely reduced complexity, by Meta AI
-- [SAM](https://segment-anything.com/), [Blog: Introducing SAM](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Code](https://github.com/facebookresearch/segment-anything) - Segment Anything Model is a new AI model that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training, by Meta AI
+- [EfficientSAM](https://yformer.github.io/efficient-sam/) - light-weight SAM models that exhibit decent performance with largely reduced complexity, by MetaAI
+- [SAM](https://segment-anything.com/), [Blog: Introducing SAM](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Code](https://github.com/facebookresearch/segment-anything) - Segment Anything Model is a new AI model that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training, by MetaAI
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
@@ -365,7 +377,10 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
- - [3D Gen](https://ai.meta.com/research/publications/meta-3d-gen) - fast pipeline for text-to-3D asset generation. 3DGen offers 3D asset creation with high prompt fidelity and high-quality 3D shapes and textures in under a minut, by Meta AI.
+ - [VGGHeads](https://github.com/KupynOrest/head_detector) - A Large-Scale Synthetic Dataset for 3D Human Heads
+ - [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views
+ - [CharacterGen](https://huggingface.co/spaces/VAST-AI/CharacterGen)- Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration
+ - [3D Gen](https://ai.meta.com/research/publications/meta-3d-gen) - fast pipeline for text-to-3D asset generation. 3DGen offers 3D asset creation with high prompt fidelity and high-quality 3D shapes and textures in under a minut, by MetaAI
  - [InstantMesh](https://github.com/TencentARC/InstantMesh) - Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
  - [Spline](https://spline.design/ai-generate) - Generate 3D objects from text prompts and images
  - [SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings
@@ -467,36 +482,37 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
 
 ## Code & Math
+||Code|Math|
+:-:|:-:|:-:
+|Mistral|[Codestral](https://mistral.ai/news/codestral/), [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)|[MathΣtral](https://mistral.ai/news/mathstral/)|
+|Stablility AI|[StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding), [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b)||
+|Google DeepMind||[FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/), [alphageometry](https://github.com/google-deepmind/alphageometry)|
+|Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)|
+
+
 - [MathPile](https://gair-nlp.github.io/MathPile/) - a diverse and high-quality math-centric corpus comprising about 9.5 billion tokens
 - [magicoder](https://github.com/ise-uiuc/magicoder) - a model family empowered by OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code
-- [Codestral](https://mistral.ai/news/codestral/) - an open-weight generative AI model explicitly designed for code generation tasks
 - [LearnLM](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) - a family of models fine-tuned for learning, and grounded in educational research to make teaching and learning experiences more active, personal and engaging, by Google
 - [Llemma](https://github.com/EleutherAI/math-lm) - an open language model for mathematics (repository also contains submodules related to the overlap, fine-tuning, and theorem proving experiments described in the paper)
-- [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b) - instruction-tuned Code LM based on [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), handle a variety of tasks such as code generation, math and other software development related queries, by Stability AI
 - [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
 - [AlphaCodium](https://www.codium.ai/products/alpha-codium/) - a test-based, multi-stage, code-oriented iterative flow, that improves the performances of LLMs on code problems
-- [alphageometry](https://github.com/google-deepmind/alphageometry) - Solving Olympiad Geometry without Human Demonstrations, by Google DeepMind
 - [sketch-2-app](https://www.sketch2app.io/examples) - generate code based on sketch
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - a true AI developer that writes code, debugs it, talks to you when it needs help, etc
-- [FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/) - a method to search for new solutions in mathematics and computer science, by Google DeepMind
 - [MAmmoTH](https://tiger-ai-lab.github.io/MAmmoTH/) - a series of open-source LLMs specifically tailored for general math problem-solving. The MAmmoTH models are trained on MathInstruct, our meticulously curated instruction tuning dataset
 - [Defog](https://defog.ai/blog/open-sourcing-sqlcoder/) - a state-of-the-art LLM for converting natural language questions to SQL queries, which outperforms major open-source models and slightly outperforms gpt-3
 - [v0](https://v0.dev/) - a generative user interface system. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS that people can use in their projects, by Vercel Labs
-- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
 - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) - a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts, by MetaAI
-- [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding) - LLM generative AI product for coding designed to assist programmers with their daily work, by Stability AI
 - [Teaching Arithmetic to Small Transformers](https://github.com/lee-ny/teaching_arithmetic) - small transformers, trained from random initialization, can efficiently learn arithmetic operations such as addition, multiplication, and elementary functions like square root, using the next-token prediction objective
 - [InterCode](https://intercode-benchmark.github.io/) - framework of interactive coding as a standard reinforcement learning (RL) environment, with code as actions and execution feedback as observations
-- [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/) - LLMs for program synthesis, by Salesforce
 - [LeanDojo](https://leandojo.org/) - set of open-source LLM-based theorem provers without any proprietary datasets and release it under a permissive MIT license to facilitate further research
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
 - [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for code large language models (Code LLMs) and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
 - [Let’s Verify Step by Step](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision#fn-1) - a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”), by OpenAI
 - [🦍 Gorilla: LLM Connected with Massive APIs](https://gorilla.cs.berkeley.edu/) - a finetuned LLaMA-based model that surpasses GPT-4 on writing API calls
-- [CodeT5 and CodeT5+](https://github.com/salesforce/CodeT5/tree/main) - models can be deployed as an AI-powered coding assistant to boost the productivity of software developers, by Salesforce
 - [Framer](https://www.framer.com/) - a tool that constructs a completely unique website for you based on a text prompt
 - [Pico](https://picoapps.xyz/) - a tool that use GPT4 to instantly build simple, shareable web apps
+- [dropbase](https://github.com/DropbaseHQ/) - uild and prototype web apps faster with AI
 
 ## Games
 - [Genie](https://sites.google.com/view/genie-2024/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by Google DeepMind
@@ -567,6 +583,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Other: Fin, Presentation
+- [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - a fusion recipe generator powered by Google AI
 - [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) - DL tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
 - [guidde](https://www.guidde.com/) - create documentation/presentation/FAQ from captured video
