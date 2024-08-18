@@ -43,9 +43,9 @@ Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://hu
 Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Berkeley-BAIR](https://bair.berkeley.edu/)||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
 [Vicuna Team](https://lmsys.org/about/)||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
-[TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|
+[TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct)|
 [Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
-[xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5)|
+[xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|
 
 ### Open Source Models
 |Model|Company|Date|Notes|
@@ -73,6 +73,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Hermes 3](https://nousresearch.com/hermes3/) - the latest version in our Hermes series, available in 3 sizes, 8, 70, and 405B parameters
 - [SmolLM](https://huggingface.co/blog/smollm) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - a temporary prototype of new AI search features that give you fast and timely answers with clear and relevant sources
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
@@ -147,7 +148,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
 ## Evaluation
-- [promptbench] - a Unified Library for Evaluating and Understanding LLM
+- [SWE-bench](https://openai.com/index/introducing-swe-bench-verified/) - a benchmark for evaluating LLMs’ abilities to solve real-world software issues sourced from GitHub, by OpenAI
+- [promptbench](https://github.com/microsoft/promptbench) - a Unified Library for Evaluating and Understanding LLM
 - [Vibe-Eval](https://www.reka.ai/news/vibe-eval) - evaluation suite for measuring progress of multimodal language models, by Reka
 - [FACET](https://ai.meta.com/blog/dinov2-facet-computer-vision-fairness-evaluation) - FAirness in Computer Vision EvaluaTion - a new comprehensive benchmark for evaluating the fairness of computer vision models across classification, detection, instance segmentation, and visual grounding tasks
 - [Arthur Bench](https://www.arthur.ai/blog/introducing-arthur-bench) - an open-source evaluation tool for comparing LLMs, prompts, and hyperparameters for generative text models
@@ -219,6 +221,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [FigureAI](https://www.figure.ai/) - AI robotics company bringing a general purpose humanoid to life
 - [SanctuaryAI](https://sanctuary.ai/) - company on a mission to create the world’s first human-like intelligence in general-purpose robots
 - [Mytra](https://mytra.ai/) - warehouse robotics
+- [friend](https://www.friend.com/product.html) - AI-Powered Necklace companion designed not to help you get things done but to be there for you—anytime, anywhere
 - [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard
 - [rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
 - [01 Project](https://www.openinterpreter.com/01) - the open-source language model computer, by Open Interpreter
@@ -256,6 +259,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
 |stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)|
 
+- [FLUX.1](https://blackforestlabs.ai/#get-flux) -  a new text-to-image model suite for the open-source artificial intelligence community, by Black Forest Labs
 - [Kolors](https://huggingface.co/Kwai-Kolors/Kolors) - a large-scale text-to-image generation model based on latent diffusion, by the Kuaishou Kolors team
 - [StoryDiffusion](https://storydiffusion.github.io/) - Consistent Self-Attention for Long-Range Image and Video Generation
 - [Ilus AI](https://ilus.ai/) - AI illustration Generator
@@ -321,11 +325,15 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Track-Anything](https://github.com/gaomingqi/Track-Anything) - a flexible and interactive tool for video object tracking and segmentation. It is developed upon Segment Anything, can specify anything to track and segment via user clicks only
 - [EdgeSAM](https://mmlab-ntu.github.io/project/edgesam/) - an accelerated variant of the SAM, optimized for efficient execution on edge devices with minimal compromise in performance
 - [EfficientSAM](https://yformer.github.io/efficient-sam/) - light-weight SAM models that exhibit decent performance with largely reduced complexity, by MetaAI
+- [SAM2](https://ai.meta.com/blog/segment-anything-2/) - the next generation of Segment Anything Model for videos and images, by MetaAI
 - [SAM](https://segment-anything.com/), [Blog: Introducing SAM](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/), [Code](https://github.com/facebookresearch/segment-anything) - Segment Anything Model is a new AI model that can "cut out" any object, in any image, with a single click. SAM is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training, by MetaAI
 - [DINOv2](https://ai.facebook.com/blog/dino-v2-computer-vision-self-supervised-learning/) - a new method for training high-performance CV models, state-of-the-art CV models with self-supervised learning
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
+- [Text2Infographic](https://text2infographic.com/) - converts your written content into eye-catching infographics without any need for design skills
+- [Flow Studio](https://flowgpt.com/) - uses AI to transform your text prompts into visually captivating short films and videos
 - [LivePortrait](https://liveportrait.github.io/) - Efficient Portrait Animation with Stitching and Retargeting Control
 - [Odyssey](https://odyssey.systems/) - Hollywood-grade visual AI
 - [VideoPoet](https://research.google/blog/videopoet-a-large-language-model-for-zero-shot-video-generation/) - a large language model for zero-shot video generation, by Google Reasearch
@@ -377,6 +385,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+ - [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image in just 0.5 seconds
  - [VGGHeads](https://github.com/KupynOrest/head_detector) - A Large-Scale Synthetic Dataset for 3D Human Heads
  - [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views
  - [CharacterGen](https://huggingface.co/spaces/VAST-AI/CharacterGen)- Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration
@@ -455,6 +464,8 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLab
 
 ### Other
+- [Neutone Morpho](https://neutone.ai/morpho) - pre-trained AI models you can transform any incoming audio into the characteristics, or “style”, of the sounds that the model is based on
+- [Lazybird](https://www.lazybird.app/) - AI-powered voice over generator – perfect for videos, podcasts, audiobooks, and educational content
 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open) - an open source text-to-audio model for generating up to 47 seconds of samples and sound effects, by Stability AI
 - [AI Jukebox](https://huggingface.co/spaces/enzostvs/ai-jukebox) - a free in-browser text-to-music generation tool
 - [Chatter](https://chatter.hume.ai/) - an interactive podcast, by Hume
@@ -489,7 +500,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |Google DeepMind||[FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/), [alphageometry](https://github.com/google-deepmind/alphageometry)|
 |Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)|
 
-
+- [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/) - a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models
 - [MathPile](https://gair-nlp.github.io/MathPile/) - a diverse and high-quality math-centric corpus comprising about 9.5 billion tokens
 - [magicoder](https://github.com/ise-uiuc/magicoder) - a model family empowered by OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code
 - [LearnLM](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) - a family of models fine-tuned for learning, and grounded in educational research to make teaching and learning experiences more active, personal and engaging, by Google
@@ -499,6 +510,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [sketch-2-app](https://www.sketch2app.io/examples) - generate code based on sketch
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - a true AI developer that writes code, debugs it, talks to you when it needs help, etc
 - [MAmmoTH](https://tiger-ai-lab.github.io/MAmmoTH/) - a series of open-source LLMs specifically tailored for general math problem-solving. The MAmmoTH models are trained on MathInstruct, our meticulously curated instruction tuning dataset
+- [WrenAI](https://github.com/Canner/WrenAI) - open-source Text-to-SQL solutionf or data teams to get results and insights faster by asking business questions without writing SQL
 - [Defog](https://defog.ai/blog/open-sourcing-sqlcoder/) - a state-of-the-art LLM for converting natural language questions to SQL queries, which outperforms major open-source models and slightly outperforms gpt-3
 - [v0](https://v0.dev/) - a generative user interface system. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS that people can use in their projects, by Vercel Labs
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
@@ -515,6 +527,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [dropbase](https://github.com/DropbaseHQ/) - uild and prototype web apps faster with AI
 
 ## Games
+- [ExistAI](https://exists.ai/) - games from text
 - [Genie](https://sites.google.com/view/genie-2024/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by Google DeepMind
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - train RL agents to play Pokemon Red
 - [BitMagic](https://bitmagic.games/) - game creation
@@ -583,6 +596,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Other: Fin, Presentation
+- [Atlas](https://www.atlas.org/) - a school AI assistant that provides personalized help by studying your specific class materials
 - [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - a fusion recipe generator powered by Google AI
 - [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) - DL tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
