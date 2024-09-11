@@ -7,18 +7,23 @@ Welcome to contribute.
 [DeepLearning.AI Short Courses | Andrew Ng](https://learn.deeplearning.ai/) - short courses about LLMs\
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | Video TED](https://youtu.be/C_78DM8fG6E)\
 [State of GPT | Andrej Karpathy | Video](https://youtu.be/bZQun8Y4L2A)\
+[[1hr Talk] Intro to Large Language Models | Andrej Karpathy | Video](https://youtu.be/zjkBMFhNj_g?si=7vHESwCUxV_QeRWm)\
 [Opportunities in AI - 2023 | Andrew Ng | Video](https://youtu.be/5p248yoa3oE?si=LJQTHeOF-XUQB72U)\
 [GPT-4 Turbo | OpenAI DevDay, Opening Keynote | Sam Altman | Video](https://www.youtube.com/live/U9mJuUkhUzk?si=f4qPQh0_buASTp1b)\
+[Neural networks | 3Blue1Brown | Videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[Anthropic Quickstarts | Code](https://github.com/anthropics/anthropic-quickstarts)
+
 [2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
 [AI Index Report (Since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)\
 [Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
 [Prompt engineering | OpenAI | Reading](https://platform.openai.com/docs/guides/prompt-engineering)\
 [Full Stack Retrieval | Greg Kamradt | Reading](https://community.fullstackretrieval.com/)
 
-[Generative AI exists because of the transformer | Visualization](https://ig.ft.com/generative-ai/)\
 [The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT | Visualization](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)\
-[Can an AI make a data-driven, visual story? | Visualization](https://pudding.cool/2024/07/ai/)\
-[Opening up ChatGPT: tracking openness of instruction-tuned LLMs](https://opening-up-chatgpt.github.io/)
+[Opening up ChatGPT: tracking openness of instruction-tuned LLMs](https://opening-up-chatgpt.github.io/)\
+[Generative AI exists because of the transformer | Visualization](https://ig.ft.com/generative-ai/)\
+[Can an AI make a data-driven, visual story? | Visualization](https://pudding.cool/2024/07/ai/)
 
 [Gemini API Developer Competition](https://ai.google.dev/competition) - build incredible apps with the Gemini API, $1 million in cash prizes
 <!---
@@ -48,6 +53,9 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct)|
 [Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
 [xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|
+NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b), [Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base)|
+[AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|
+[Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
 
 ### Open Source Models
 |Model|Company|Date|Notes|
@@ -75,20 +83,18 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- Gemma Scope [Demo](https://www.neuronpedia.org/gemma-scope) - a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic
 - [Hermes 3](https://nousresearch.com/hermes3/) - the latest version in our Hermes series, available in 3 sizes, 8, 70, and 405B parameters
 - [SmolLM](https://huggingface.co/blog/smollm) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - a temporary prototype of new AI search features that give you fast and timely answers with clear and relevant sources
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
-- [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b) - family of LLMs, which includes a 340-billion parameter base model as well as versions fine-tuned to follow instructions and to serve as a reward model in RLHF, by NVIDIA
 - [Qwen](https://github.com/QwenLM/Qwen), [Qwen2](https://qwenlm.github.io/blog/qwen2/) - family of language models that includes base and instruction-tuned versions of five models, by Alibaba Cloud
 - [FILM](v) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training
 - [gpt2-chatbots (aka GPT-4o)](https://rentry.org/GPT2)
 - [Snowflake Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) - an enterprise-focused LLM designed to provide cost-effective training and openness
 - [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - Multimodal LLM
-- [Jamba](https://www.ai21.com/blog/announcing-jamba) - the world’s first production-grade Mamba based model, by AI21Lab
 - [ChatFlow](https://chatflow.no/) - a no-code platform that lets you set up an OpenAI-powered chatbot for your website
 - [Perplexity](https://www.perplexity.ai/) - the AI-chatbot-powered search engine
-- [Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1) - an open-source model to surpass an average score of 80%, by abacus.ai
 - [Ferret](https://github.com/apple/ml-ferret) - An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response, by Apple
 - [NotebookLM](https://notebooklm.google/) - a powerful new interface that lets you shift effortlessly from reading to asking questions to writing, with an AI thought partner helping you at every turn
 - [LLM360](https://www.llm360.ai/) - enables community-owned AGI through open-source large model research and development (K2-65B, CrystalCoder-7B, Amber-7B)
@@ -101,7 +107,6 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Nougat](https://facebookresearch.github.io/nougat/) - Neural Optical Understanding for Academic Documents, a Visual Transformer model that performs an Optical Character Recognition (OCR) task for processing scientific documents into a markup language, and demonstrate the effectiveness of our model on a new dataset of scientific documents, by MetaAI
 - [TextFX](https://textfx.withgoogle.com/) - AI-powered tools for rappers, writers and wordsmiths
 - [Prompt2Model](https://github.com/neulab/prompt2model) - a system that takes a natural language task description (like the prompts used for LLMs such as ChatGPT) to train a small special-purpose model that is conducive for deployment
-- [Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/) - a new family of models that are finetuned from base LLaMA and LLaMA2
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - open-source, large-scale, high-quality instruction tuning SFT data to facilitate the construction of powerful LLMs with general tool-use capability
 - [Platypus](https://platypus-llm.github.io/) - a family of fine-tuned and merged LLMs that achieves the strongest performance and currently stands at first place in HuggingFace's Open LLM Leaderboard as of the release date of this work
 - [OpenFlamingo V2](https://laion.ai/blog/open-flamingo-v2/) - an open-source effort to replicate DeepMind's Flamingo models
@@ -165,6 +170,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
 ### Leaderboards
+- [LLM Hallucination Index](https://www.rungalileo.io/hallucinationindex) - A Ranking & Evaluation Framework For LLM Hallucinations
 - [Artificial Analysis](https://artificialanalysis.ai/text-to-image) - Text to Image AI Model & Provider Leaderboard across quality, generation time, and price
 - [SEAL Leaderboards](https://scale.com/leaderboard) - Safety, Evaluations and Alignment Lab: (i) generate code, (ii) work on Spanish-language inputs and outputs, (iii) follow detailed instructions, and (iv) solve fifth-grade math problems, by Scale AI
 - [HELM](https://crfm.stanford.edu/helm) - Holistic Evaluation of Language Models projec - leaderboards with many scenarios, metrics, and models with support for multimodality and model-graded evaluation, by Stanford
@@ -512,6 +518,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 - [Genie](https://cosine.sh/genie) - AI software engineer - achieving a 30% eval score on the industry standard benchmark SWE-Bench. Genie is a fine-tuned version of GPT-4o with a larger context window of undisclosed size. Genie is able to solve bugs, build features, refactor code, and everything in between either fully autonomously or paired with the user, like working with a colleague, not just a copilot
 - [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
 - [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) - Towards Fully Automated Open-Ended Scientific Discovery
+- [Dracarys](https://huggingface.co/abacusai/Dracarys-72B-Instruct) - a new family of open LLMs for coding, by Abacus.AI
 - [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/) - a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models
 - [MathPile](https://gair-nlp.github.io/MathPile/) - a diverse and high-quality math-centric corpus comprising about 9.5 billion tokens
 - [magicoder](https://github.com/ise-uiuc/magicoder) - a model family empowered by OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code
