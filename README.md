@@ -38,7 +38,7 @@ Welcome to contribute.
 ||2021-22|2023|2024
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemma](https://blog.google/technology/developers/gemma-open-models/),<br>[Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/)|
-[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/),<br>[CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)|
+[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/), <br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
 [MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/)|
 [Mistral AI](https://mistral.ai/)||[Mistral](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
@@ -83,6 +83,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Paperguide](https://paperguide.ai/) - AI Research Assistant, Reference Manager and Writing Assistant that help you understand papers, manage references, annotate/take notes, and supercharge your writing
 - Gemma Scope [Demo](https://www.neuronpedia.org/gemma-scope) - a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic
 - [Hermes 3](https://nousresearch.com/hermes3/) - the latest version in our Hermes series, available in 3 sizes, 8, 70, and 405B parameters
 - [SmolLM](https://huggingface.co/blog/smollm) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
@@ -170,6 +171,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
 ### Leaderboards
+- [AgentBoard](https://hkust-nlp.github.io/agentboard/) - a benchmark designed for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates
 - [LLM Hallucination Index](https://www.rungalileo.io/hallucinationindex) - A Ranking & Evaluation Framework For LLM Hallucinations
 - [Artificial Analysis](https://artificialanalysis.ai/text-to-image) - Text to Image AI Model & Provider Leaderboard across quality, generation time, and price
 - [SEAL Leaderboards](https://scale.com/leaderboard) - Safety, Evaluations and Alignment Lab: (i) generate code, (ii) work on Spanish-language inputs and outputs, (iii) follow detailed instructions, and (iv) solve fifth-grade math problems, by Scale AI
@@ -322,6 +324,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
 ## Computer Vision
+- [Depth-Anything](https://huggingface.co/spaces/LiheYoung/Depth-Anything) - a depth estimation solution that can deal with any images under any circumstance
 - [TAO-Amodal](https://tao-amodal.github.io/) - benchmark is a dataset that includes amodal and modal bounding boxes for visible and occluded objects
 - [OMG-Seg](https://github.com/lxtGH/OMG-Seg) - One Model that is Good enough to efficiently and effectively handle all the segmentation tasks, including image semantic, instance, and panoptic segmentation, as well as their video counterparts, open vocabulary settings, prompt-driven, interactive segmentation like SAM, and video object segmentation
 - [PUG (Photorealistic Unreal Graphics)](https://pug.metademolab.com/) - 3 datasets for representation learning research
@@ -344,6 +347,8 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
+- [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
 - [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
 - [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
 - [Text2Infographic](https://text2infographic.com/) - converts your written content into eye-catching infographics without any need for design skills
@@ -399,53 +404,55 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
- - [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image in just 0.5 seconds
- - [VGGHeads](https://github.com/KupynOrest/head_detector) - A Large-Scale Synthetic Dataset for 3D Human Heads
- - [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views
- - [CharacterGen](https://huggingface.co/spaces/VAST-AI/CharacterGen)- Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration
- - [3D Gen](https://ai.meta.com/research/publications/meta-3d-gen) - fast pipeline for text-to-3D asset generation. 3DGen offers 3D asset creation with high prompt fidelity and high-quality 3D shapes and textures in under a minut, by MetaAI
- - [InstantMesh](https://github.com/TencentARC/InstantMesh) - Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
- - [Spline](https://spline.design/ai-generate) - Generate 3D objects from text prompts and images
- - [SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings
- - [Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d) - Quality Novel View Synthesis and 3D Generation from Single Images, by Stability AI
- - [TripoSR](https://stability.ai/news/triposr-3d-generation) - Fast 3D Object Generation from Single Images, by Stability AI
- - [BlendNeRF](https://blandocs.github.io/blendnerf) - 3D-aware Blending with Generative NeRFs
- - [4DGen](https://vita-group.github.io/4DGen/) - Grounded 4D Content Generation with Spatial-tempsoral Consistency
- - [MobileBrick](https://code.active.vision/MobileBrick/) - Building LEGO for 3D Reconstruction on Mobile Devices. A novel data capturing and 3D annotation pipeline to obtain precise 3D ground-truth shapes without relying on expensive 3D scanners
- - [PoseGPT](https://yfeng95.github.io/posegpt/) - Chatting about 3D Human Pose
- - [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/) - High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
- - [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation) - 3D Object Generation from Single Images
- - [SMERF](https://smerf-3d.github.io/) - Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration
- - [DreamCraft3D](https://mrtornado24.github.io/DreamCraft3D/) - a hierarchical 3D content generation method that produces high-fidelity and coherent 3D objects
- - [Genie](https://lumalabs.ai/genie) - 3D fundational model, by [Lumalabs](https://lumalabs.ai/)
- - [Masterpiece X](https://www.masterpiecex.com/) - the generative text-to-3D app that allows users to create 3D objects and characters complete with mesh, texture, and animations
- - [GAUSSIAN SPLAT](https://poly.cam/gaussian-splatting) - a rasterization technique for 3D reconstruction and rendering
- - [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - generating multiview-consistent images from a single-view image
- - [MAV3D (Make-A-Video3D)](https://make-a-video3d.github.io/) - a method for generating three-dimensional dynamic scenes from text descriptions. Our approach uses a 4D dynamic Neural Radiance Field (NeRF), which is optimized for scene appearance, density, and motion consistency by querying a Text-to-Video (T2V) diffusion-based model
- - [HiFA](https://hifa-team.github.io/HiFA-site/) - High-fidelity Text-to-3D with Advanced Diffusion Guidance
- - [AutoRecon](https://zju3dv.github.io/autorecon/) - a framework named for the automated discovery and reconstruction of an object from multi-view images
- - [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
- - [CSM (Common Sense Machines)](https://3d.csm.ai/) - generate your own textured 3D assets
- - [MotionGPT: Human Motion as Foreign Language](https://motion-gpt.github.io/) - a unified, versatile, and user-friendly motion-language model to handle multiple motion-relevant tasks
- - [PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360°](https://sizhean.github.io/panohead) - the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in 360° with diverse appearance and detailed geometry using only in-the-wild unstructured images for training
- - [AvatarBooth](https://zeng-yifei.github.io/avatarbooth_page/) - a text-to-3D model. It creates an animatable 3D model with your word description. Also, it can generate customized model with 4~6 photos from your phone or a character design generated from diffusion model
- - [Infinigen](https://infinigen.org/), [Code](https://github.com/princeton-vl/infinigen) - a procedural generator of 3D scenes, creating depth maps and labeling every aspect of the world it generates, by Princeton Vision & Learning Lab
- - [USD - Universal Scene Description](https://developer.nvidia.com/usd) - an open and extensible framework and ecosystem for describing, composing, simulating and collaborating within 3D worlds, originally developed by Pixar Animation Studios
- - [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Code](https://github.com/openai/shap-e) - a conditional generative model for 3D assets, by OpenAI
- - [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), [Code](https://github.com/nv-tlabs/nksr)- a novel method for reconstructing a 3D implicit surface from a large-scale, sparse, and noisy point, by NVIDIA
- - [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry, by NVIDIA
- - [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars, by Microsoft
- - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) - three key elements that allow us to achieve state-of-the-art visual quality while maintaining competitive training times and importantly allow high-quality real-time (≥ 100 fps) novel-view synthesis at 1080p resolution
- - [ConsistentNeRF](https://skhu101.github.io/ConsistentNeRF) - a method that leverages depth information to regularize both multi-view and single-view 3D consistency among pixels
- - [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
- - [Zip-NeRF](https://jonbarron.info/zipnerf/) - a technique that combines mip-NeRF 360 and grid-based models such as Instant NGP
- - [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
- - [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
- - [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
- - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
- - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
- - [Objaverse-XL](https://objaverse.allenai.org/) - an open dataset of over 10 million 3D objects
- - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
+- [Meshy](https://www.meshy.ai/) - create stunning 3D models with AI
+- [Generative 3D API Toolkit](https://www.shutterstock.com/discover/generative-ai-3d) - generate 3D models, materials, and HDRIs at the speed of your imagination. Supercharge your 3D workflow with our groundbreaking Gen3D toolkit from Shutterstock powered by NVIDIA
+- [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image in just 0.5 seconds
+- [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views
+- [VGGHeads](https://github.com/KupynOrest/head_detector) - A Large-Scale Synthetic Dataset for 3D Human Heads
+- [CharacterGen](https://huggingface.co/spaces/VAST-AI/CharacterGen)- Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration
+- [3D Gen](https://ai.meta.com/research/publications/meta-3d-gen) - fast pipeline for text-to-3D asset generation. 3DGen offers 3D asset creation with high prompt fidelity and high-quality 3D shapes and textures in under a minut, by MetaAI
+- [InstantMesh](https://github.com/TencentARC/InstantMesh) - Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
+- [Spline](https://spline.design/ai-generate) - Generate 3D objects from text prompts and images
+- [SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - a Scalable Instructable Multiworld Agent (SIMA) that can follow natural-language instructions to carry out tasks in a variety of video game settings
+- [Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d) - Quality Novel View Synthesis and 3D Generation from Single Images, by Stability AI
+- [TripoSR](https://stability.ai/news/triposr-3d-generation) - Fast 3D Object Generation from Single Images, by Stability AI
+- [BlendNeRF](https://blandocs.github.io/blendnerf) - 3D-aware Blending with Generative NeRFs
+- [4DGen](https://vita-group.github.io/4DGen/) - Grounded 4D Content Generation with Spatial-tempsoral Consistency
+- [MobileBrick](https://code.active.vision/MobileBrick/) - Building LEGO for 3D Reconstruction on Mobile Devices. A novel data capturing and 3D annotation pipeline to obtain precise 3D ground-truth shapes without relying on expensive 3D scanners
+- [PoseGPT](https://yfeng95.github.io/posegpt/) - Chatting about 3D Human Pose
+- [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/) - High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
+- [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation) - 3D Object Generation from Single Images
+- [SMERF](https://smerf-3d.github.io/) - Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration
+- [DreamCraft3D](https://mrtornado24.github.io/DreamCraft3D/) - a hierarchical 3D content generation method that produces high-fidelity and coherent 3D objects
+- [Genie](https://lumalabs.ai/genie) - 3D fundational model, by [Lumalabs](https://lumalabs.ai/)
+- [Masterpiece X](https://www.masterpiecex.com/) - the generative text-to-3D app that allows users to create 3D objects and characters complete with mesh, texture, and animations
+- [GAUSSIAN SPLAT](https://poly.cam/gaussian-splatting) - a rasterization technique for 3D reconstruction and rendering
+- [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - generating multiview-consistent images from a single-view image
+- [MAV3D (Make-A-Video3D)](https://make-a-video3d.github.io/) - a method for generating three-dimensional dynamic scenes from text descriptions. Our approach uses a 4D dynamic Neural Radiance Field (NeRF), which is optimized for scene appearance, density, and motion consistency by querying a Text-to-Video (T2V) diffusion-based model
+- [HiFA](https://hifa-team.github.io/HiFA-site/) - High-fidelity Text-to-3D with Advanced Diffusion Guidance
+- [AutoRecon](https://zju3dv.github.io/autorecon/) - a framework named for the automated discovery and reconstruction of an object from multi-view images
+- [BITE](https://bite.is.tue.mpg.de/) - enables 3D shape and pose estimation of dogs from a single input image. The model handles a wide range of shapes and breeds, as well as challenging postures far from the available training poses, like sitting or lying on the ground
+- [CSM (Common Sense Machines)](https://3d.csm.ai/) - generate your own textured 3D assets
+- [MotionGPT: Human Motion as Foreign Language](https://motion-gpt.github.io/) - a unified, versatile, and user-friendly motion-language model to handle multiple motion-relevant tasks
+- [PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360°](https://sizhean.github.io/panohead) - the first 3D-aware generative model that enables high-quality view-consistent image synthesis of full heads in 360° with diverse appearance and detailed geometry using only in-the-wild unstructured images for training
+- [AvatarBooth](https://zeng-yifei.github.io/avatarbooth_page/) - a text-to-3D model. It creates an animatable 3D model with your word description. Also, it can generate customized model with 4~6 photos from your phone or a character design generated from diffusion model
+- [Infinigen](https://infinigen.org/), [Code](https://github.com/princeton-vl/infinigen) - a procedural generator of 3D scenes, creating depth maps and labeling every aspect of the world it generates, by Princeton Vision & Learning Lab
+- [USD - Universal Scene Description](https://developer.nvidia.com/usd) - an open and extensible framework and ecosystem for describing, composing, simulating and collaborating within 3D worlds, originally developed by Pixar Animation Studios
+- [Shap-E: Demo](https://huggingface.co/spaces/hysts/Shap-E), [Code](https://github.com/openai/shap-e) - a conditional generative model for 3D assets, by OpenAI
+- [Neural Kernel Surface Reconstruction](https://research.nvidia.com/labs/toronto-ai/NKSR/), [Code](https://github.com/nv-tlabs/nksr)- a novel method for reconstructing a 3D implicit surface from a large-scale, sparse, and noisy point, by NVIDIA
+- [Neuralangelo](https://research.nvidia.com/labs/dir/neuralangelo/) - a framework for high-fidelity 3D surface reconstruction from RGB video captures. Using ubiquitous mobile devices, we enable users to create digital twins of both object-centric and large-scale real-world scenes with highly detailed 3D geometry, by NVIDIA
+- [Rodin Diffusion](https://3d-avatar-diffusion.microsoft.com/) - a Generative Model for Sculpting 3D Digital Avatars, by Microsoft
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) - three key elements that allow us to achieve state-of-the-art visual quality while maintaining competitive training times and importantly allow high-quality real-time (≥ 100 fps) novel-view synthesis at 1080p resolution
+- [ConsistentNeRF](https://skhu101.github.io/ConsistentNeRF) - a method that leverages depth information to regularize both multi-view and single-view 3D consistency among pixels
+- [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/) - a text-driven 3D scene generation framework, combines the neural radiance field (NeRF) and a pre-trained text-to-image diffusion model to generate diverse view-consistent indoor and outdoor 3D scenes from natural language descriptions
+- [Zip-NeRF](https://jonbarron.info/zipnerf/) - a technique that combines mip-NeRF 360 and grid-based models such as Instant NGP
+- [S-NeRF](https://ziyang-xie.github.io/s-nerf/) - a new street-view NeRF (S-NeRF) that considers novel view synthesis of both the large-scale background scenes and the foreground moving vehicles jointly
+- [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) - Unbounded Anti-Aliased Neural Radiance Fields, an extension of mip-NeRF that uses a non-linear scene parameterization, online distillation, and a novel distortion-based regularizer to overcome the challenges presented by unbounded scenes
+- [3D-aware Conditional Image Synthesis](https://www.cs.cmu.edu/~pix2pix3D/) - a 3D-aware conditional generative model for controllable photorealistic image synthesis. Given a 2D label map, such as a segmentation or edge map, our model synthesizes a photo from different viewpoints
+- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/) - can create high-fidelity 3D content from only a single image
+- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/) - generates textured 3D meshes from a given text prompt using 2D text-to-image models
+- [Objaverse-XL](https://objaverse.allenai.org/) - an open dataset of over 10 million 3D objects
+- [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
 ### [MetaAI](https://ai.meta.com/)
@@ -614,6 +621,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Other: Fin, Presentation
+- [Bricks](https://www.thebricks.com/) - an AI-powered tool that generates reports, visuals, and presentations from your data
 - [Atlas](https://www.atlas.org/) - a school AI assistant that provides personalized help by studying your specific class materials
 - [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - a fusion recipe generator powered by Google AI
 - [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) - DL tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials
