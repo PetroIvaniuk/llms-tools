@@ -39,8 +39,8 @@ Welcome to contribute.
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemma](https://blog.google/technology/developers/gemma-open-models/),<br>[Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/)|
 [OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/), <br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
-[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/)|
-[Mistral AI](https://mistral.ai/)||[Mistral](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/)|
+[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)|
+[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
 Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
 EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
@@ -56,16 +56,20 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b), [Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base)|
 [AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|
 [Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
+Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|
 
 ### Open Source Models
 |Model|Company|Date|Notes|
 :-|:-:|:-:|:-:
+|[Qwen2.5 Family](https://qwenlm.github.io/blog/qwen2.5/)|Alibaba Cloud|2024-09-19|some versions|
 |[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)|Microsoft|2023-05-21|
-|[Qwen2](https://qwenlm.github.io/blog/qwen2/)|Alibaba Cloud|2024-06-07|some versions|
+|[Qwen2 Family](https://qwenlm.github.io/blog/qwen2/)|Alibaba Cloud|2024-06-07|some versions|
 |[Llama Family](https://llama.meta.com/)|MetaAI|||
 |[DBRX](https://www.databricks.com/company/newsroom/press-releases/databricks-launches-dbrx-new-standard-efficient-open-source-models)|Databricks|2024-03-27|a general purpose LLM|
 |[Gemma](https://blog.google/technology/developers/gemma-open-models/)|Google|2024-02-21||
 |[phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|Microsoft|2023-12-12||
+|[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)|Mistral|2023-09-27|Apache 2.0|
+
 
 ### Chats & Assistants
 |Chat|Company|Notes|
@@ -83,14 +87,14 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Molmo](https://molmo.allenai.org/) - Multimodal Open Language Model, Molmo is small but punching well above its weight, by Ai2
 - [Paperguide](https://paperguide.ai/) - AI Research Assistant, Reference Manager and Writing Assistant that help you understand papers, manage references, annotate/take notes, and supercharge your writing
 - Gemma Scope [Demo](https://www.neuronpedia.org/gemma-scope) - a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic
 - [Hermes 3](https://nousresearch.com/hermes3/) - the latest version in our Hermes series, available in 3 sizes, 8, 70, and 405B parameters
 - [SmolLM](https://huggingface.co/blog/smollm) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - a temporary prototype of new AI search features that give you fast and timely answers with clear and relevant sources
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
-- [Qwen](https://github.com/QwenLM/Qwen), [Qwen2](https://qwenlm.github.io/blog/qwen2/) - family of language models that includes base and instruction-tuned versions of five models, by Alibaba Cloud
-- [FILM](v) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training
+- [FILM](https://github.com/microsoft/FILM) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training, by Microsoft
 - [gpt2-chatbots (aka GPT-4o)](https://rentry.org/GPT2)
 - [Snowflake Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) - an enterprise-focused LLM designed to provide cost-effective training and openness
 - [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - Multimodal LLM
@@ -130,7 +134,6 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [PdfGPT](https://pdfgpt.io/) - a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
 - [Baize](https://github.com/project-baize/baize-chatbot) - an open-source chat model trained with LoRA. It uses 100k dialogs generated by letting ChatGPT chat with itself
 - [Chameleon](https://chameleon-llm.github.io/) - a compositional reasoning framework designed to enhance LLMs and overcome their inherent limitations, such as outdated information and lack of precise reasoning
-- [Natural Questions Dataset](https://ai.google.com/research/NaturalQuestions) - contains questions from real users, and it requires QA systems to read and comprehend an entire Wikipedia article that may or may not contain the answer to the question
 
 ### Offline-Mode
 - [msty](https://msty.app/) - the easiest way to use local and online AI models
@@ -144,12 +147,12 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 
 ### Large Visual Language Models (LVLMs)
 - [Qwen2-VL](https://qwenlm.github.io/blog/qwen2-vl/) - latest version of the VLM based on Qwen2 in the Qwen model familities: SoTA understanding of images of various resolution & ratio; Understanding videos of 20min+; Agent that can operate your mobiles, robots, etc; Multilingual Support
+- [Qwen-VL](https://github.com/QwenLM/Qwen-VL) - multimodal version of the large model series. Accepts image, text, and bounding box as inputs, outputs text and bounding box
 - [PaliGemma](https://developers.googleblog.com/en/gemma-family-and-toolkit-expansion-io-2024/) - a powerful open VLM inspired by PaLI-3, optimized for image captioning, visual Q&A and other image labeling tasks, by Google
 - [Idefics2](https://huggingface.co/blog/idefics2) - it can answer questions about images, describe visual content, create stories grounded in multiple images, extract information from documents, and perform basic arithmetic operations
 - [Grok-1.5 Vision](https://x.ai/blog/grok-1.5v) - can process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs, by xAI
 - [CogVLM & CogAgent](https://github.com/THUDM/CogVLM) - an 18 billion parameter visual language model specializing in GUI understanding and navigation; supports high-resolution inputs (1120x1120) and shows abilities in tasks such as visual Q&A, visual grounding, and GUI Agent
 - [AnyText](https://github.com/tyxsspa/AnyText) - Multilingual Visual Text Generation And Editing
-- [Qwen-VL](https://github.com/QwenLM/Qwen-VL) - multimodal version of the large model series. Accepts image, text, and bounding box as inputs, outputs text and bounding box
 - [AnomalyGPT](https://github.com/CASIA-IVA-Lab/AnomalyGPT) - the LVLM based Industrial Anomaly Detection (IAD) method that can detect anomalies in industrial images without the need for manually specified thresholds
 - [IDEFICS](https://huggingface.co/blog/idefics) - an open-access VLM based on Flamingo. The model accepts arbitrary sequences of image and text inputs and produces text outputs, aiming to bring transparency to AI systems and serve as a foundation for open research in multimodal AI systems
 - [Prismer](https://shikun.io/projects/prismer) - a data- and parameter-efficient VLM that leverages an ensemble of diverse, pre-trained domain experts
@@ -158,7 +161,8 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [LLaVA](https://llava-vl.github.io/) - a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
-## Evaluation
+### Evaluation
+- [JailbreakBench](https://jailbreakbench.github.io/) - Repository of jailbreak artifacts, Standardized evaluation framework, Leaderboard, Dataset
 - [SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/) - a benchmark for evaluating LLMs’ abilities to solve real-world software issues sourced from GitHub, by OpenAI
 - [SWE-bench](https://www.swebench.com/) - Can Language Models Resolve Real-world Github Issues?
 - [promptbench](https://github.com/microsoft/promptbench) - a Unified Library for Evaluating and Understanding LLM
@@ -187,6 +191,11 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [The Open Medical-LLM Leaderboard](https://huggingface.co/blog/leaderboard-medicalllm) - aims to track, rank and evaluate the performance of LLMs on medical question answering tasks
 - [TheFastest.AI](https://thefastest.ai/) - site that provides reliable measurements for the performance of popular models
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
+
+## Datasets
+- [InfiMM-WebMath-40B Dataset](https://huggingface.co/datasets/Infi-MM/InfiMM-WebMath-40B) - large-scale, open-source multimodal dataset specifically designed for mathematical reasoning tasks
+- [MMMLU](https://huggingface.co/datasets/openai/MMMLU) - Multilingual Massive Multitask Language Understanding
+- [Natural Questions](https://ai.google.com/research/NaturalQuestions) - contains questions from real users, and it requires QA systems to read and comprehend an entire Wikipedia article that may or may not contain the answer to the question
 
 ## Libraries
 <!---
@@ -230,6 +239,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 
 ## Devices
+- [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
 - [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
 - [FigureAI](https://www.figure.ai/) - AI robotics company bringing a general purpose humanoid to life
@@ -319,7 +329,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [Matting Anything](https://chrisjuniorli.github.io/project/Matting-Anything/), [Code](https://github.com/SHI-Labs/Matting-Anything), [Demo: HF](https://huggingface.co/spaces/shi-labs/Matting-Anything) - an efficient and versatile framework for estimating the alpha matte of any instance in an image with user-prompt guidance
 - [Plug-and-Play](https://pnp-diffusion.github.io/), [Code](https://github.com/MichalGeyer/plug-and-play) - a large-scale text-to-image generative models have been a revolutionary breakthrough in the evolution of generative AI, allowing us to synthesize diverse images that convey highly complex visual concepts
 - [Real-Time Neural Appearance Models](https://research.nvidia.com/labs/rtr/neural_appearance_models/) - a complete system for real-time rendering of scenes with complex appearance previously reserved for offline use, by NVIDIA
-- [Designer](https://designer.microsoft.com/), [Microsoft Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/) by Microsoft. Designer has all the tools you’d expect, plus a few AI superpowers. Generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. Designer can even propose captions and hashtags to make social media sharing effortless
+- [Designer](https://designer.microsoft.com/) - generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. [Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/), by Microsoft.
 - [Scribble Diffusion](https://scribblediffusion.com/) - turn your sketch into a refined image using AI
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
 
@@ -396,7 +406,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [REVELxyz](https://www.revel.xyz/animai) - a tool for creating Animated Avatars from a single photo
 - [ANIMATED DRAWINGS](https://sketch.metademolab.com/) - a tool that brings children's drawings to life, by animating characters to move around, by MetaAI
 - [RERENDER A VIDEO](https://anonymous-31415926.github.io/), [Demo: HF](https://huggingface.co/spaces/Anonymous-sub/Rerender) - a novel zero-shot text-guided video-to-video translation framework to adapt image models to videos
-- Roop, [Code](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training
+- Roop, [Code](https://github.com/s0md3v/roop) - take a video and replace the face in it with a face of your choice. You only need one image of the desired face
 - [Text2Performer](https://yumingj.github.io/projects/Text2Performer.html) - Text-Driven Human Video Generation, where a video sequence is synthesized from texts describing the appearance and motions of a target performer
 - [DragGAN](https://vcai.mpi-inf.mpg.de/projects/DragGAN/), [Code](https://github.com/XingangPan/DragGAN), [Demo: HF](https://huggingface.co/spaces/DragGan/DragGan) - way of controlling GANs, that is, to "drag" any points of the image to precisely reach target points in a user-interactive manner. Through DragGAN, anyone can deform an image with precise control over where pixels go, thus manipulating the pose, shape, expression, and layout of diverse categories such as animals, cars, humans, landscapes, etc
 - [DragDiffusion](https://yujun-shi.github.io/projects/dragdiffusion.html) - Harnessing Diffusion Models for Interactive Point-based Image Editing
@@ -404,6 +414,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+- [cadwithai](https://www.cadwithai.com/) - a tool that allows users to create and edit CAD models using an AI chatbot to enhance efficiency and creativity in design work
 - [Meshy](https://www.meshy.ai/) - create stunning 3D models with AI
 - [Generative 3D API Toolkit](https://www.shutterstock.com/discover/generative-ai-3d) - generate 3D models, materials, and HDRIs at the speed of your imagination. Supercharge your 3D workflow with our groundbreaking Gen3D toolkit from Shutterstock powered by NVIDIA
 - [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image in just 0.5 seconds
@@ -517,16 +528,16 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 ## Code & Math
 ||Code|Math|
 :-:|:-:|:-:
-|Mistral|[Codestral](https://mistral.ai/news/codestral/), [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)|[MathΣtral](https://mistral.ai/news/mathstral/)|
+|[Mistral AI](https://mistral.ai/)|[Codestral](https://mistral.ai/news/codestral/), [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)|[MathΣtral](https://mistral.ai/news/mathstral/)|
 |Stablility AI|[StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding), [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b)||
 |Google DeepMind||[FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/), [alphageometry](https://github.com/google-deepmind/alphageometry)|
-|Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)|
+|Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)||
+|Alibaba Cloud|[Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/), [Qwen2.5-Math](https://qwenlm.github.io/blog/qwen2.5-math/)|[CodeQwen1.5](https://qwenlm.github.io/blog/codeqwen1.5/), [Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5-coder)|
 
 - [Genie](https://cosine.sh/genie) - AI software engineer - achieving a 30% eval score on the industry standard benchmark SWE-Bench. Genie is a fine-tuned version of GPT-4o with a larger context window of undisclosed size. Genie is able to solve bugs, build features, refactor code, and everything in between either fully autonomously or paired with the user, like working with a colleague, not just a copilot
 - [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
 - [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) - Towards Fully Automated Open-Ended Scientific Discovery
 - [Dracarys](https://huggingface.co/abacusai/Dracarys-72B-Instruct) - a new family of open LLMs for coding, by Abacus.AI
-- [Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/) - a series of specialized math language models built upon the Qwen2 LLMs, which significantly outperforms the mathematical capabilities of open-source models
 - [MathPile](https://gair-nlp.github.io/MathPile/) - a diverse and high-quality math-centric corpus comprising about 9.5 billion tokens
 - [magicoder](https://github.com/ise-uiuc/magicoder) - a model family empowered by OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets for generating low-bias and high-quality instruction data for code
 - [LearnLM](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/) - a family of models fine-tuned for learning, and grounded in educational research to make teaching and learning experiences more active, personal and engaging, by Google
