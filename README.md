@@ -3,6 +3,13 @@ The repository contains a list of ready-to-use AI Tools, Open Sources, and Resea
 Apart from LLMs, you can find here new AI research from other areas such as Computer Vision, etc.\
 Welcome to contribute.
 
+## Nobel Prize
+**The Nobel Prize in Physics 2024** was awarded to **John J. Hopfield and Geoffrey E. Hinton** [“for foundational discoveries and inventions that enable machine learning with artificial neural networks”](https://www.nobelprize.org/prizes/physics/2024/press-release/).
+
+**The Nobel Prize in Chemistry 2024** was awarded with one half to **David Baker** [“for computational protein design”](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) and the other half jointly to **Demis Hassabis and John M. Jumper** [“for protein structure prediction”](https://www.nobelprize.org/prizes/chemistry/2024/press-release/).
+
+Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton rewards plagiarism and incorrect attribution in computer science](https://x.com/SchmidhuberAI/status/1844022724328394780)
+
 ## Large Language Models (LLMs) and Chatbots
 [DeepLearning.AI Short Courses | Andrew Ng](https://learn.deeplearning.ai/) - short courses about LLMs\
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | Video TED](https://youtu.be/C_78DM8fG6E)\
@@ -25,7 +32,12 @@ Welcome to contribute.
 [Generative AI exists because of the transformer | Visualization](https://ig.ft.com/generative-ai/)\
 [Can an AI make a data-driven, visual story? | Visualization](https://pudding.cool/2024/07/ai/)
 
-[Gemini API Developer Competition](https://ai.google.dev/competition) - build incredible apps with the Gemini API, $1 million in cash prizes
+### Competitions
+[AI Mathematical Olympiad - Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2) - solve national-level math challenges using artificial intelligence models (Deadline: Mar, 2025)\
+[Google - Unlock Global Communication with Gemma](https://www.kaggle.com/competitions/gemma-language-tuning) - create Gemma model variants for a specific language or unique cultural aspect (Deadline: Jan, 2024)\
+[Google - Gemini Long Context](https://www.kaggle.com/competitions/gemini-long-context) - demonstrate interesting use cases for Gemini's long context window (Deadline: Dec, 2024)\
+[Gemini API Developer Competition](https://ai.google.dev/competition) - build incredible apps with the Gemini API, $1 million in cash prizes (Deadline: Sep, 2024)
+
 <!---
 ||Google|OpenAI|Meta|EleutherAI|Stability AI|Anthropic|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
@@ -40,7 +52,7 @@ Welcome to contribute.
 Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemma](https://blog.google/technology/developers/gemma-open-models/),<br>[Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/)|
 [OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/), <br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
 [MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)|
-[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/)|
+[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
 Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
 EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
@@ -53,7 +65,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct)|
 [Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
 [xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|
-NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b), [Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base)|
+NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b),<br>[Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base), [NVLM 1.0](https://research.nvidia.com/labs/adlr/NVLM-1/),<br>[Llama-3.1-Nemotron-70B-Instruct](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)|
 [AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|
 [Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
 Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|
@@ -69,7 +81,6 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |[Gemma](https://blog.google/technology/developers/gemma-open-models/)|Google|2024-02-21||
 |[phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|Microsoft|2023-12-12||
 |[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)|Mistral|2023-09-27|Apache 2.0|
-
 
 ### Chats & Assistants
 |Chat|Company|Notes|
@@ -284,7 +295,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
 |stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)|
 
-- [FLUX.1](https://blackforestlabs.ai/#get-flux) - a new text-to-image model suite for the open-source artificial intelligence community, by Black Forest Labs
+- [FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1[PRO]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/) - a new text-to-image model suite for the open-source artificial intelligence community, by Black Forest Labs
 - [Kolors](https://huggingface.co/Kwai-Kolors/Kolors) - a large-scale text-to-image generation model based on latent diffusion, by the Kuaishou Kolors team
 - [StoryDiffusion](https://storydiffusion.github.io/) - Consistent Self-Attention for Long-Range Image and Video Generation
 - [Ilus AI](https://ilus.ai/) - AI illustration Generator
@@ -319,7 +330,6 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [NSF](https://light.princeton.edu/publication/nsf/) - Neural Spline Fields for Burst Image Fusion and Layer Separation
 - [Material Palette](https://astra-vision.github.io/MaterialPalette/) - a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image
 - [DiffusionLight](https://diffusionlight.github.io/) - a simple yet effective technique to estimate lighting in a single input image
-- [KREA](https://www.krea.ai/) - generate images and videos with a delightful AI-powered design tool
 - [Magnific](https://magnific.ai/) - the image Upscaler & Enhancer
 - [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
 - [wasitai](https://wasitai.com/) - check if an image was generated by a machine
@@ -340,7 +350,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [PUG (Photorealistic Unreal Graphics)](https://pug.metademolab.com/) - 3 datasets for representation learning research
 - [Tracking Anything in High Quality](https://github.com/jiawen-zhu/HQTrack) - a framework for high performance video object tracking and segmentation
 - [DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data](https://dreamsim-nights.github.io/) - a new benchmark of synthetic image triplets that span a wide range of mid-level variations, labeled with human similarity judgments
-- [CoTracker](https://co-tracker.github.io/) - an architecture that jointly tracks multiple points throughout an entire video, by MetaAI
+- [CoTracker](https://co-tracker.github.io/), [CoTracker3](https://cotracker3.github.io/) - an architecture that jointly tracks multiple points throughout an entire video, by MetaAI
 - [TAPIR](https://deepmind-tapir.github.io/) - a model for Tracking Any Point (TAP) that effectively tracks a query point in a video sequence, by Google DeepMind
 - [DreamTeache](https://research.nvidia.com/labs/toronto-ai/DreamTeacher/) - a self-supervised feature representation learning framework that utilizes generative networks for pre-training downstream image backbones, by NVIDIA
 - [ImageBind](https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/), [Demo](https://imagebind.metademolab.com/demo), [Code](https://github.com/facebookresearch/ImageBind) - Image->Audio, Audio->Image, Text->Image&Audio, Aidio&Image->Image, Audio->Generated Image, by MetaAI
@@ -357,6 +367,10 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - our latest research breakthroughs demonstrate how you can use simple text inputs to produce custom videos and sounds, edit existing videos or transform your personal image into a unique video
+- [Hailuo AI](https://hailuoai.video/) - Image-to-Video
+- [Krea](https://www.krea.ai/) - generate images and videos (Luma, Runway, Kling, Hailuo, Pika) with a delightful AI-powered design tool
+- [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
 - [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
