@@ -23,6 +23,7 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 
 [2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
 [AI Index Report (Since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)\
+[State of AI Report | October, 2024 | Nathan Benaich & Alex Chalmers | Reading](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M)\
 [Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
 [Prompt engineering | OpenAI | Reading](https://platform.openai.com/docs/guides/prompt-engineering)\
 [Full Stack Retrieval | Greg Kamradt | Reading](https://community.fullstackretrieval.com/)
@@ -50,8 +51,8 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 ||2021-22|2023|2024
 :-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemma](https://blog.google/technology/developers/gemma-open-models/),<br>[Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/)|
-[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/), <br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
-[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)|
+[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
+[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)|
 [Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
 Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
@@ -98,6 +99,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Granite](https://www.ibm.com/granite), [Granite 3.0](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models) - a family of open, performant, and trusted AI models, tailored for business and optimized to scale your AI applications, by IBM
 - [Molmo](https://molmo.allenai.org/) - Multimodal Open Language Model, Molmo is small but punching well above its weight, by Ai2
 - [Paperguide](https://paperguide.ai/) - AI Research Assistant, Reference Manager and Writing Assistant that help you understand papers, manage references, annotate/take notes, and supercharge your writing
 - Gemma Scope [Demo](https://www.neuronpedia.org/gemma-scope) - a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic
@@ -145,6 +147,10 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [PdfGPT](https://pdfgpt.io/) - a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
 - [Baize](https://github.com/project-baize/baize-chatbot) - an open-source chat model trained with LoRA. It uses 100k dialogs generated by letting ChatGPT chat with itself
 - [Chameleon](https://chameleon-llm.github.io/) - a compositional reasoning framework designed to enhance LLMs and overcome their inherent limitations, such as outdated information and lack of precise reasoning
+
+### Watermarks
+- [SynthID](https://deepmind.google/technologies/synthid/), [SynthID Text](https://huggingface.co/blog/synthid-text) - watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video, by Google DeepMind and Hugging Face
+- [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
 
 ### Offline-Mode
 - [msty](https://msty.app/) - the easiest way to use local and online AI models
@@ -241,7 +247,17 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Lamini Platform](https://www.lamini.ai/) - a LLM platform that seamlessly integrates every step of the model refinement and deployment process – making model selection, model tuning and inference usage incredibly straightforward for your dev team
 - [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - a CPU/GPU LLM inference engine leveraging activation locality for your device
 - [mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - efficient inference of Mixtral-8x7B models
+- [bitnet.cpp](https://github.com/microsoft/BitNet) - is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support fast and lossless inference of 1.58-bit models on CPU (with NPU and GPU support coming next)
+- [LayerSkip](https://github.com/facebookresearch/LayerSkip) - end-to-end solution promises to accelerate LLM generation times without the need for specialized hardware, by MetaAI
+- [Lingua](https://github.com/facebookresearch/lingua) - a lean, efficient, and easy-to-hack codebase to research LLMs, by MetaAI
+- [fairchem]() - the FAIR Chemistry's centralized repository of all its data, models, demos, and application efforts for materials science and quantum chemistry, by MetaAI
+
 ### Agents
+- [swarm](https://github.com/openai/swarm) - educational framework exploring ergonomic, lightweight multi-agent orchestration, by OpenAI
+- [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
+- [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - a real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities
+- [bee-agent-framework](https://github.com/i-am-bee/bee-agent-framework) - open-source framework for building, deploying, and serving powerful agentic workflows at scale
+- [agent.exe](https://github.com/corbt/agent.exe) - the easiest way to let Claude's new computer use capabilities take over your computer
 - [Pearl](https://github.com/facebookresearch/pearl) - a production-ready RL AI Agent Library, by MetaAI
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
 - [agents](https://github.com/aiwaves-cn/agents) - an open-source library/framework for building autonomous language agents
@@ -277,33 +293,31 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 ## Tools
 |Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|Prompt Generator|
 :-:|:-:|:-:|:-:|:-:|:-:
-[Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[GENMO](https://alpha.genmo.ai/)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)|[G-prompter](https://www.g-prompter.com/en)|
+[Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[fal.ai](https://fal.ai/models)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)|[G-prompter](https://www.g-prompter.com/en)|
 [Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|[Prompt Builder](https://promptomania.com/midjourney-prompt-builder/)|
-[Catbird](https://www.catbird.ai/)||[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)||[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
+[Catbird](https://www.catbird.ai/)|[Morph Studio](https://www.morphstudio.com/)|[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)||[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
 [BlueWillow](https://www.bluewillow.ai/)||[Invidio](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets||[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
 [Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building||[FlowGPT](https://flowgpt.com/)|
-[Playground](https://playgroundai.com/)||[Morph Studio](https://www.morphstudio.com/)|[ilumine AI](https://ilumine.ai/)||[Anthropic](https://console.anthropic.com/)|
-[Imgcreator](https://imgcreator.zmo.ai/)||[Haiper](https://haiper.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|
+[Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|[Anthropic](https://console.anthropic.com/)|
 [Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
 
 ## Text-to-image
-
 ||Models|
 :-:|:-:
 |Google|[Muse](https://muse-model.github.io/), [Imagen](https://imagen.research.google/), [Parti](https://sites.research.google/parti/), [HyperDreamBooth](https://hyperdreambooth.github.io/), [DreamBooth](https://dreambooth.github.io/)<br>[StyleDrop](https://styledrop.github.io/), [Imagen 2](https://deepmind.google/technologies/imagen-2/), [ImageFX](https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/), [Imagen 3](https://deepmind.google/technologies/imagen-3/)|
 |OpenAI|[CLIP](https://openai.com/research/clip), [DALL·E](https://openai.com/research/dall-e), [DALL·E 2](https://openai.com/dall-e-2), [DALL·E 3](https://openai.com/dall-e-3)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
-|stability.ai|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)|
+|[Stability.ai](https://stability.ai/news)|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium),<br>[Adversarial Diffusion Distillation](https://stability.ai/research/adversarial-diffusion-distillation), [Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5)|
+|Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/)|
+|[Playground](https://playground.com/)|[Playground v2](https://playground.com/blog/playground-v2), [Playground v3](https://playground.com/blog/introducing-playground-v3)|
 
-- [FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1[PRO]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/) - a new text-to-image model suite for the open-source artificial intelligence community, by Black Forest Labs
+- [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
 - [Kolors](https://huggingface.co/Kwai-Kolors/Kolors) - a large-scale text-to-image generation model based on latent diffusion, by the Kuaishou Kolors team
 - [StoryDiffusion](https://storydiffusion.github.io/) - Consistent Self-Attention for Long-Range Image and Video Generation
-- [Ilus AI](https://ilus.ai/) - AI illustration Generator
+- [Ilus AI](https://ilus.ai/) - AI illustration generator
 - [Improving Diffusion Models for Authentic Virtual Try-on in the Wild](https://idm-vton.github.io/) - image-based virtual try-on, which renders an image of a person wearing a curated garment, given a pair of images depicting the person and the garment, respectively
-- [Adversarial Diffusion Distillation](https://stability.ai/research/adversarial-diffusion-distillation) - a novel training approach that efficiently samples large-scale foundational image diffusion models in just 1–4 steps while maintaining high image quality
 - [Distribution Matching Distillation](https://tianweiy.github.io/dmd/) - one-step generator achieves comparable image quality with StableDiffusion v1.5 while being 30x faster
 - [Generative Powers of Ten](https://powers-of-10.github.io/) - a method that uses a text-to-image model to generate consistent content across multiple image scales, enabling extreme semantic zooms into a scene, e.g., ranging from a wide-angle landscape view of a forest to a macro shot of an insect sitting on one of the tree branches
-- [Playground v2](https://blog.playgroundai.com/playground-v2/) - open weights - an early preview of our efforts to make increasingly powerful graphics models
 - [Delta Denoising Score](https://delta-denoising-score.github.io/) - a novel scoring function for text-based image editing that guides minimal modifications of an input image towards the content described in a target prompt
 - [Prompt-to-Prompt](https://prompt-to-prompt.github.io/) - editing framework, where the edits are controlled by text only
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - an open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training)
@@ -312,8 +326,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [ExactlyAI](https://exactly.ai) - create images in seconds with an AI that understands your style
 - [ConceptLab](https://kfirgoldberg.github.io/ConceptLab/) - generative models have enabled us to transform our words into vibrant, captivating imagery
 - [IP-Adapter](https://ip-adapter.github.io/) - Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
-- [MATCHAI](https://www.color.io/) - a powerful web app that can copy the color grading from images so you can apply it to your own
-- [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
+- [MatchAI](https://match.color.io/) - a powerful web app that can copy the color grading from images so you can apply it to your own, by [color.io](https://www.color.io/)
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
 - [FABRIC - Feedback via Attention-Based Reference Image Conditioning](https://sd-fabric.github.io/) - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning (OFT)](https://oft.wyliu.com/) - for adapting text-to-image diffusion models to downstream tasks
@@ -331,7 +344,6 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Material Palette](https://astra-vision.github.io/MaterialPalette/) - a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image
 - [DiffusionLight](https://diffusionlight.github.io/) - a simple yet effective technique to estimate lighting in a single input image
 - [Magnific](https://magnific.ai/) - the image Upscaler & Enhancer
-- [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
 - [wasitai](https://wasitai.com/) - check if an image was generated by a machine
 - [Textify](https://textify.storia.ai/) - a tool for replacing the gibberish in AI-generated images with your desired text
 - [Interpolating between Images with Diffusion Models](https://clintonjwang.github.io/interpolation) - a method for zero-shot controllable interpolation using latent diffusion models
@@ -368,6 +380,8 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 
 ## Video & Animation
 - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - our latest research breakthroughs demonstrate how you can use simple text inputs to produce custom videos and sounds, edit existing videos or transform your personal image into a unique video
+- [Mochi 1](https://www.genmo.ai/play) - an open-source model for generating high-quality videos from text prompts, by genmo
+- [Haiper](https://haiper.ai/) - simplifies video creation with text-to-video, image-to-video, and video enhancement options
 - [Hailuo AI](https://hailuoai.video/) - Image-to-Video
 - [Krea](https://www.krea.ai/) - generate images and videos (Luma, Runway, Kling, Hailuo, Pika) with a delightful AI-powered design tool
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
@@ -481,6 +495,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 
 ## Audio & Speech & Music
 ### [MetaAI](https://ai.meta.com/)
+- [Spirit LM](https://speechbot.github.io/spiritlm/) - a foundation multimodal language model that freely mixes text and speech
 - [Audiobox](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/) - generate voices and sound effects using a combination of voice inputs and natural language text prompts — making it easy to create custom audio for a wide range of use cases
 - [Seamless](https://ai.meta.com/blog/seamless-communication/) - system that unlocks expressive cross-lingual communication in real time
 - [SeamlessM4T](https://ai.meta.com/blog/seamless-m4t/) - a foundational multilingual and multitask model that seamlessly translates and transcribes across speech and text: automatic speech recognition, speech-to-text and speech-to-speech translation, text-to-text and text-to-speech translation
@@ -495,7 +510,6 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [V2A](https://deepmind.google/discover/blog/generating-audio-for-video/) - video-to-audio research uses video pixels and text prompts to generate rich soundtracks
 - [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx) - a new experimental tool that enables users to generate their own music using AI
 - [SingSong](https://storage.googleapis.com/sing-song/index.html) - a system which generates instrumental music to accompany input vocals
-- [SynthID](https://deepmind.google/technologies/synthid/) - users can embed a digital watermark directly into AI-generated images or audio they create
 - [Translatotron 3](https://research.google/blog/unsupervised-speech-to-speech-translation-from-monolingual-data/) - unsupervised speech-to-speech translation from monolingual data
 - [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/) - a LLM for speech understanding and generation
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/), [Demo](https://aitestkitchen.withgoogle.com/experiments/music-lm) - a model generating high-fidelity music from text descriptions such as "a calming violin melody backed by a distorted guitar riff"
@@ -621,7 +635,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Bio & Med
-- [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/) - a new AI model that predict the structure of proteins, DNA, RNA, ligands and more, and how they interact, by Google DeepMind and Isomorphic Labs
+- [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/), [Code](https://github.com/google-deepmind/alphafold3) - an AI model that predict the structure of proteins, DNA, RNA, ligands and more, and how they interact, by Google DeepMind and Isomorphic Labs
 - [AMIE](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html) - a research AI system for diagnostic medical reasoning and conversations, by Google
 - [MentalLLaMA](https://github.com/SteveKGYang/MentalLLaMA) - mental health analysis with LLMs
 - [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases
@@ -640,6 +654,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [GeoSpy](https://geospy.ai/) - upload satellite or aerial images, and GeoSpy’s AI examines visual details like landmarks, terrain features, and vegetation patterns to provide precise location predictions
 
 ## Climat
+- [Global Cooling Forecasts from Stratospheric Aerosol Injection (SAI)](http://www.planetparasol.ai/) - simulate different SAI scenarios to understand its possible impact
 - [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) - AI model for faster and more accurate global weather forecasting, by Google DeepMind
 - [OpenDAC](https://open-dac.github.io/) - a research project aimed at significantly reducing the cost of Direct Air Capture (DAC), by FAIR at Meta and Georgia Tech
 - [MetNet-3](https://research.google/blog/metnet-3-a-state-of-the-art-neural-weather-model-available-in-google-products/) - the first AI weather model to learn from sparse observations and outperform the top operational systems up to 24 hours ahead at high resolutions. A portion of its forecasts are now available across various Google products, by Google
