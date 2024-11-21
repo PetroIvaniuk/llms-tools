@@ -661,6 +661,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Other: Fin, Presentation
+- [Sourcetable](https://sourcetable.com) - AI spreadsheet. Automatically, writes formulas, create charts and clean data in seconds.
 - [Bricks](https://www.thebricks.com/) - an AI-powered tool that generates reports, visuals, and presentations from your data
 - [Atlas](https://www.atlas.org/) - a school AI assistant that provides personalized help by studying your specific class materials
 - [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - a fusion recipe generator powered by Google AI
