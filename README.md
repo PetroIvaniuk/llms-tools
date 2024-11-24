@@ -24,6 +24,7 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 [2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
 [AI Index Report (Since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)\
 [State of AI Report | October, 2024 | Nathan Benaich & Alex Chalmers | Reading](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M)\
+[The State of Generative AI in the Enterprise | 2024 | Menlo Ventures | Reading](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise)\
 [Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
 [Prompt engineering | OpenAI | Reading](https://platform.openai.com/docs/guides/prompt-engineering)\
 [Full Stack Retrieval | Greg Kamradt | Reading](https://community.fullstackretrieval.com/)
@@ -179,6 +180,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
 ### Evaluation
+- [MLE-bench](https://github.com/openai/mle-bench/) - a benchmark for measuring how well AI agents perform at machine learning engineering, by OpenAI
 - [JailbreakBench](https://jailbreakbench.github.io/) - Repository of jailbreak artifacts, Standardized evaluation framework, Leaderboard, Dataset
 - [SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/) - a benchmark for evaluating LLMs’ abilities to solve real-world software issues sourced from GitHub, by OpenAI
 - [SWE-bench](https://www.swebench.com/) - Can Language Models Resolve Real-world Github Issues?
@@ -192,6 +194,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
 ### Leaderboards
+- [EU AI Act Compliance Leaderboard](https://huggingface.co/spaces/latticeflow/compl-ai-board) - the high-level regulatory requirements of the EU AI Act as concrete technical requirements
 - [AgentBoard](https://hkust-nlp.github.io/agentboard/) - a benchmark designed for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates
 - [LLM Hallucination Index](https://www.rungalileo.io/hallucinationindex) - A Ranking & Evaluation Framework For LLM Hallucinations
 - [Artificial Analysis](https://artificialanalysis.ai/text-to-image) - Text to Image AI Model & Provider Leaderboard across quality, generation time, and price
@@ -253,6 +256,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [fairchem]() - the FAIR Chemistry's centralized repository of all its data, models, demos, and application efforts for materials science and quantum chemistry, by MetaAI
 
 ### Agents
+- [Multi-Agent Orchestrator ](https://github.com/awslabs/multi-agent-orchestrator) - framework for managing multiple AI agents and handling complex conversations, by AWS
 - [swarm](https://github.com/openai/swarm) - educational framework exploring ergonomic, lightweight multi-agent orchestration, by OpenAI
 - [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
 - [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - a real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities
@@ -266,6 +270,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 
 ## Devices
+- [π0](https://www.physicalintelligence.company/blog/pi0) - our first generalist p23olicy, by Physical Intelligence (π)
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
 - [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
@@ -296,7 +301,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 [Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[fal.ai](https://fal.ai/models)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)|[G-prompter](https://www.g-prompter.com/en)|
 [Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|[Prompt Builder](https://promptomania.com/midjourney-prompt-builder/)|
 [Catbird](https://www.catbird.ai/)|[Morph Studio](https://www.morphstudio.com/)|[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)||[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
-[BlueWillow](https://www.bluewillow.ai/)||[Invidio](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets||[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
+[BlueWillow](https://www.bluewillow.ai/)||[Invideo](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets||[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
 [Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building||[FlowGPT](https://flowgpt.com/)|
 [Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|[Anthropic](https://console.anthropic.com/)|
 [Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
@@ -379,6 +384,9 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [AutoVFX](https://haoyuhsu.github.io/autovfx-website/) - Physically Realistic Video Editing from Natural Language Instructions
+- [FacePoke](https://facepoke.net/) - real-time facial animation
+- [X-Portrait 2](https://byteaigc.github.io/X-Portrait2/) - highly expressive portrait animation
 - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - our latest research breakthroughs demonstrate how you can use simple text inputs to produce custom videos and sounds, edit existing videos or transform your personal image into a unique video
 - [Mochi 1](https://www.genmo.ai/play) - an open-source model for generating high-quality videos from text prompts, by genmo
 - [Haiper](https://haiper.ai/) - simplifies video creation with text-to-video, image-to-video, and video enhancement options
@@ -516,6 +524,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages
 
 ### [Eleven Labs](https://beta.elevenlabs.io/)
+- [xtovoice](https://www.xtovoice.com/) - analyze your X profile to generate a unique voice using ElevenLabs
 - [Sound Effects](https://elevenlabs.io/sound-effects) - create distinctive sound effects directly from text descriptions, streamlining your audio production process
 - [Dubbing Studio](https://elevenlabs.io/blog/introducing-dubbing-studio/) - a tool, enabling automatic, end-to-end video translation across 29 languages. hands-on control over transcript, translation, timing, and more
 - [Speech to Speech](https://elevenlabs.io/blog/product-update-speech-to-speech-and-changes-to-voices/) - a tool that lets you turn the recording of one voice to sound as if spoken by another
@@ -562,6 +571,8 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)||
 |Alibaba Cloud|[Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/), [Qwen2.5-Math](https://qwenlm.github.io/blog/qwen2.5-math/)|[CodeQwen1.5](https://qwenlm.github.io/blog/codeqwen1.5/), [Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5-coder)|
 
+- [neo](https://heyneo.so/blog) - a fully autonomous Machine Learning Engineer
+- [bolt.new](https://bolt.new/) - prompt, run, edit, and deploy full-stack web apps
 - [Genie](https://cosine.sh/genie) - AI software engineer - achieving a 30% eval score on the industry standard benchmark SWE-Bench. Genie is a fine-tuned version of GPT-4o with a larger context window of undisclosed size. Genie is able to solve bugs, build features, refactor code, and everything in between either fully autonomously or paired with the user, like working with a colleague, not just a copilot
 - [Devin](https://www.cognition-labs.com/introducing-devin) - first fully autonomous AI software engineer
 - [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) - Towards Fully Automated Open-Ended Scientific Discovery
@@ -603,6 +614,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 
 ## Robotics
 - [Open-TeleVision](https://robot-tv.github.io/) - an open-sourced immersive teleoperation system with stereo visual feedback. Robots executing highly precise, extremely long-horizon tasks with high success rate, autonomously
+- [unitree_il_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot) - open-source project is a modification of the LeRobot open-source training framework, enabling the training and testing of data collected using the dual-arm dexterous hands of Unitree's G1 robot
 - [LeRobot](https://github.com/huggingface/lerobot) - aims to provide models, datasets, and tools for real-world robotics in PyTorch
 - [DrEurek](https://eureka-research.github.io/dr-eureka/) - Language Model Guided Sim-To-Real Transfer
 - [UniSim](https://universal-simulator.github.io/unisim/) - a real-world simulator range from controllable content creation in games and movies to training embodied agents purely in simulation that can be directly deployed in the real world
@@ -662,10 +674,12 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 
 ## Other: Fin, Presentation
 - [Bricks](https://www.thebricks.com/) - an AI-powered tool that generates reports, visuals, and presentations from your data
+- [Learn About](https://learning.google.com/experiments/learn-about/signup) - generates tailored educational experiences based on user questions and uploaded materials
+- [Hautech AI](https://www.hautech.ai/) - An AI platform that turns simple clothing images into professional-grade fashion photos
 - [Atlas](https://www.atlas.org/) - a school AI assistant that provides personalized help by studying your specific class materials
 - [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - a fusion recipe generator powered by Google AI
 - [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) - DL tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) -
 - [guidde](https://www.guidde.com/) - create documentation/presentation/FAQ from captured video
 - [Gamma](https://gamma.app/) - create visually appealing presentations
 - [Tome](https://tome.app/) - create a compelling starting point for your presentation in minutes
