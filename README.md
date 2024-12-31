@@ -311,6 +311,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 [Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building||[FlowGPT](https://flowgpt.com/)|
 [Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|[Anthropic](https://console.anthropic.com/)|
 [Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
+[AI Image Generator](https://www.aiimagegenerator.org)|
 
 ## Text-to-image
 ||Models|
