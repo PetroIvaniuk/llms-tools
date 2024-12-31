@@ -51,10 +51,10 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 ### Models
 ||2021-22|2023|2024
 :-:|:-:|:-:|:-:
-Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemma](https://blog.google/technology/developers/gemma-open-models/),<br>[Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/)|
+Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/),<br>[Gemma](https://blog.google/technology/developers/gemma-open-models/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/), [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024)|
 [OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
-[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[LLaMA3](https://llama.meta.com/llama3), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)|
-[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|
+[MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[Llama 3](https://ai.meta.com/blog/meta-llama-3/), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/), [Llama 3.3 70B](https://www.llama.com/)|
+[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/), [Pixtral Large](https://mistral.ai/news/pixtral-large/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
 Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
 EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
@@ -71,6 +71,8 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 [AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|
 [Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
 Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|
+AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://aws.amazon.com/ai/generative-ai/nova/)|
+DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226),<br>[DeepSeek-R1-Lite-Preview](https://api-docs.deepseek.com/news/news1120)|
 
 ### Open Source Models
 |Model|Company|Date|Notes|
@@ -87,7 +89,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 ### Chats & Assistants
 |Chat|Company|Notes|
 :-|:-:|:-|
-|[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br> Stable Video, Stable Image Services and Stable LM 2 12B|
+|[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br>Stable Video, Stable Image Services and Stable LM 2 12B|
 |[Moshi](https://www.moshi.chat/)|Kyutai|engaging conversations limited to five minutes, thinks and speaks at the same time|
 |[MetaAI](https://www.meta.ai)|MetaAI||
 |[character.ai](https://character.ai/)|Character.AI|talk with fictional AI characters|
@@ -100,6 +102,8 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [voyage-3 & voyage-3-lite](https://blog.voyageai.com/2024/09/18/voyage-3/) - a new generation of small yet mighty general-purpose embedding models
+- [Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - the largest open-source Transformer-based MoE model in the industry, featuring a total of 389 billion parameters and 52 billion active parameters
 - [Granite](https://www.ibm.com/granite), [Granite 3.0](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models) - a family of open, performant, and trusted AI models, tailored for business and optimized to scale your AI applications, by IBM
 - [Molmo](https://molmo.allenai.org/) - Multimodal Open Language Model, Molmo is small but punching well above its weight, by Ai2
 - [Paperguide](https://paperguide.ai/) - AI Research Assistant, Reference Manager and Writing Assistant that help you understand papers, manage references, annotate/take notes, and supercharge your writing
@@ -117,7 +121,6 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Ferret](https://github.com/apple/ml-ferret) - An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response, by Apple
 - [NotebookLM](https://notebooklm.google/) - a powerful new interface that lets you shift effortlessly from reading to asking questions to writing, with an AI thought partner helping you at every turn
 - [LLM360](https://www.llm360.ai/) - enables community-owned AGI through open-source large model research and development (K2-65B, CrystalCoder-7B, Amber-7B)
-- [Amazon Titan](https://aws.amazon.com/bedrock/titan/) - a breadth of high-performing image, multimodal, and text model choices, via a fully managed API, by AWS
 - [Mirasol](https://research.google/blog/scaling-multimodal-understanding-to-long-videos/) - a multimodal model for learning across audio, video, & text that decouples the modeling into separate autoregressive models to process the inputs according to the characteristics of their modalities, for state-of-the-art performance, by Google
 - [UniIR](https://tiger-ai-lab.github.io/UniIR/) - Universal Multimodal Information Retrievers, framework to learn a single retriever to accomplish (possibly) any retrieval task
 - [Tulu-2-DPO model](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b) - RLHF method DPO scales to 70B parameters, clearly compare PEFT fine-tuning to full-parameter fine-tuning
@@ -213,6 +216,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
 
 ## Datasets
+- [Instruction tuning datasets](https://github.com/zhilizju/Awesome-instruction-tuning) - open-source instruction tuning datasets, models, papers, repositories
 - [InfiMM-WebMath-40B Dataset](https://huggingface.co/datasets/Infi-MM/InfiMM-WebMath-40B) - large-scale, open-source multimodal dataset specifically designed for mathematical reasoning tasks
 - [MMMLU](https://huggingface.co/datasets/openai/MMMLU) - Multilingual Massive Multitask Language Understanding
 - [Natural Questions](https://ai.google.com/research/NaturalQuestions) - contains questions from real users, and it requires QA systems to read and comprehend an entire Wikipedia article that may or may not contain the answer to the question
@@ -221,6 +225,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 <!---
 - [![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=socail)](https://github.com/hwchase17/langchain)
 --->
+- [aisuite](https://github.com/andrewyng/aisuite) - simple, unified interface to multiple Generative AI providers, by Andrew Ng Team
 - [LangChain](https://github.com/hwchase17/langchain), [docs](https://python.langchain.com/docs/get_started/introduction.html) - a framework for developing applications powered by language models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [docs](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
 - [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - an open-source toolkit for pre-training, fine-tuning and deployment of LLMs and mutlimodal LLMs
@@ -256,6 +261,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [fairchem]() - the FAIR Chemistry's centralized repository of all its data, models, demos, and application efforts for materials science and quantum chemistry, by MetaAI
 
 ### Agents
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - [Multi-Agent Orchestrator ](https://github.com/awslabs/multi-agent-orchestrator) - framework for managing multiple AI agents and handling complex conversations, by AWS
 - [swarm](https://github.com/openai/swarm) - educational framework exploring ergonomic, lightweight multi-agent orchestration, by OpenAI
 - [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
@@ -270,7 +276,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 
 ## Devices
-- [π0](https://www.physicalintelligence.company/blog/pi0) - our first generalist p23olicy, by Physical Intelligence (π)
+- [π0](https://www.physicalintelligence.company/blog/pi0) - a machine learning system that enables robots to perform housekeeping tasks that require high coordination and dexterity, like folding clothes and cleaning tables, by Physical Intelligence (π)
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
 - [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
@@ -312,10 +318,11 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |Google|[Muse](https://muse-model.github.io/), [Imagen](https://imagen.research.google/), [Parti](https://sites.research.google/parti/), [HyperDreamBooth](https://hyperdreambooth.github.io/), [DreamBooth](https://dreambooth.github.io/)<br>[StyleDrop](https://styledrop.github.io/), [Imagen 2](https://deepmind.google/technologies/imagen-2/), [ImageFX](https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/), [Imagen 3](https://deepmind.google/technologies/imagen-3/)|
 |OpenAI|[CLIP](https://openai.com/research/clip), [DALL·E](https://openai.com/research/dall-e), [DALL·E 2](https://openai.com/dall-e-2), [DALL·E 3](https://openai.com/dall-e-3)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
-|[Stability.ai](https://stability.ai/news)|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium),<br>[Adversarial Diffusion Distillation](https://stability.ai/research/adversarial-diffusion-distillation), [Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5)|
-|Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/)|
+|[Stability.ai](https://stability.ai/news)|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium),<br>[Adversarial Diffusion Distillation](https://stability.ai/research/adversarial-diffusion-distillation), [Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5), [Stable Diffusion 3.5 Large](https://stability.ai/news/sd3-5-large-controlnets)|
+|Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/), [FLUX.1 Tools](https://blackforestlabs.ai/flux-1-tools/)|
 |[Playground](https://playground.com/)|[Playground v2](https://playground.com/blog/playground-v2), [Playground v3](https://playground.com/blog/introducing-playground-v3)|
 
+- [Frames](https://runwayml.com/research/introducing-frames) - an image generation model offering unprecedented stylistic control, by Runway
 - [Ideogram](https://ideogram.ai/launch) - AI tools that will make creative expression more accessible, fun, and efficient
 - [Kolors](https://huggingface.co/Kwai-Kolors/Kolors) - a large-scale text-to-image generation model based on latent diffusion, by the Kuaishou Kolors team
 - [StoryDiffusion](https://storydiffusion.github.io/) - Consistent Self-Attention for Long-Range Image and Video Generation
@@ -384,6 +391,10 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Veo](https://deepmind.google/technologies/veo/veo-1/) - generates high-quality 1080p resolution videos in a wide range of cinematic and visual styles that can go beyond a minute; [Veo2](https://deepmind.google/technologies/veo/veo-2/) - creates videos with realistic motion and high quality output, up to 4K; [VideoFX](https://aitestkitchen.withgoogle.com/tools/video-fx) - a new experimental tool designed to help support creatives through the storytelling journey, by Google
+- [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/) & [Research](https://research.runwayml.com/gen1), [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/) & [Research](https://research.runwayml.com/gen2), GEN-3-alpha & [Research](https://runwayml.com/blog/introducing-gen-3-alpha/) - a new frontier for high-fidelity, controllable video generation. It is a major improvement in fidelity, consistency, and motion over Gen-2, and a step towards building [General World Models](https://research.runwayml.com/introducing-general-world-models), by Runway
+- [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - A Systematic Framework For Large Video Generation Model
+- [LTX-Video](https://github.com/Lightricks/LTX-Video) - real-time AI video generation, open-source model, by Lightricks
 - [AutoVFX](https://haoyuhsu.github.io/autovfx-website/) - Physically Realistic Video Editing from Natural Language Instructions
 - [FacePoke](https://facepoke.net/) - real-time facial animation
 - [X-Portrait 2](https://byteaigc.github.io/X-Portrait2/) - highly expressive portrait animation
@@ -403,13 +414,10 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [Odyssey](https://odyssey.systems/) - Hollywood-grade visual AI
 - [VideoPoet](https://research.google/blog/videopoet-a-large-language-model-for-zero-shot-video-generation/) - a large language model for zero-shot video generation, by Google Reasearch
 - [Character-1](https://www.hedra.com/) - model allows you to create lip-synced videos to any audio from a still image; imagine worlds, characters and stories with complete creative control, by Hedra
-- [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/) & [Research](https://research.runwayml.com/gen1), [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/) & [Research](https://research.runwayml.com/gen2), GEN-3-alpha & [Research](https://runwayml.com/blog/introducing-gen-3-alpha/) - a new frontier for high-fidelity, controllable video generation. It is a major improvement in fidelity, consistency, and motion over Gen-2, and a step towards building [General World Models](https://research.runwayml.com/introducing-general-world-models), by Runway
 - [Showrunner](https://www.showrunner.xyz/) - AI platform designed to let you create an animated TV episode with just a prompt
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - an AI model that makes high quality, realistic videos fast from text and images, by Luma
 - [Kling](https://kling.kuaishou.com/) - video generation with enhanced features and quality
 - [ToonCrafter](https://doubiiu.github.io/projects/ToonCrafter/) - interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors
-- [VideoFX](https://aitestkitchen.withgoogle.com/tools/video-fx) - a new experimental tool powered by Veo. It’s designed to help support creatives through the storytelling journey, by Google
-- [Veo](https://blog.google/technology/ai/google-generative-ai-veo-imagen-3/#veo) - generates high-quality 1080p resolution videos in a wide range of cinematic and visual styles that can go beyond a minute, by Google
 - [VideoGigaGAN: Towards Detail-rich Video Super-Resolution](https://videogigagan.github.io/) - a generative VSR model that can produce videos with high-frequency details and temporal consistency, by Adobe Research
 - [VASA-1](https://www.microsoft.com/en-us/research/project/vasa-1/) - Lifelike Audio-Driven Talking Faces Generated in Real Time, by Microdoft
 - [MagicTime](https://pku-yuangroup.github.io/MagicTime/) - Time-lapse Video Generation Models as Metamorphic Simulators
@@ -571,6 +579,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 |Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)||
 |Alibaba Cloud|[Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/), [Qwen2.5-Math](https://qwenlm.github.io/blog/qwen2.5-math/)|[CodeQwen1.5](https://qwenlm.github.io/blog/codeqwen1.5/), [Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5-coder)|
 
+- [MathGPT](https://math-gpt.org/) - simplifies math problems with step-by-step solutions
 - [neo](https://heyneo.so/blog) - a fully autonomous Machine Learning Engineer
 - [bolt.new](https://bolt.new/) - prompt, run, edit, and deploy full-stack web apps
 - [Genie](https://cosine.sh/genie) - AI software engineer - achieving a 30% eval score on the industry standard benchmark SWE-Bench. Genie is a fine-tuned version of GPT-4o with a larger context window of undisclosed size. Genie is able to solve bugs, build features, refactor code, and everything in between either fully autonomously or paired with the user, like working with a colleague, not just a copilot
@@ -602,8 +611,9 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [dropbase](https://github.com/DropbaseHQ/) - uild and prototype web apps faster with AI
 
 ## Games
+- [Genie](https://sites.google.com/view/genie-2024/), [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by Google DeepMind
+- [GenChess](https://labs.google/genchess) - turns your ideas into playable art pieces using Google’s Imagen 3 model
 - [ExistAI](https://exists.ai/) - games from text
-- [Genie](https://sites.google.com/view/genie-2024/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by Google DeepMind
 - [PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - train RL agents to play Pokemon Red
 - [BitMagic](https://bitmagic.games/) - game creation
 - [AI Town](https://github.com/a16z-infra/AI-town) - a deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize
@@ -673,6 +683,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Other: Fin, Presentation
+- [AlphaQubit]() - AI system accurately identifies errors inside quantum computers, helping to make this new technology more reliable, be Google DeepMind
 - [Sourcetable](https://sourcetable.com) - AI spreadsheet. Automatically, writes formulas, create charts and clean data in seconds.
 - [Bricks](https://www.thebricks.com/) - an AI-powered tool that generates reports, visuals, and presentations from your data
 - [Learn About](https://learning.google.com/experiments/learn-about/signup) - generates tailored educational experiences based on user questions and uploaded materials
