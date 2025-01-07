@@ -305,7 +305,6 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 [Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building||[FlowGPT](https://flowgpt.com/)|
 [Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|[Anthropic](https://console.anthropic.com/)|
 [Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
-[AI Image Generator](https://www.aiimagegenerator.org)|
 
 ## Text-to-image
 ||Models|
@@ -339,6 +338,7 @@ Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwe
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer](https://damo-vilab.github.io/composer-page/) - a large (5 billion parameters) controllable diffusion model trained on billions of (text, image) pairs. It can exponentially expand the control space through composition, leading to an enormous number of ways to generate and manipulate images, i.e., making the infinite use of finite means
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting, by Adobe Research
+- [AI Image Generator](https://www.aiimagegenerator.org) - Free AI-powered text-to-image image generator
 
 ## Images
 - [Sakana AI](https://sakana.ai/evolutionary-model-merge/) - drops image models to generate Japan’s traditional ukiyo-e artwork
