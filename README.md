@@ -49,8 +49,8 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 --->
 
 ### Models
-||2021-22|2023|2024
-:-:|:-:|:-:|:-:
+||2021-22|2023|2024|2025
+:-:|:-:|:-:|:-:|:-:
 Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/),<br>[Gemma](https://blog.google/technology/developers/gemma-open-models/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/), [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024)|
 [OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/)|
 [MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[Llama 3](https://ai.meta.com/blog/meta-llama-3/), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/), [Llama 3.3 70B](https://www.llama.com/)|
@@ -59,12 +59,12 @@ Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.goog
 Anthropic|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
 EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
 BigScience|[Bloom](https://huggingface.co/bigscience/bloom)||
-Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280)|
+Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280), [phi-4](https://huggingface.co/microsoft/phi-4)|
 [Inflection AI](https://inflection.ai/)||[Inflection-2](https://inflection.ai/inflection-2)|[Inflection-2.5](https://inflection.ai/inflection-2-5)|
 Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Berkeley-BAIR](https://bair.berkeley.edu/)||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
 [Vicuna Team](https://lmsys.org/about/)||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
-[TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct)|
+[TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct), [Falcon 3](https://huggingface.co/blog/falcon3)|
 [Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
 [xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|
 NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b),<br>[Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base), [NVLM 1.0](https://research.nvidia.com/labs/adlr/NVLM-1/),<br>[Llama-3.1-Nemotron-70B-Instruct](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)|
@@ -72,11 +72,12 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 [Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
 Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|
 AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://aws.amazon.com/ai/generative-ai/nova/)|
-DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226),<br>[DeepSeek-R1-Lite-Preview](https://api-docs.deepseek.com/news/news1120)|
+DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226),<br>[DeepSeek-R1-Lite-Preview](https://api-docs.deepseek.com/news/news1120)|[DeepSeek-R1](https://api-docs.deepseek.com/news/news250120)|
 
 ### Open Source Models
 |Model|Company|Date|Notes|
 :-|:-:|:-:|:-:
+|[MiniMax Family](https://github.com/MiniMax-AI/MiniMax-01)||2025-01-15|language and visual|
 |[Qwen2.5 Family](https://qwenlm.github.io/blog/qwen2.5/)|Alibaba Cloud|2024-09-19|some versions|
 |[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/)|Microsoft|2023-05-21|
 |[Qwen2 Family](https://qwenlm.github.io/blog/qwen2/)|Alibaba Cloud|2024-06-07|some versions|
@@ -102,6 +103,9 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Sky-T1](https://novasky-ai.github.io/posts/sky-t1/) - reasoning model that performs on par with o1-preview on popular reasoning and coding benchmarks
+- [Transformer²](https://sakana.ai/transformer-squared/) - a ML system that dynamically adjusts its weights for various tasks, by Sakana
+- [SmallThinker-3B-preview](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview) - a 3 billion parameter o1-like language model designed to excel at reasoning tasks (fine-tuned from the Qwen2.5-3b-Instruct model)
 - [voyage-3 & voyage-3-lite](https://blog.voyageai.com/2024/09/18/voyage-3/) - a new generation of small yet mighty general-purpose embedding models
 - [Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - the largest open-source Transformer-based MoE model in the industry, featuring a total of 389 billion parameters and 52 billion active parameters
 - [Granite](https://www.ibm.com/granite), [Granite 3.0](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models) - a family of open, performant, and trusted AI models, tailored for business and optimized to scale your AI applications, by IBM
@@ -167,6 +171,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 
 ### Large Visual Language Models (LVLMs)
+- [Moondream 1.9B](https://moondream.ai/blog/introducing-a-new-moondream-1-9b-and-gpu-support) - a tiny open-source vision AI that brings powerful image understanding to your applications and runs everywhere
 - [Qwen2-VL](https://qwenlm.github.io/blog/qwen2-vl/) - latest version of the VLM based on Qwen2 in the Qwen model familities: SoTA understanding of images of various resolution & ratio; Understanding videos of 20min+; Agent that can operate your mobiles, robots, etc; Multilingual Support
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL) - multimodal version of the large model series. Accepts image, text, and bounding box as inputs, outputs text and bounding box
 - [PaliGemma](https://developers.googleblog.com/en/gemma-family-and-toolkit-expansion-io-2024/) - a powerful open VLM inspired by PaLI-3, optimized for image captioning, visual Q&A and other image labeling tasks, by Google
@@ -183,6 +188,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
 ### Evaluation
+- [FACTS Grounding](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models) - a new benchmark for evaluating the factuality of LLMs, by DeepMind
 - [MLE-bench](https://github.com/openai/mle-bench/) - a benchmark for measuring how well AI agents perform at machine learning engineering, by OpenAI
 - [JailbreakBench](https://jailbreakbench.github.io/) - Repository of jailbreak artifacts, Standardized evaluation framework, Leaderboard, Dataset
 - [SWE-bench Verified](https://openai.com/index/introducing-swe-bench-verified/) - a benchmark for evaluating LLMs’ abilities to solve real-world software issues sourced from GitHub, by OpenAI
@@ -261,6 +267,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [fairchem]() - the FAIR Chemistry's centralized repository of all its data, models, demos, and application efforts for materials science and quantum chemistry, by MetaAI
 
 ### Agents
+- [smolagents](https://huggingface.co/blog/smolagents) - a very simple library that unlocks agentic capabilities for language models
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - [Multi-Agent Orchestrator ](https://github.com/awslabs/multi-agent-orchestrator) - framework for managing multiple AI agents and handling complex conversations, by AWS
 - [swarm](https://github.com/openai/swarm) - educational framework exploring ergonomic, lightweight multi-agent orchestration, by OpenAI
@@ -276,7 +283,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 
 ## Devices
-- [π0](https://www.physicalintelligence.company/blog/pi0) - a machine learning system that enables robots to perform housekeeping tasks that require high coordination and dexterity, like folding clothes and cleaning tables, by Physical Intelligence (π)
+- [Omi](https://www.omi.me/) - AI wearables that revolutionize how you capture and manage conversations
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
 - [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
@@ -319,7 +326,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 |OpenAI|[CLIP](https://openai.com/research/clip), [DALL·E](https://openai.com/research/dall-e), [DALL·E 2](https://openai.com/dall-e-2), [DALL·E 3](https://openai.com/dall-e-3)|
 |[MetaAI](https://ai.meta.com/)|[CM3leon](https://ai.meta.com/blog/generative-ai-text-images-cm3leon), [Emu Video](https://emu-video.metademolab.com/), [Emu Edit](https://emu-edit.metademolab.com/), [Imagine](https://imagine.meta.com/)|
 |[Stability.ai](https://stability.ai/news)|[Stable Diffusion XL](https://stability.ai/stable-diffusion), [DreamStudio](https://dreamstudio.ai/), [Clipdrop](https://clipdrop.co/), [DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model): ([Code](https://github.com/deep-floyd/IF), [Demo: HF](https://huggingface.co/spaces/DeepFloyd/IF))<br>[SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo), [Stable Cascade](https://stability.ai/news/introducing-stable-cascade), [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3), [Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium),<br>[Adversarial Diffusion Distillation](https://stability.ai/research/adversarial-diffusion-distillation), [Stable Diffusion 3.5](https://stability.ai/news/introducing-stable-diffusion-3-5), [Stable Diffusion 3.5 Large](https://stability.ai/news/sd3-5-large-controlnets)|
-|Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/), [FLUX.1 Tools](https://blackforestlabs.ai/flux-1-tools/)|
+|Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/), [FLUX.1 Tools](https://blackforestlabs.ai/flux-1-tools/)<br>[ FLUX Pro Finetuning API](https://blackforestlabs.ai/announcing-the-flux-pro-finetuning-api)|
 |[Playground](https://playground.com/)|[Playground v2](https://playground.com/blog/playground-v2), [Playground v3](https://playground.com/blog/introducing-playground-v3)|
 
 - [Frames](https://runwayml.com/research/introducing-frames) - an image generation model offering unprecedented stylistic control, by Runway
@@ -347,7 +354,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting, by Adobe Research
 
 ## Images
-- [Sakana AI](https://sakana.ai/evolutionary-model-merge/) - drops image models to generate Japan’s traditional ukiyo-e artwork
+- [EvoVLM-JP](https://sakana.ai/evolutionary-model-merge/) - drops image models to generate Japan’s traditional ukiyo-e artwork, by Sakana
 - [PaintsUndo](https://lllyasviel.github.io/pages/paints_undo/) - A Base Model of Drawing Behaviors in Digital Paintings
 - [SkyReels](https://skyreels.ai/) - generate comics from stories or files you upload
 - [PhotoMaker](https://photo-maker.github.io/) - Customizing Realistic Human Photos via Stacked ID Embedding
@@ -458,11 +465,13 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [High-Resolution Video Synthesis with Latent Diffusion Models](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) - Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower-dimensional latent space, by NVIDIA
 
 ## 3D
+- [Stable Point Aware 3D](https://stability.ai/news/stable-point-aware-3d) - real-time editing and complete structure generation of a 3D object from a single image, by by Stability AI
+- [backflip](https://www.backflip.ai/) - AI 3D design tools for the physical world
 - [cadwithai](https://www.cadwithai.com/) - a tool that allows users to create and edit CAD models using an AI chatbot to enhance efficiency and creativity in design work
 - [Meshy](https://www.meshy.ai/) - create stunning 3D models with AI
 - [Generative 3D API Toolkit](https://www.shutterstock.com/discover/generative-ai-3d) - generate 3D models, materials, and HDRIs at the speed of your imagination. Supercharge your 3D workflow with our groundbreaking Gen3D toolkit from Shutterstock powered by NVIDIA
-- [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image in just 0.5 seconds
-- [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views
+- [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image, by Stability AI
+- [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views, by Stability AI
 - [VGGHeads](https://github.com/KupynOrest/head_detector) - A Large-Scale Synthetic Dataset for 3D Human Heads
 - [CharacterGen](https://huggingface.co/spaces/VAST-AI/CharacterGen)- Efficient 3D Character Generation from Single Images with Multi-View Pose Calibration
 - [3D Gen](https://ai.meta.com/research/publications/meta-3d-gen) - fast pipeline for text-to-3D asset generation. 3DGen offers 3D asset creation with high prompt fidelity and high-quality 3D shapes and textures in under a minut, by MetaAI
@@ -476,7 +485,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [MobileBrick](https://code.active.vision/MobileBrick/) - Building LEGO for 3D Reconstruction on Mobile Devices. A novel data capturing and 3D annotation pipeline to obtain precise 3D ground-truth shapes without relying on expensive 3D scanners
 - [PoseGPT](https://yfeng95.github.io/posegpt/) - Chatting about 3D Human Pose
 - [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/) - High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
-- [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation) - 3D Object Generation from Single Images
+- [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation) - 3D Object Generation from Single Images, by Stability AI
 - [SMERF](https://smerf-3d.github.io/) - Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration
 - [DreamCraft3D](https://mrtornado24.github.io/DreamCraft3D/) - a hierarchical 3D content generation method that produces high-fidelity and coherent 3D objects
 - [Genie](https://lumalabs.ai/genie) - 3D fundational model, by [Lumalabs](https://lumalabs.ai/)
@@ -532,6 +541,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages
 
 ### [Eleven Labs](https://beta.elevenlabs.io/)
+- [Flash](https://elevenlabs.io/blog/meet-flash) - a newest model that generates speech in 75ms + application & network latency
 - [xtovoice](https://www.xtovoice.com/) - analyze your X profile to generate a unique voice using ElevenLabs
 - [Sound Effects](https://elevenlabs.io/sound-effects) - create distinctive sound effects directly from text descriptions, streamlining your audio production process
 - [Dubbing Studio](https://elevenlabs.io/blog/introducing-dubbing-studio/) - a tool, enabling automatic, end-to-end video translation across 29 languages. hands-on control over transcript, translation, timing, and more
@@ -541,6 +551,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLab
 
 ### Other
+- [GitPodcast](https://www.gitpodcast.com/) - turn any GitHub repository into an engaging podcast in seconds
 - [Qwen2-Audio](https://qwenlm.github.io/blog/qwen2-audio) - capable of accepting audio and text inputs and generating text outputs
 - [Neutone Morpho](https://neutone.ai/morpho) - pre-trained AI models you can transform any incoming audio into the characteristics, or “style”, of the sounds that the model is based on
 - [Lazybird](https://www.lazybird.app/) - AI-powered voice over generator – perfect for videos, podcasts, audiobooks, and educational content
@@ -573,7 +584,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 ## Code & Math
 ||Code|Math|
 :-:|:-:|:-:
-|[Mistral AI](https://mistral.ai/)|[Codestral](https://mistral.ai/news/codestral/), [Codestral Mamba](https://mistral.ai/news/codestral-mamba/)|[MathΣtral](https://mistral.ai/news/mathstral/)|
+|[Mistral AI](https://mistral.ai/)|[Codestral](https://mistral.ai/news/codestral/), [Codestral Mamba](https://mistral.ai/news/codestral-mamba/), [Codestral 25.01](https://mistral.ai/news/codestral-2501)|[MathΣtral](https://mistral.ai/news/mathstral/)|
 |Stablility AI|[StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding), [Stable Code 3B](https://stability.ai/news/stable-code-2024-llm-code-completion-release), [Stable Code Instruct 3B](https://stability.ai/news/introducing-stable-code-instruct-3b)||
 |Google DeepMind||[FunSearch](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/), [alphageometry](https://github.com/google-deepmind/alphageometry)|
 |Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)||
@@ -623,6 +634,8 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
 ## Robotics
+- [π0](https://www.physicalintelligence.company/blog/pi0) - a machine learning system that enables robots to perform housekeeping tasks that require high coordination and dexterity, like folding clothes and cleaning tables, by Physical Intelligence (π)
+- [Genesis](https://genesis-embodied-ai.github.io/) - a comprehensive physics simulation platform designed for general purpose Robotics, Embodied AI, & Physical AI applications
 - [Open-TeleVision](https://robot-tv.github.io/) - an open-sourced immersive teleoperation system with stereo visual feedback. Robots executing highly precise, extremely long-horizon tasks with high success rate, autonomously
 - [unitree_il_lerobot](https://github.com/unitreerobotics/unitree_IL_lerobot) - open-source project is a modification of the LeRobot open-source training framework, enabling the training and testing of data collected using the dual-arm dexterous hands of Unitree's G1 robot
 - [LeRobot](https://github.com/huggingface/lerobot) - aims to provide models, datasets, and tools for real-world robotics in PyTorch
@@ -683,14 +696,16 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [ClimaX A foundation model for weather and climate](https://microsoft.github.io/ClimaX/) - a flexible and generalizable deep learning model for weather and climate science. [Introducing ClimaX: The first foundation model for weather and climate](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/)
 
 ## Other: Fin, Presentation
-- [AlphaQubit]() - AI system accurately identifies errors inside quantum computers, helping to make this new technology more reliable, be Google DeepMind
+- [MatterGen](https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/) - a generative AI tool that tackles materials discovery from a different angle. Instead of screening the candidates, it directly generates novel materials given prompts of the design requirements for an application, by Microsoft
+- [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) - DL tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials, by Google DeepMind
+- [AlphaQubit](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/) - AI system accurately identifies errors inside quantum computers, helping to make this new technology more reliable, by Google DeepMind
 - [Sourcetable](https://sourcetable.com) - AI spreadsheet. Automatically, writes formulas, create charts and clean data in seconds.
 - [Bricks](https://www.thebricks.com/) - an AI-powered tool that generates reports, visuals, and presentations from your data
 - [Learn About](https://learning.google.com/experiments/learn-about/signup) - generates tailored educational experiences based on user questions and uploaded materials
 - [Hautech AI](https://www.hautech.ai/) - An AI platform that turns simple clothing images into professional-grade fashion photos
 - [Atlas](https://www.atlas.org/) - a school AI assistant that provides personalized help by studying your specific class materials
+- [Ollie](https://ollie.ai/) - delivers new and favorite recipes written just for you each week
 - [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA) - a fusion recipe generator powered by Google AI
-- [GNoME](https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/) - DL tool that dramatically increases the speed and efficiency of discovery by predicting the stability of new materials
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) -
 - [guidde](https://www.guidde.com/) - create documentation/presentation/FAQ from captured video
 - [Gamma](https://gamma.app/) - create visually appealing presentations
