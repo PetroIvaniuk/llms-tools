@@ -352,6 +352,7 @@ DeepSeek|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSe
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
 - [Composer](https://damo-vilab.github.io/composer-page/) - a large (5 billion parameters) controllable diffusion model trained on billions of (text, image) pairs. It can exponentially expand the control space through composition, leading to an enormous number of ways to generate and manipulate images, i.e., making the infinite use of finite means
 - [GigaGAN: Large-scale GAN for Text-to-Image Synthesis](https://mingukkang.github.io/GigaGAN/) - changing texture with prompting, changing style with prompting, by Adobe Research
+- [AI Image Generator](https://www.aiimagegenerator.org) - Free AI-powered text-to-image image generator
 
 ## Images
 - [EvoVLM-JP](https://sakana.ai/evolutionary-model-merge/) - drops image models to generate Japan’s traditional ukiyo-e artwork, by Sakana
