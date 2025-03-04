@@ -124,6 +124,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
 - [FILM](https://github.com/microsoft/FILM) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training, by Microsoft
 - [gpt2-chatbots (aka GPT-4o)](https://rentry.org/GPT2)
+- [SciSummary](https://scisummary.com/) - AI reference manager and research paper summarizer.  Allows for Chat, multimodal summaries of papers (scanning figures, outputting audio) and an AI powered research paper database search
 - [Snowflake Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) - an enterprise-focused LLM designed to provide cost-effective training and openness
 - [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - Multimodal LLM
 - [ChatFlow](https://chatflow.no/) - a no-code platform that lets you set up an OpenAI-powered chatbot for your website
