@@ -10,6 +10,9 @@ Welcome to contribute.
 
 Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton rewards plagiarism and incorrect attribution in computer science](https://x.com/SchmidhuberAI/status/1844022724328394780)
 
+## Turing Award
+**TURING AWARD in 2025** was recognized **Andrew Barto and Richard Sutton** as [Pioneers of Reinforcement Learning](https://amturing.acm.org/)
+
 ## Large Language Models (LLMs) and Chatbots
 [DeepLearning.AI Short Courses | Andrew Ng](https://learn.deeplearning.ai/) - short courses about LLMs\
 [The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | Video TED](https://youtu.be/C_78DM8fG6E)\
@@ -22,7 +25,7 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 [Anthropic Quickstarts | Code](https://github.com/anthropics/anthropic-quickstarts)
 
 [2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
-[AI Index Report (Since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)\
+[AI Index Report (since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)\
 [State of AI Report | October, 2024 | Nathan Benaich & Alex Chalmers | Reading](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M)\
 [The State of Generative AI in the Enterprise | 2024 | Menlo Ventures | Reading](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise)\
 [Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
@@ -52,27 +55,25 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 ### Models
 ||2021-22|2023|2024|2025
 :-:|:-:|:-:|:-:|:-:
-Google|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/),<br>[Gemma](https://blog.google/technology/developers/gemma-open-models/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/), [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024)|[Gemini 2.0 Flash Thinking](https://deepmind.google/technologies/gemini/flash-thinking)|
-[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/), [o1](https://openai.com/o1/)|[o3-mini](https://openai.com/index/openai-o3-mini)|
+[Google](https://blog.google/),<br>[DeepMind](https://deepmind.google/)|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/),<br>[Gemma](https://blog.google/technology/developers/gemma-open-models/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/), [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024)|[Gemini 2.0 Flash Thinking](https://deepmind.google/technologies/gemini/flash-thinking)|
+[OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/), [o1](https://openai.com/o1/)|[o3-mini](https://openai.com/index/openai-o3-mini), [Deep Research](https://openai.com/index/introducing-deep-research), [GPT-4.5](https://openai.com/index/introducing-gpt-4-5)|
 [MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[Llama 3](https://ai.meta.com/blog/meta-llama-3/), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/), [Llama 3.3 70B](https://www.llama.com/)|
-[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Pixtral Large](https://mistral.ai/news/pixtral-large/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|[Mistral Small 3](https://mistral.ai/news/mistral-small-3/)|
+[Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/), [Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Pixtral Large](https://mistral.ai/news/pixtral-large/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|[Mistral Small 3](https://mistral.ai/news/mistral-small-3/),<br>[Mistral Small 3.1](https://mistral.ai/news/mistral-small-3-1)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models),<br>[Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village), [Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
-[Anthropic](https://www.anthropic.com/)|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|
-EleutherAI|GPT-J, GPT-NeoX,<br>GPT Neo|[Pythia](https://github.com/EleutherAI/pythia)|
-BigScience|[Bloom](https://huggingface.co/bigscience/bloom)||
-Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280), [phi-4](https://huggingface.co/microsoft/phi-4)|
+[Anthropic](https://www.anthropic.com/)|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3: Haiku, Sonnet & Opus](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|[Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet)|
+Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280), [phi-4](https://huggingface.co/microsoft/phi-4)|[phi-4-multimodal](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family)|
 [Inflection AI](https://inflection.ai/)||[Inflection-2](https://inflection.ai/inflection-2)|[Inflection-2.5](https://inflection.ai/inflection-2-5)|
 Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Berkeley-BAIR](https://bair.berkeley.edu/)||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
 [Vicuna Team](https://lmsys.org/about/)||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct), [Falcon 3](https://huggingface.co/blog/falcon3)|
-[Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|
-[xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|
+[Cohere](https://cohere.com/)|||[Command R+](https://txt.cohere.com/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/)|[Aya Vision](https://cohere.com/blog/aya-vision)|
+[xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|[Grok-3](https://x.ai/news/grok-3)|
 NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b),<br>[Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base), [NVLM 1.0](https://research.nvidia.com/labs/adlr/NVLM-1/),<br>[Llama-3.1-Nemotron-70B-Instruct](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)|
 [AI2](https://allenai.org/blog)|||[OLMo 2](https://allenai.org/blog/olmo2), [Tulu3](https://allenai.org/blog/tulu-3)|[Tülu 3 405B](https://allenai.org/blog/tulu-3-405B)|
-[AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|
+[AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|[Jamba 1.6](https://www.ai21.com/blog/introducing-jamba-1-6)|
 [Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
-Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|[Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/)|
+Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|[Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/), [QwQ-32B](https://qwenlm.github.io/blog/qwq-32b)|
 AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://aws.amazon.com/ai/generative-ai/nova/)|
 [DeepSeek](https://api-docs.deepseek.com/)|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226),<br>[DeepSeek-R1-Lite-Preview](https://api-docs.deepseek.com/news/news1120)|[DeepSeek-R1](https://api-docs.deepseek.com/news/news250120)|
 
@@ -93,6 +94,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 ### Chats & Assistants
 |Chat|Company|Notes|
 :-|:-:|:-|
+|[Andrew Ng](https://www.deeplearning.ai/avatar/)|deeplearning.ai|Chat with Andrew Ng|
 |[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br>Stable Video, Stable Image Services and Stable LM 2 12B|
 |[Moshi](https://www.moshi.chat/)|Kyutai|engaging conversations limited to five minutes, thinks and speaks at the same time|
 |[MetaAI](https://www.meta.ai)|MetaAI||
@@ -106,6 +108,11 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Mercury](https://www.inceptionlabs.ai/news) - diffusion LLM that are up to 10x faster and cheaper than current LLMs, pushing the frontier of intelligence and speed for LMs, by Inception
+- [Granite](https://www.ibm.com/granite), [Granite 3.0](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models), [Granite 3.2](https://www.ibm.com/new/announcements/ibm-granite-3-2-open-source-reasoning-and-vision) - a family of open, performant, and trusted AI models, tailored for business and optimized to scale your AI applications, by IBM
+- [SmolLM](https://huggingface.co/blog/smollm), [SmolVLM2](https://huggingface.co/blog/smolvlm2) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
+- [LLaDA](https://ml-gsai.github.io/LLaDA-demo) - Large Language Diffusion with mAsking - a diffusion model with an unprecedented 8B scale, trained entirely from scratch, rivaling LLaMA3 8B in performance
+- [R1 1776](https://www.perplexity.ai/hub/blog/open-sourcing-r1-1776) - a version of the DeepSeek-R1 model that has been post-trained to provide unbiased, accurate, and factual information
 - [s1](https://github.com/simplescaling/s1) - minimal recipe for test-time scaling and strong reasoning performance matching o1-preview with just 1,000 examples & budget forcing
 - [Sky-T1](https://novasky-ai.github.io/posts/sky-t1/) - reasoning model that performs on par with o1-preview on popular reasoning and coding benchmarks
 - [Open-R1](https://huggingface.co/blog/open-r1) - a fully open reproduction of DeepSeek-R1
@@ -114,12 +121,10 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [SmallThinker-3B-preview](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview) - a 3 billion parameter o1-like language model designed to excel at reasoning tasks (fine-tuned from the Qwen2.5-3b-Instruct model)
 - [voyage-3 & voyage-3-lite](https://blog.voyageai.com/2024/09/18/voyage-3/) - a new generation of small yet mighty general-purpose embedding models
 - [Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - the largest open-source Transformer-based MoE model in the industry, featuring a total of 389 billion parameters and 52 billion active parameters
-- [Granite](https://www.ibm.com/granite), [Granite 3.0](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models) - a family of open, performant, and trusted AI models, tailored for business and optimized to scale your AI applications, by IBM
 - [Molmo](https://molmo.allenai.org/) - Multimodal Open Language Model, Molmo is small but punching well above its weight, by Ai2
 - [Paperguide](https://paperguide.ai/) - AI Research Assistant, Reference Manager and Writing Assistant that help you understand papers, manage references, annotate/take notes, and supercharge your writing
 - Gemma Scope [Demo](https://www.neuronpedia.org/gemma-scope) - a beginner-friendly introduction to interpretability that explores an AI model called Gemma 2 2B. It also contains interesting and relevant content even for those already familiar with the topic
 - [Hermes 3](https://nousresearch.com/hermes3/) - the latest version in our Hermes series, available in 3 sizes, 8, 70, and 405B parameters
-- [SmolLM](https://huggingface.co/blog/smollm) - a family of state-of-the-art small models with 135M, 360M, and 1.7B parameters, trained on a new high-quality dataset, by Hugging Face
 - [SearchGPT](https://openai.com/index/searchgpt-prototype/) - a temporary prototype of new AI search features that give you fast and timely answers with clear and relevant sources
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
 - [FILM](https://github.com/microsoft/FILM) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training, by Microsoft
@@ -162,13 +167,15 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [PdfGPT](https://pdfgpt.io/) - a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
 - [Baize](https://github.com/project-baize/baize-chatbot) - an open-source chat model trained with LoRA. It uses 100k dialogs generated by letting ChatGPT chat with itself
 - [Chameleon](https://chameleon-llm.github.io/) - a compositional reasoning framework designed to enhance LLMs and overcome their inherent limitations, such as outdated information and lack of precise reasoning
+- [Bloom](https://huggingface.co/bigscience/bloom) - an autoregressive LLM, trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources
+- [Pythia](https://github.com/EleutherAI/pythia) - the hub for [EleutherAI's](https://www.eleuther.ai/) work on interpretability and learning dynamics
 
 ### Large Visual Language Models (LVLMs)
-- [Eagle Family] - Exploring Model Designs, Data Recipes and Training Strategies for Frontier-Class Multimodal LLMs, by NVIDIA
+- [PaliGemma](https://developers.googleblog.com/en/gemma-family-and-toolkit-expansion-io-2024/), [PaliGemma 2](https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/), [PaliGemma 2 Mix](https://developers.googleblog.com/en/introducing-paligemma-2-mix/) - fine-tuned on a mix of vision language tasks, including OCR, long and short captioning and more, by Google
+- [Eagle Family](https://github.com/NVlabs/EAGLE) - Exploring Model Designs, Data Recipes and Training Strategies for Frontier-Class Multimodal LLMs, by NVIDIA
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL), [Qwen2-VL](https://qwenlm.github.io/blog/qwen2-vl/), [Qwen2.5-VL](https://qwenlm.github.io/blog/qwen2.5-vl/) - a significant leap from the previous Qwen2-VL: Understand things visually; Being agentic; Understanding long videos and capturing events; Capable of visual localization in different formats; Generating structured outputs
 - [Janus](https://github.com/deepseek-ai/Janus) - Unified Multimodal Understanding and Generation Models, by DeepSeek
 - [Moondream 1.9B](https://moondream.ai/blog/introducing-a-new-moondream-1-9b-and-gpu-support) - a tiny open-source vision AI that brings powerful image understanding to your applications and runs everywhere
-- [PaliGemma](https://developers.googleblog.com/en/gemma-family-and-toolkit-expansion-io-2024/) - a powerful open VLM inspired by PaLI-3, optimized for image captioning, visual Q&A and other image labeling tasks, by Google
 - [Idefics2](https://huggingface.co/blog/idefics2) - it can answer questions about images, describe visual content, create stories grounded in multiple images, extract information from documents, and perform basic arithmetic operations
 - [Grok-1.5 Vision](https://x.ai/blog/grok-1.5v) - can process a wide variety of visual information, including documents, diagrams, charts, screenshots, and photographs, by xAI
 - [CogVLM & CogAgent](https://github.com/THUDM/CogVLM) - an 18 billion parameter visual language model specializing in GUI understanding and navigation; supports high-resolution inputs (1120x1120) and shows abilities in tasks such as visual Q&A, visual grounding, and GUI Agent
@@ -197,6 +204,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 
 ### Evaluation
+- [SuperGPQA](https://supergpqa.github.io/) - a comprehensive benchmark designed to evaluate the knowledge and reasoning abilities of LLMs across 285 graduate-level disciplines
 - [FACTS Grounding](https://deepmind.google/discover/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models) - a new benchmark for evaluating the factuality of LLMs, by DeepMind
 - [MLE-bench](https://github.com/openai/mle-bench/) - a benchmark for measuring how well AI agents perform at machine learning engineering, by OpenAI
 - [JailbreakBench](https://jailbreakbench.github.io/) - Repository of jailbreak artifacts, Standardized evaluation framework, Leaderboard, Dataset
@@ -564,6 +572,8 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLab
 
 ### Other
+- [Conversational Speech Model (CSM)](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice) - an end-to-end multimodal learning system designed to generate more natural and contextually appropriate AI speech, by Sesame
+- [Di♪♪Rhythm](https://github.com/ASLP-lab/DiffRhythm) - Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion
 - [YuE](https://map-yue.github.io/) - Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
 - [Riffusion](https://www.riffusion.com/) is an AI-powered music generator that turns text into sound
 - [GitPodcast](https://www.gitpodcast.com/) - turn any GitHub repository into an engaging podcast in seconds
@@ -605,6 +615,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |Salesforce|[CodeT5 & CodeT5+](https://github.com/salesforce/CodeT5/tree/main), [CodeGen2.5](https://blog.salesforceairesearch.com/codegen25/)||
 |Alibaba Cloud|[Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/), [Qwen2.5-Math](https://qwenlm.github.io/blog/qwen2.5-math/)|[CodeQwen1.5](https://qwenlm.github.io/blog/codeqwen1.5/), [Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5-coder)|
 
+- [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) - a multi-agent AI system built with Gemini 2.0 as a virtual scientific collaborator to help scientists generate novel hypotheses and research proposals, and to accelerate the clock speed of scientific and biomedical discoveries
 - [MathGPT](https://math-gpt.org/) - simplifies math problems with step-by-step solutions
 - [neo](https://heyneo.so/blog) - a fully autonomous Machine Learning Engineer
 - [bolt.new](https://bolt.new/) - prompt, run, edit, and deploy full-stack web apps
@@ -637,6 +648,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [dropbase](https://github.com/DropbaseHQ/) - uild and prototype web apps faster with AI
 
 ## Games
+- [Muse](https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation) - the first World and Human Action Model (WHAM), a generative AI model of a video game that can generate game visuals, controller actions, or both
 - [Genie](https://sites.google.com/view/genie-2024/), [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - a foundation world model trained from Internet videos that can generate an endless variety of playable (action-controllable) worlds from synthetic images, photographs, and even sketches, by Google DeepMind
 - [GenChess](https://labs.google/genchess) - turns your ideas into playable art pieces using Google’s Imagen 3 model
 - [ExistAI](https://exists.ai/) - games from text
@@ -649,6 +661,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/) - the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
 
 ## Robotics
+- [Helix](https://www.figure.ai/news/helix) - a generalist Vision-Language-Action (VLA) model that unifies perception, language understanding, and learned control to overcome multiple longstanding challenges in robotics
 - [ASAP](https://agile.human2humanoid.com/) - Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills
 - [π0](https://www.physicalintelligence.company/blog/pi0), [Open Sourcing π0](https://www.physicalintelligence.company/blog/openpi) - a machine learning system that enables robots to perform housekeeping tasks that require high coordination and dexterity, like folding clothes and cleaning tables, by Physical Intelligence (π)
 - [Genesis](https://genesis-embodied-ai.github.io/) - a comprehensive physics simulation platform designed for general purpose Robotics, Embodied AI, & Physical AI applications
@@ -686,6 +699,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Bio & Med
+- [BioEmu-1](https://www.microsoft.com/en-us/research/blog/exploring-the-structural-changes-driving-protein-function-with-bioemu-1) - exploring the structural changes driving protein function
 - [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/), [Code](https://github.com/google-deepmind/alphafold3) - an AI model that predict the structure of proteins, DNA, RNA, ligands and more, and how they interact, by Google DeepMind and Isomorphic Labs
 - [AMIE](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html) - a research AI system for diagnostic medical reasoning and conversations, by Google
 - [MentalLLaMA](https://github.com/SteveKGYang/MentalLLaMA) - mental health analysis with LLMs
