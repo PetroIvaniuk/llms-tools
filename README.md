@@ -384,6 +384,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [PaintsUndo](https://lllyasviel.github.io/pages/paints_undo/) - A Base Model of Drawing Behaviors in Digital Paintings
 - [SkyReels](https://skyreels.ai/) - generate comics from stories or files you upload
 - [PhotoMaker](https://photo-maker.github.io/) - Customizing Realistic Human Photos via Stacked ID Embedding
+- [ClixMagicAI](https://clixmagic.com/) - A professional AI-powered watermark removal tool
 - [DeWatermark](https://dewatermark.ai/) - Remove Watermark from photos online free with AI; [Upscales](https://upscales.ai/) - Upscale Images with AI upto 4K
 - [NSF](https://light.princeton.edu/publication/nsf/) - Neural Spline Fields for Burst Image Fusion and Layer Separation
 - [Material Palette](https://astra-vision.github.io/MaterialPalette/) - a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image
