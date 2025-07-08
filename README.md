@@ -115,6 +115,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [MiniMax-M1](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) - the world's first open-weight, large-scale hybrid-attention reasoning model. MiniMax-M1 is powered by a hybrid Mixture-of-Experts (MoE) architecture combined with a lightning attention mechanism
 - [BAGEL](https://bagel-ai.org/) - the open-source Unified Multimodal Model you can fine-tune, distill and deploy anywhere, offering comparable functionality to proprietary systems like GPT-4o and Gemini 2.0 in an open form
 - [Open-R1](https://huggingface.co/blog/open-r1), [updates](https://huggingface.co/blog/open-r1/update-3) - a fully open reproduction of DeepSeek-R1
 - [Mercury](https://www.inceptionlabs.ai/news) - diffusion LLM that are up to 10x faster and cheaper than current LLMs, pushing the frontier of intelligence and speed for LMs, by Inception
@@ -197,10 +198,6 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [LLaVA](https://llava-vl.github.io/) - a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
 
-### Watermarks
-- [SynthID](https://deepmind.google/technologies/synthid/), [SynthID Text](https://huggingface.co/blog/synthid-text) - watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video, by Google DeepMind and Hugging Face
-- [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
-
 ### Offline-Mode
 - [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) - an experimental app that puts the power of cutting-edge Generative AI models directly into your hands, running entirely on your Android (available now) and iOS (coming soon) devices
 - [msty](https://msty.app/) - the easiest way to use local and online AI models
@@ -257,9 +254,10 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Natural Questions](https://ai.google.com/research/NaturalQuestions) - contains questions from real users, and it requires QA systems to read and comprehend an entire Wikipedia article that may or may not contain the answer to the question
 
 ## Libraries
-- [LangChain](https://github.com/hwchase17/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=plastic&logo=langchain), [Tutorials](https://python.langchain.com/docs/tutorials/) - a framework for developing applications powered by language models
 - [aisuite](https://github.com/andrewyng/aisuite)  ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/aisuite?style=plastic) - simple, unified interface to multiple Generative AI providers, by Andrew Ng Team
-- [gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - application serves as an example of building research-augmented conversational AI using LangGraph and Google's Gemini models
+- [LangChain](https://github.com/hwchase17/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=plastic&logo=langchain), [Tutorials](https://python.langchain.com/docs/tutorials/) - a framework for developing applications powered by language models
+- [Open Agent Platform](https://github.com/langchain-ai/open-agent-platform/) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/open-agent-platform?style=plastic) - a no-code agent building platform, by LangChain
+- [Gemini Fullstack LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=plastic) - application serves as an example of building research-augmented conversational AI using LangGraph and Google's Gemini models
 - [LlamaIndex](https://github.com/jerryjliu/llama_index), [docs](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
 - [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - an open-source toolkit for pre-training, fine-tuning and deployment of LLMs and mutlimodal LLMs
 - [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models
@@ -326,7 +324,8 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
 - [01 Project](https://www.openinterpreter.com/01) - the open-source language model computer, by Open Interpreter
 ### Glasses
-- [G1](https://www.evenrealities.com/g1) - , by evenrealities
+- [Aria Gen 2](https://ai.meta.com/blog/aria-gen-2-research-glasses-under-the-hood-reality-labs/) - a wearable device that combines the latest advancements in computer vision, machine learning, and sensor technology, by MetaAI
+- [G1](https://www.evenrealities.com/g1) - , by Even Realities
 - [AirGo Vision](https://solosglasses.com/) - Audio Smartglasses powered by ChatGPT, by Solosglasses
 - [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/) - a 12 MP camera and five-mic system, [updates](https://about.fb.com/news/2024/04/new-ray-ban-meta-smart-glasses-styles-and-meta-ai-updates/), by Ray-Ban & MetaAI
 - [Frame](https://brilliant.xyz/products/frame) - AI glasses designed to be worn as a pair of glasses with a suite of AI capabilities out of the box, by Brilliant Labs
@@ -392,8 +391,6 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [PaintsUndo](https://lllyasviel.github.io/pages/paints_undo/) - A Base Model of Drawing Behaviors in Digital Paintings
 - [SkyReels](https://skyreels.ai/) - generate comics from stories or files you upload
 - [PhotoMaker](https://photo-maker.github.io/) - Customizing Realistic Human Photos via Stacked ID Embedding
-- [ClixMagicAI](https://clixmagic.com/) - A professional AI-powered watermark removal tool
-- [DeWatermark](https://dewatermark.ai/) - Remove Watermark from photos online free with AI; [Upscales](https://upscales.ai/) - Upscale Images with AI upto 4K
 - [NSF](https://light.princeton.edu/publication/nsf/) - Neural Spline Fields for Burst Image Fusion and Layer Separation
 - [Material Palette](https://astra-vision.github.io/MaterialPalette/) - a method to extract Physically-Based-Rendering (PBR) materials from a single real-world image
 - [DiffusionLight](https://diffusionlight.github.io/) - a simple yet effective technique to estimate lighting in a single input image
@@ -408,6 +405,12 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Designer](https://designer.microsoft.com/) - generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. [Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/), by Microsoft.
 - [Scribble Diffusion](https://scribblediffusion.com/) - turn your sketch into a refined image using AI
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
+
+### Watermarks
+- [SynthID](https://deepmind.google/technologies/synthid/), [SynthID Text](https://huggingface.co/blog/synthid-text) - watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video, by Google DeepMind and Hugging Face
+- [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
+- [ClixMagicAI](https://clixmagic.com/) - a professional AI-powered watermark removal tool
+- [DeWatermark](https://dewatermark.ai/) - remove Watermark from photos online free with AI
 
 ## Computer Vision
 - [Depth-Anything](https://huggingface.co/spaces/LiheYoung/Depth-Anything) - a depth estimation solution that can deal with any images under any circumstance
@@ -579,6 +582,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html) - a state-of-the-art speech AI for 100+ languages
 
 ### [Eleven Labs](https://beta.elevenlabs.io/)
+- [11ai](https://11.ai/) - a personal AI voice assistant, built with ElevenLabs Conversational AI
 - [Flash](https://elevenlabs.io/blog/meet-flash) - a newest model that generates speech in 75ms + application & network latency
 - [xtovoice](https://www.xtovoice.com/) - analyze your X profile to generate a unique voice using ElevenLabs
 - [Sound Effects](https://elevenlabs.io/sound-effects) - create distinctive sound effects directly from text descriptions, streamlining your audio production process
@@ -589,6 +593,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLab
 
 ### Other
+- [chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS, by Resemble AI
 - [dia](https://github.com/nari-labs/dia) - a 1.6B parameter text to speech model capable of generating ultra-realistic dialogue in one pass, by Nari Labs
 - [Amazon Nova Sonic](https://aws.amazon.com/ai/generative-ai/nova/speech/) - a state-of-the-art speech-to-speech model that delivers real-time, human-like voice conversations with industry-leading price performance and low latency
 - [MoshiVis](https://kyutai.org/moshivis) - an open-source Vision Speech Model (VSM) with the same low-latency and natural conversation skills as Moshi, with the additional ability to discuss visual inputs
@@ -726,14 +731,15 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://ds-fusion.github.io/) - create artistic typography automatically, a novel method to automatically generate artistic typography by stylizing one or more letter fonts to visually convey the semantics of an input word, while ensuring that the output remains readable
 
 ## Bio & Med
-- [TxGemma](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/) - a LLM designed to improve the efficiency of therapeutic development, from identifying promising targets to helping predict clinical trial outcomes
-- [DolphinGemma](https://blog.google/technology/ai/dolphingemma/) - a LLM developed by Google, is helping scientists study how dolphins communicate — and hopefully find out what they're saying, too.
+- [AlphaGenome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/) - an AI tool that more comprehensively and accurately predicts how single variants or mutations in human DNA sequences impact a wide range of biological processes regulating genes, by Google
+- [TxGemma](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/) - a LLM designed to improve the efficiency of therapeutic development, from identifying promising targets to helping predict clinical trial outcomes, by Google
+- [DolphinGemma](https://blog.google/technology/ai/dolphingemma/) - a LLM is helping scientists study how dolphins communicate — and hopefully find out what they're saying, by Google
 - [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) - a multi-agent AI system built with Gemini 2.0 as a virtual scientific collaborator to help scientists generate novel hypotheses and research proposals, and to accelerate the clock speed of scientific and biomedical discoveries, by Google
 - [BioEmu-1](https://www.microsoft.com/en-us/research/blog/exploring-the-structural-changes-driving-protein-function-with-bioemu-1) - exploring the structural changes driving protein function
 - [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/), [Code](https://github.com/google-deepmind/alphafold3) - an AI model that predict the structure of proteins, DNA, RNA, ligands and more, and how they interact, by Google DeepMind and Isomorphic Labs
 - [AMIE](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html) - a research AI system for diagnostic medical reasoning and conversations, by Google
 - [MentalLLaMA](https://github.com/SteveKGYang/MentalLLaMA) - mental health analysis with LLMs
-- [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases
+- [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases, by Google Deepmind
 - [meditron](https://github.com/epfLLM/meditron) - a suite of open-source medical LLM adapted to the medical domain from Llama-2 through continued pretraining on a comprehensively curated medical corpus, including selected PubMed papers and abstracts, a new dataset of internationally-recognized medical guidelines, and a general domain corpus
 - [evodiff](https://github.com/microsoft/evodiff) - combines evolutionary-scale data with diffusion models for controllable protein sequence generation
 - [SAM-Med2D](https://github.com/OpenGVLab/SAM-Med2D) - applying the Segment Anything Model (SAM) to medical 2D images
@@ -749,7 +755,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [GeoSpy](https://geospy.ai/) - upload satellite or aerial images, and GeoSpy’s AI examines visual details like landmarks, terrain features, and vegetation patterns to provide precise location predictions
 
 ## Climat
-- [Weather Lab](https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai) - experimental cyclone predictions, by Google
+- [Weather Lab](https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai), [app](https://deepmind.google.com/science/weatherlab) - experimental cyclone predictions, by Google DeepMind
 - [Planet Parasol](https://www.planetparasol.ai/) - simulating the impacts of Stratospheric Aerosol Injection (SAI) deployment
 - [GraphCast](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) - AI model for faster and more accurate global weather forecasting, by Google DeepMind
 - [OpenDAC](https://open-dac.github.io/) - a research project aimed at significantly reducing the cost of Direct Air Capture (DAC), by FAIR at Meta and Georgia Tech
