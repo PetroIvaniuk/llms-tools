@@ -414,12 +414,14 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Designer](https://designer.microsoft.com/) - generate stunning designs and original images just by typing what you want. Get writing assistance and automatic layout suggestions for anything you add. [Designer expands preview with new AI design features](https://www.microsoft.com/en-us/microsoft-365/blog/2023/04/27/microsoft-designer-expands-preview-with-new-ai-design-features/), by Microsoft.
 - [Scribble Diffusion](https://scribblediffusion.com/) - turn your sketch into a refined image using AI
 - [StudioGPT](https://www.latentlabs.art/) - a tool for reimagining an existing image
+- [UnblurImage](https://unblurimage.ai/) - Remove blur from photos and achieve stunning clarity online for free.
 
 ### Watermarks
 - [SynthID](https://deepmind.google/technologies/synthid/), [SynthID Text](https://huggingface.co/blog/synthid-text) - watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video, by Google DeepMind and Hugging Face
 - [Stable Signature](https://ai.meta.com/blog/stable-signature-watermarking-generative-ai/) - a new method for watermarking images, by MetaAI
 - [ClixMagicAI](https://clixmagic.com/) - a professional AI-powered watermark removal tool
 - [DeWatermark](https://dewatermark.ai/) - remove Watermark from photos online free with AI
+- [UnwatermarkAI](https://unwatermark.ai/) - remove watermark from image and video with AI For Free, No Sign-up, No Ads
 
 ## Computer Vision
 - [Depth-Anything](https://huggingface.co/spaces/LiheYoung/Depth-Anything) - a depth estimation solution that can deal with any images under any circumstance
