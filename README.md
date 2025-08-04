@@ -33,7 +33,8 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 [Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
 [Prompt engineering | OpenAI | Reading](https://platform.openai.com/docs/guides/prompt-engineering)\
 [Model Spec | Open AI | Reading](https://openai.com/index/sharing-the-latest-model-spec/), [New](https://model-spec.openai.com/2025-02-12.html)\
-[Anthropic's Prompt Engineering Interactive Tutorial | Reading](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+[Anthropic's Prompt Engineering Interactive Tutorial | Reading](https://github.com/anthropics/prompt-eng-interactive-tutorial)\
+[LLM Inference Handbook | Reading](https://bentoml.com/llm/)
 
 [The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT | Visualization](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)\
 [Opening up ChatGPT: tracking openness of instruction-tuned LLMs](https://opening-up-chatgpt.github.io/)\
@@ -74,7 +75,7 @@ Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
 [Vicuna Team](https://lmsys.org/about/)||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct), [Falcon 3](https://huggingface.co/blog/falcon3)|[Falcon-Edge](https://huggingface.co/blog/tiiuae/falcon-edge), [Falcon-H1](https://huggingface.co/blog/tiiuae/falcon-h1),<br>[Falcon-Arabic](https://huggingface.co/blog/tiiuae/falcon-arabic)|
 [Cohere](https://cohere.com/)||[Aya](https://cohere.com/blog/aya-multilingual)|[Command R+](https://cohere.com/blog/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/),<br>[Aya Expanse](https://cohere.com/blog/aya-expanse-connecting-our-world)|[Aya Vision](https://cohere.com/blog/aya-vision), [Command A](https://cohere.com/blog/command-a)|
-[xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|[Grok-3](https://x.ai/news/grok-3)|
+[xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|[Grok-3](https://x.ai/news/grok-3), [Grok-4](https://x.ai/news/grok-4)|
 NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b),<br>[Minitron-4B-Base](https://huggingface.co/nvidia/Minitron-4B-Base), [NVLM 1.0](https://research.nvidia.com/labs/adlr/NVLM-1/),<br>[Llama-3.1-Nemotron-70B-Instruct](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)|[NVIDIA Llama Nemotron](https://developer.nvidia.com/blog/build-enterprise-ai-agents-with-advanced-open-nvidia-llama-nemotron-reasoning-models)|
 [AI2](https://allenai.org/blog)|||[Molmo](https://allenai.org/blog/molmo), [Tulu3](https://allenai.org/blog/tulu-3), [OLMo 2](https://allenai.org/blog/olmo2)|[Tülu 3 405B](https://allenai.org/blog/tulu-3-405B), [OLMo 2 32B](https://allenai.org/blog/olmo2-32B)|
 [AI21Lab](https://www.ai21.com/)|||[Jamba](https://www.ai21.com/blog/announcing-jamba), [Jamba 1.5](https://www.ai21.com/blog/announcing-jamba-model-family)|[Jamba 1.6](https://www.ai21.com/blog/introducing-jamba-1-6)|
@@ -115,6 +116,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |[Copilot](https://copilot.microsoft.com/)|Microsoft||
 |[ChatGPT](https://chat.openai.com/)|OpenAI||
 
+- [Kimi k1.5](https://github.com/MoonshotAI/Kimi-k1.5) - Scaling Reinforcement Learning with LLMs, [Kimi K2](https://moonshotai.github.io/Kimi-K2/) - Open Agentic Intelligence
 - [MiniMax-M1](https://huggingface.co/MiniMaxAI/MiniMax-M1-40k) - the world's first open-weight, large-scale hybrid-attention reasoning model. MiniMax-M1 is powered by a hybrid Mixture-of-Experts (MoE) architecture combined with a lightning attention mechanism
 - [BAGEL](https://bagel-ai.org/) - the open-source Unified Multimodal Model you can fine-tune, distill and deploy anywhere, offering comparable functionality to proprietary systems like GPT-4o and Gemini 2.0 in an open form
 - [Open-R1](https://huggingface.co/blog/open-r1), [updates](https://huggingface.co/blog/open-r1/update-3) - a fully open reproduction of DeepSeek-R1
@@ -125,7 +127,6 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [R1 1776](https://www.perplexity.ai/hub/blog/open-sourcing-r1-1776) - a version of the DeepSeek-R1 model that has been post-trained to provide unbiased, accurate, and factual information
 - [s1](https://github.com/simplescaling/s1) - minimal recipe for test-time scaling and strong reasoning performance matching o1-preview with just 1,000 examples & budget forcing
 - [Sky-T1](https://novasky-ai.github.io/posts/sky-t1/) - reasoning model that performs on par with o1-preview on popular reasoning and coding benchmarks
-- [Kimi k1.5](https://github.com/MoonshotAI/Kimi-k1.5) - Scaling Reinforcement Learning with LLMs
 - [Transformer²](https://sakana.ai/transformer-squared/) - a ML system that dynamically adjusts its weights for various tasks, by Sakana
 - [SmallThinker-3B-preview](https://huggingface.co/PowerInfer/SmallThinker-3B-Preview) - a 3 billion parameter o1-like language model designed to excel at reasoning tasks (fine-tuned from the Qwen2.5-3b-Instruct model)
 - [voyage-3 & voyage-3-lite](https://blog.voyageai.com/2024/09/18/voyage-3/) - a new generation of small yet mighty general-purpose embedding models
@@ -311,7 +312,14 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [JARVIS-1](https://craftjarvis-jarvis1.github.io/) - Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models, generate sophisticated plans, and perform embodied control, within the open-world Minecraft universe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 
+### AI Code Editors
+- [Cursor](https://cursor.com/home)
+- [Windsurf Editor](https://windsurf.com/editor)
+- [Replit](https://replit.com/)
+- [Kilo Code](https://kilocode.ai/) - AI coding agent for VS Code
+
 ## Devices
+- [Reachy Mini](https://huggingface.co/blog/reachy-mini) - open-source robot designed for human-robot interaction, creative coding, and AI experimentation, by Hugging Face
 - [Omi](https://www.omi.me/) - AI wearables that revolutionize how you capture and manage conversations
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
 - [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
@@ -323,6 +331,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard
 - [rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
 - [01 Project](https://www.openinterpreter.com/01) - the open-source language model computer, by Open Interpreter
+
 ### Glasses
 - [Aria Gen 2](https://ai.meta.com/blog/aria-gen-2-research-glasses-under-the-hood-reality-labs/) - a wearable device that combines the latest advancements in computer vision, machine learning, and sensor technology, by MetaAI
 - [G1](https://www.evenrealities.com/g1) - , by Even Realities
@@ -593,6 +602,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [AI Speech Classifier](https://beta.elevenlabs.io/blog/ai-speech-classifier/), [Demo](https://beta.elevenlabs.io/ai-speech-classifier) - detect whether an audio clip was created using ElevenLab
 
 ### Other
+- [Voxtral](https://mistral.ai/news/voxtral) - state‑of‑the‑art speech understanding models are available in two sizes—a 24B variant for production-scale applications and a 3B variant for local and edge deployments, by Mistral
 - [chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS, by Resemble AI
 - [dia](https://github.com/nari-labs/dia) - a 1.6B parameter text to speech model capable of generating ultra-realistic dialogue in one pass, by Nari Labs
 - [Amazon Nova Sonic](https://aws.amazon.com/ai/generative-ai/nova/speech/) - a state-of-the-art speech-to-speech model that delivers real-time, human-like voice conversations with industry-leading price performance and low latency
@@ -640,9 +650,10 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |Alibaba Cloud|[CodeQwen1.5](https://qwenlm.github.io/blog/codeqwen1.5/), [Qwen2.5-Coder](https://qwenlm.github.io/blog/qwen2.5-coder)|[Qwen2-Math](https://qwenlm.github.io/blog/qwen2-math/), [Qwen2.5-Math](https://qwenlm.github.io/blog/qwen2.5-math/)|
 |DeepSeek||[DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2)|
 
+- [Opal](https://developers.googleblog.com/en/introducing-opal) - an experimental tool that lets you build and share powerful AI mini apps that chain together prompts, models, and tools, by Google
 - [Codex](https://openai.com/index/introducing-codex) - a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1; [codex-cli](https://github.com/openai/codex) - lightweight coding agent that runs in your terminal, by OpenAI
 - [DeepCoder](https://www.together.ai/blog/deepcoder), [GitHub](https://github.com/agentica-project/rllm) - a code reasoning model finetuned from Deepseek-R1-Distilled-Qwen-14B via distributed RL, by Agentica team and Together AI
-- [AlphaEvolve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) - a Gemini-powered coding agent for designing advanced algorithms
+- [AlphaEvolve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) - a Gemini-powered an agentic system that used LLMs to generate code in an evolutionary process, by Google DeepMind
 - [SWE-1](https://windsurf.com/blog/windsurf-wave-9-swe-1) -  a family of models optimized for the entire software engineering process, not just the task of coding, by Windsurf
 - [DeepWiki](https://deepwiki.com/) - understand unfamiliar codebases by automatically generating architecture diagrams, documentation, and source code links for public GitHub repositories, by Devin
 - [Devin](https://www.cognition-labs.com/introducing-devin), [Devin 2.0](https://cognition.ai/blog/devin-2) - a new agent-native IDE experience for working with Devin
@@ -692,7 +703,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 
 ## Robotics
 - [V-JEPA 2](https://about.fb.com/news/2025/06/our-new-model-helps-ai-think-before-it-acts/), [V-JEPA](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/) - a new world model that achieves state-of-the art visual understanding and prediction in the physical world, improving the physical reasoning of AI agents, by MetaAI
-- [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) - Gemini 2.0-based model designed for robotics, by Google Deepmind
+- [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/) - Gemini 2.0-based model designed for robotics, by Google DeepMind
 - [Helix](https://www.figure.ai/news/helix) - a generalist Vision-Language-Action (VLA) model that unifies perception, language understanding, and learned control to overcome multiple longstanding challenges in robotics
 - [ASAP](https://agile.human2humanoid.com/) - Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills
 - [π0](https://www.physicalintelligence.company/blog/pi0), [Open Sourcing π0](https://www.physicalintelligence.company/blog/openpi) - a machine learning system that enables robots to perform housekeeping tasks that require high coordination and dexterity, like folding clothes and cleaning tables, by Physical Intelligence (π)
@@ -739,7 +750,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/), [Code](https://github.com/google-deepmind/alphafold3) - an AI model that predict the structure of proteins, DNA, RNA, ligands and more, and how they interact, by Google DeepMind and Isomorphic Labs
 - [AMIE](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html) - a research AI system for diagnostic medical reasoning and conversations, by Google
 - [MentalLLaMA](https://github.com/SteveKGYang/MentalLLaMA) - mental health analysis with LLMs
-- [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases, by Google Deepmind
+- [AlphaMissense](https://deepmind.google/discover/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/) - an AI model classifying missense variants to help pinpoint the cause of diseases, by Google DeepMind
 - [meditron](https://github.com/epfLLM/meditron) - a suite of open-source medical LLM adapted to the medical domain from Llama-2 through continued pretraining on a comprehensively curated medical corpus, including selected PubMed papers and abstracts, a new dataset of internationally-recognized medical guidelines, and a general domain corpus
 - [evodiff](https://github.com/microsoft/evodiff) - combines evolutionary-scale data with diffusion models for controllable protein sequence generation
 - [SAM-Med2D](https://github.com/OpenGVLab/SAM-Med2D) - applying the Segment Anything Model (SAM) to medical 2D images
