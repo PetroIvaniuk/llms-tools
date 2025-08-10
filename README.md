@@ -184,6 +184,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Chameleon](https://chameleon-llm.github.io/) - a compositional reasoning framework designed to enhance LLMs and overcome their inherent limitations, such as outdated information and lack of precise reasoning
 - [Bloom](https://huggingface.co/bigscience/bloom) - an autoregressive LLM, trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources
 - [Pythia](https://github.com/EleutherAI/pythia) - the hub for [EleutherAI's](https://www.eleuther.ai/) work on interpretability and learning dynamics
+- [Dmwithme](https://dmwithme.com) - Virtual companion with realistic emotions that roleplays as ai friend.
 
 ### Large Visual Language Models (LVLMs)
 - [QVQ-Max](https://qwenlm.github.io/blog/qvq-max-preview) - visual reasoning model that can not only “understand” the content in images and videos but also analyze and reason with this information to provide solutions
