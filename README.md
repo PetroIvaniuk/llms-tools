@@ -19,36 +19,35 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 ### Courses
 [![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI%20|%20Andrew%20Ng-E73946?style=for-the-badge)](https://learn.deeplearning.ai/)  [![LangChain](https://img.shields.io/badge/LangChain%20Academy-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://academy.langchain.com/collections)  [![Anthropic](https://img.shields.io/badge/Anthropic%20Academy-FFD700?style=for-the-badge&logo=anthropic&logoColor=black)](https://anthropic.skilljar.com)
 
-[The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | Video TED](https://youtu.be/C_78DM8fG6E)\
-[State of GPT | Andrej Karpathy | Video](https://youtu.be/bZQun8Y4L2A)\
-[[1hr Talk] Intro to Large Language Models | Andrej Karpathy | Video](https://youtu.be/zjkBMFhNj_g?si=7vHESwCUxV_QeRWm)\
-[Opportunities in AI - 2023 | Andrew Ng | Video](https://youtu.be/5p248yoa3oE?si=LJQTHeOF-XUQB72U)\
-[GPT-4 Turbo | OpenAI DevDay, Opening Keynote | Sam Altman | Video](https://www.youtube.com/live/U9mJuUkhUzk?si=f4qPQh0_buASTp1b)
-
-[Anthropic Quickstarts | Code](https://github.com/anthropics/anthropic-quickstarts)
-
-[2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
-[AI Index Report (since 2017) | Stanford University | Reading](https://aiindex.stanford.edu/report/)
-
-[State of AI Report | October, 2024 | Nathan Benaich & Alex Chalmers | Reading](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M)\
-[The State of Generative AI in the Enterprise | 2024 | Menlo Ventures | Reading](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise)\
-[Full Stack Retrieval | Greg Kamradt | Reading](https://community.fullstackretrieval.com/)\
-[Prompt Engineering Guide | Reading](https://www.promptingguide.ai/)\
-[Prompt engineering | OpenAI | Reading](https://platform.openai.com/docs/guides/prompt-engineering)\
-[Model Spec | Open AI | Reading](https://openai.com/index/sharing-the-latest-model-spec/), [New](https://model-spec.openai.com/2025-02-12.html)\
-[Anthropic's Prompt Engineering Interactive Tutorial | Reading](https://github.com/anthropics/prompt-eng-interactive-tutorial)\
-[LLM Inference Handbook | Reading](https://bentoml.com/llm/)
-
-[The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT | Visualization](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)\
-[Opening up ChatGPT: tracking openness of instruction-tuned LLMs](https://opening-up-chatgpt.github.io/)\
-[Generative AI exists because of the transformer | Visualization](https://ig.ft.com/generative-ai/)\
-[Can an AI make a data-driven, visual story? | Visualization](https://pudding.cool/2024/07/ai/)
-
-[AI Dev 25: Code, learn, connect | Andrew Ng Conference](https://www.youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT)\
+### Video
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)\
+-- [State of GPT](https://youtu.be/bZQun8Y4L2A), [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=Q30PHie5Ls_aqEFY), [How I use LLMs](https://youtu.be/EWvNQjAaOHw?si=HI1Z0GO4CDgcBVj5)\
+Andrew Ng: [Opportunities in AI - 2023](https://youtu.be/5p248yoa3oE?si=LJQTHeOF-XUQB72U), [AI Dev 25: Code, learn, connect](https://www.youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT)\
+Sequoia Capital: [AI Ascent 2024](https://youtube.com/playlist?list=PLOhHNjZItNnOoPxOF3dmq30UxYqFuxXKn&si=peCIxzdQrATIPsg7), [AI Ascent 2025](https://youtube.com/playlist?list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08&si=9q9X2HHNk8FB38Op)\
+[Greg Brockman | The Inside Story of ChatGPT’s Astonishing Potential](https://youtu.be/C_78DM8fG6E)\
+[Sam Altman | GPT-4 Turbo | OpenAI DevDay, Opening Keynote](https://www.youtube.com/live/U9mJuUkhUzk?si=f4qPQh0_buASTp1b)\
 [Gemma Developer Day Paris | Gemma 3 | Google for Developers](https://www.youtube.com/playlist?list=PLOU2XLYxmsILOkAPDwRqvbiReWbIcLC4k)\
-[Neural networks | 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+[3Blue1Brown | Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-### Competitions
+### Reading
+[Everypixel Journal | 2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
+[Stanford University | AI Index Report (since 2017)](https://aiindex.stanford.edu/report/)\
+[Nathan Benaich & Alex Chalmers | State of AI Report | October, 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M)\
+[Menlo Ventures | The State of Generative AI in the Enterprise | 2024](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise)\
+[Greg Kamradt | Full Stack Retrieval](https://community.fullstackretrieval.com/)\
+[Prompt Engineering Guide](https://www.promptingguide.ai/)\
+OpenAI: [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering), [Model Spec | Old](https://openai.com/index/sharing-the-latest-model-spec/), [Model Spec](https://model-spec.openai.com/2025-02-12.html)\
+Anthropic: [Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial), [Anthropic Quickstarts | Code](https://github.com/anthropics/anthropic-quickstarts)\
+BentoML: [LLM Inference Handbook](https://bentoml.com/llm/)
+
+### Visualization
+[The Rise and Rise of A.I. LLMs & their associated bots like ChatGPT](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt)\
+[Opening up ChatGPT: tracking openness of instruction-tuned LLMs](https://opening-up-chatgpt.github.io/)\
+[Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)\
+[Can an AI make a data-driven, visual story?](https://pudding.cool/2024/07/ai/)
+
+### Competition
+[Red‑Teaming Challenge - OpenAI gpt-oss-20b](https://www.kaggle.com/competitions/openai-gpt-oss-20b-red-teaming) - find any previously undetected vulnerabilities and harmful behaviors — from lying and deceptive alignment to reward‑hacking exploits (Deadline: Aug, 2025)\
 [AI Mathematical Olympiad - Progress Prize 2](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2) - solve national-level math challenges using artificial intelligence models (Deadline: Mar, 2025)\
 [Google - Unlock Global Communication with Gemma](https://www.kaggle.com/competitions/gemma-language-tuning) - create Gemma model variants for a specific language or unique cultural aspect (Deadline: Jan, 2024)\
 [Google - Gemini Long Context](https://www.kaggle.com/competitions/gemini-long-context) - demonstrate interesting use cases for Gemini's long context window (Deadline: Dec, 2024)\
@@ -73,9 +72,6 @@ Jürgen Schmidhuber's Post: [The NobelPrizeinPhysics2024 for Hopfield & Hinton r
 Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280), [phi-4](https://huggingface.co/microsoft/phi-4)|[phi-4-multimodal](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family), [Phi-4-reasoning](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models), [Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village),<br>[Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
 [Inflection AI](https://inflection.ai/)||[Inflection-2](https://inflection.ai/inflection-2)|[Inflection-2.5](https://inflection.ai/inflection-2-5)|
-Stanford||[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)|
-[Berkeley-BAIR](https://bair.berkeley.edu/)||[Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)|
-[Vicuna Team](https://lmsys.org/about/)||[Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)|
 [TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct), [Falcon 3](https://huggingface.co/blog/falcon3)|[Falcon-Edge](https://huggingface.co/blog/tiiuae/falcon-edge), [Falcon-H1](https://huggingface.co/blog/tiiuae/falcon-h1),<br>[Falcon-Arabic](https://huggingface.co/blog/tiiuae/falcon-arabic)|
 [Cohere](https://cohere.com/)||[Aya](https://cohere.com/blog/aya-multilingual)|[Command R+](https://cohere.com/blog/command-r-plus-microsoft-azure), [Rerank 3](https://txt.cohere.com/rerank-3/),<br>[Aya Expanse](https://cohere.com/blog/aya-expanse-connecting-our-world)|[Aya Vision](https://cohere.com/blog/aya-vision), [Command A](https://cohere.com/blog/command-a)|
 [xAI](https://x.ai/blog)|||[Grok-1](https://x.ai/blog/grok-os), [Grok-1.5](https://x.ai/blog/grok-1.5), [Grok-2](https://x.ai/blog/grok-2)|[Grok-3](https://x.ai/news/grok-3), [Grok-4](https://x.ai/news/grok-4)|
@@ -102,24 +98,6 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |[phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|Microsoft|2023-12-12||
 |[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)|Mistral|2023-09-27|Apache 2.0|
 
-### Chats & Assistants
-|Chat|Company|Notes|
-:-|:-:|:-|
-|[Andrew Ng](https://www.deeplearning.ai/avatar/)|DeeplearningAI|Chat with Andrew Ng|
-|[Playground](https://playground.allenai.org/)|THe Allen Institute for AI, AI2||
-|[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br>Stable Video, Stable Image Services and Stable LM 2 12B|
-|[Moshi](https://www.moshi.chat/)|Kyutai|engaging conversations limited to five minutes, thinks and speaks at the same time|
-|[MetaAI](https://www.meta.ai)|MetaAI||
-|[character.ai](https://character.ai/)|Character.AI|talk with fictional AI characters|
-|[POE](https://poe.com/)|Quora|talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others|
-|[Hume](https://demo.hume.ai/)|Hume|empathic AI voice chat|
-|[Pi](https://pi.ai/)|Inflection AI||
-|[Gemini](https://gemini.google.com/app)|Google||
-|[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai)|Nvidia|runs locally on your PC|
-|[Le Chat](https://mistral.ai/news/le-chat-mistral/)|Mistral AI||
-|[Copilot](https://copilot.microsoft.com/)|Microsoft||
-|[ChatGPT](https://chat.openai.com/)|OpenAI||
-
 - [Cogito v1 Preview](https://www.deepcogito.com/research/cogito-v1-preview), [Cogito v2 Preview](https://www.deepcogito.com/research/cogito-v2-preview) - from inference-time search to self-improvement (4 hybrid reasoning models)
 - [GLM-4.5](https://z.ai/blog/glm-4.5) - Reasoning, Coding, and Agentic Abililties
 - [Kimi k1.5](https://github.com/MoonshotAI/Kimi-k1.5) - Scaling Reinforcement Learning with LLMs, [Kimi K2](https://moonshotai.github.io/Kimi-K2/) - Open Agentic Intelligence
@@ -144,11 +122,9 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [InternLM 2.5](https://github.com/InternLM/InternLM) - outstanding reasoning capability, 1M context window, stronger tool use
 - [FILM](https://github.com/microsoft/FILM) - repo can help you to reproduce the results of FILM-7B, a 32K-context LLM that overcomes the lost-in-the-middle problem. FILM-7B is trained from Mistral-7B-Instruct-v0.2 by applying Information-Intensie (In2) Training, by Microsoft
 - [gpt2-chatbots (aka GPT-4o)](https://rentry.org/GPT2)
-- [SciSummary](https://scisummary.com/) - AI reference manager and research paper summarizer.  Allows for Chat, multimodal summaries of papers (scanning figures, outputting audio) and an AI powered research paper database search
 - [Snowflake Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) - an enterprise-focused LLM designed to provide cost-effective training and openness
 - [Reka Core](https://www.reka.ai/news/reka-core-our-frontier-class-multimodal-language-model) - Multimodal LLM
 - [ChatFlow](https://chatflow.no/) - a no-code platform that lets you set up an OpenAI-powered chatbot for your website
-- [Perplexity](https://www.perplexity.ai/) - the AI-chatbot-powered search engine
 - [Ferret](https://github.com/apple/ml-ferret) - An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response, by Apple
 - [NotebookLM](https://notebooklm.google/) - a powerful new interface that lets you shift effortlessly from reading to asking questions to writing, with an AI thought partner helping you at every turn
 - [LLM360](https://www.llm360.ai/) - enables community-owned AGI through open-source large model research and development (K2-65B, CrystalCoder-7B, Amber-7B)
@@ -156,6 +132,9 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [UniIR](https://tiger-ai-lab.github.io/UniIR/) - Universal Multimodal Information Retrievers, framework to learn a single retriever to accomplish (possibly) any retrieval task
 - [Tulu-2-DPO model](https://www.interconnects.ai/p/rlhf-progress-scaling-dpo-to-70b) - RLHF method DPO scales to 70B parameters, clearly compare PEFT fine-tuning to full-parameter fine-tuning
 - [Phind](https://www.phind.com/blog/phind-model-beats-gpt4-fast), [Phind-70B](https://www.phind.com/blog/introducing-phind-70b) - model that matches and exceeds GPT-4's coding abilities while running 5x faster
+- [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT, by [Vicuna Team](https://lmsys.org/about/)
+- [Alpaca 7B](https://crfm.stanford.edu/2023/03/13/alpaca.html) - a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations
+- [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) -  a chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web, by [Berkeley-BAIR](https://bair.berkeley.edu/)
 - [FacTool](https://github.com/GAIR-NLP/factool) - a tool augmented framework for detecting factual errors of texts generated by LLMs. Factool now supports 4 tasks: knowledge-based QA, code generation, mathematical reasoning, scientific literature review
 - [Nougat](https://facebookresearch.github.io/nougat/) - Neural Optical Understanding for Academic Documents, a Visual Transformer model that performs an Optical Character Recognition (OCR) task for processing scientific documents into a markup language, and demonstrate the effectiveness of our model on a new dataset of scientific documents, by MetaAI
 - [TextFX](https://textfx.withgoogle.com/) - AI-powered tools for rappers, writers and wordsmiths
@@ -171,20 +150,51 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [OpenLLaMA](https://github.com/openlm-research/open_llama) - open source reproduction of MetaAI’s LLaMA
 - [BuboGPT](https://bubo-gpt.github.io/) - an advanced LLM that incorporates multi-modal inputs including text, image and audio, with a unique ability to ground its responses to visual objects
 - [LAION](https://laion.ai/) - Large-scale Artificial Intelligence Open Network
-- [Dalai](https://cocktailpeanut.github.io/dalai/#/), [Code](https://github.com/cocktailpeanut/dalai) - run LLaMA and Alpaca on your computer
-- [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models all running locally on your CPU
 - [GPT4All](https://gpt4all.io/index.html), [Code](https://github.com/nomic-ai/gpt4all) - an open-source assistant-style LLM that run locally on your CPU
 - [SdkVercelAI](https://play.vercel.ai/) - you can input a prompt, pick different LLMS, and compare two side by side
-- [ChatwithData.ai](https://chatwithdata.ai/) - AI tool that lets you extract valuable insights and information from data files effortlessly
 - [Open Assistant](https://open-assistant.io/) - a completely open-source ChatGPT alternative
-- [HuggingChat](https://huggingface.co/chat/) - first open-source alternative to ChatGPT Powered by Open Assistant's latest model
-- [ChatPDF](https://www.chatpdf.com/) - chat with any PDF
-- [PdfGPT](https://pdfgpt.io/) - a tool where you can upload pdf and get summaries, answers to your questions by OpenAI
 - [Baize](https://github.com/project-baize/baize-chatbot) - an open-source chat model trained with LoRA. It uses 100k dialogs generated by letting ChatGPT chat with itself
 - [Chameleon](https://chameleon-llm.github.io/) - a compositional reasoning framework designed to enhance LLMs and overcome their inherent limitations, such as outdated information and lack of precise reasoning
 - [Bloom](https://huggingface.co/bigscience/bloom) - an autoregressive LLM, trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources
 - [Pythia](https://github.com/EleutherAI/pythia) - the hub for [EleutherAI's](https://www.eleuther.ai/) work on interpretability and learning dynamics
-- [Dmwithme](https://dmwithme.com) - Virtual companion with realistic emotions that roleplays as ai friend.
+
+### Chats & Assistants
+|Chat|Company|Notes|
+:-|:-:|:-|
+|[Andrew Ng](https://www.deeplearning.ai/avatar/)|DeeplearningAI|Chat with Andrew Ng|
+|[Playground](https://playground.allenai.org/)|THe Allen Institute for AI, AI2||
+|[Stable Assistant](https://stability.ai/stable-assistant)|Stability AI|latest text and image generation technology featuring Stable Diffusion 3,<br>Stable Video, Stable Image Services and Stable LM 2 12B|
+|[Moshi](https://www.moshi.chat/)|Kyutai|engaging conversations limited to 5 minutes, thinks and speaks at the same time|
+|[MetaAI](https://www.meta.ai)|MetaAI||
+|[character.ai](https://character.ai/)|Character.AI|talk with fictional AI characters|
+|[POE](https://poe.com/)|Quora|talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others|
+|[Hume](https://demo.hume.ai/)|Hume|empathic AI voice chat|
+|[Pi](https://pi.ai/)|Inflection AI||
+|[Gemini](https://gemini.google.com/app)|Google||
+|[ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai)|Nvidia|runs locally on your PC|
+|[Le Chat](https://mistral.ai/news/le-chat-mistral/)|Mistral AI||
+|[Copilot](https://copilot.microsoft.com/)|Microsoft||
+|[Perplexity](https://www.perplexity.ai/)|PerplexityAI|
+|[ChatGPT](https://chat.openai.com/)|OpenAI||
+
+- [AI Chat](https://aichat.fm/) - get ChatGPT, Gemini, Claude, Grok & Husky AI - without jumping between apps
+- [SciSummary](https://scisummary.com/) - use AI to summarize scientific articles and research papers
+- [PdfGPT](https://pdfgpt.io/) - summarize any PDF; get instant, accurate answers from long research papers, legal documents, and manuals
+- [ChatPDF](https://www.chatpdf.com/) - chat with any PDF
+- [Dmwithme](https://dmwithme.com) - virtual companion with realistic emotions that roleplays as ai friend
+
+### Offline-Mode
+- [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) - an experimental app that puts the power of cutting-edge Generative AI models directly into your hands, running entirely on your Android (available now) and iOS (coming soon) devices
+- [msty](https://msty.app/) - the easiest way to use local and online AI models
+- [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
+- [ollama](https://ollama.com/) - get up and running with Llama 3, Mistral, Gemma, and other LLMs
+- [Dalai](https://cocktailpeanut.github.io/dalai) - run LLaMA and Alpaca on your computer
+- [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models all running locally on your CPU
+- [OpenLLM](https://github.com/bentoml/OpenLLM) - an open-source platform designed to facilitate the deployment and operation of LLMs in real-world applications
+- [LM Studio](https://lmstudio.ai/) - an easy way to run open-source LLMs locally
+- [Jan](https://jan.ai/) - open-source ChatGPT alternative that runs 100% offline on your computer
+- [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 
 ### Large Visual Language Models (LVLMs)
 - [QVQ-Max](https://qwenlm.github.io/blog/qvq-max-preview) - visual reasoning model that can not only “understand” the content in images and videos but also analyze and reason with this information to provide solutions
@@ -205,17 +215,6 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) - Mixture-of-Experts for Large Vision-Language Models
 - [LLaVA](https://llava-vl.github.io/) - a novel end-to-end trained large multimodal model that combines a vision encoder and Vicuna for general-purpose visual and language understanding
 - [TaskMatrix](https://github.com/microsoft/visual-chatgpt) - connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting
-
-### Offline-Mode
-- [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) - an experimental app that puts the power of cutting-edge Generative AI models directly into your hands, running entirely on your Android (available now) and iOS (coming soon) devices
-- [msty](https://msty.app/) - the easiest way to use local and online AI models
-- [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
-- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
-- [ollama](https://ollama.com/) - get up and running with Llama 3, Mistral, Gemma, and other LLMs
-- [OpenLLM](https://github.com/bentoml/OpenLLM) - an open-source platform designed to facilitate the deployment and operation of LLMs in real-world applications
-- [LM Studio](https://lmstudio.ai/) - an easy way to run open-source LLMs locally
-- [Jan](https://jan.ai/) - open-source ChatGPT alternative that runs 100% offline on your computer
-- [Pinokio](https://pinokio.computer/) - a browser that lets you install, run, and programmatically control ANY application, automatically
 
 ### Evaluation
 - [Humanity's Last Exam](https://agi.safe.ai/) - a multi-modal benchmark at the frontier of human knowledge, designed to be the final closed-ended academic benchmark of its kind with broad subject coverage
