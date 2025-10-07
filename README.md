@@ -321,6 +321,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - highly customizable and extendable framework, which is based on LLMs and serves as an ideal scenario for studying collective intelligence
 - [JARVIS-1](https://craftjarvis-jarvis1.github.io/) - Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models, generate sophisticated plans, and perform embodied control, within the open-world Minecraft universe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
+- [Kiln AI](https://kiln.tech) - Kiln is a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding.
 
 ### AI Code Editors
 - [Cursor](https://cursor.com/home) - 
