@@ -30,13 +30,14 @@ Sequoia Capital: [AI Ascent 2024](https://youtube.com/playlist?list=PLOhHNjZItNn
 [3Blue1Brown | Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### Reading
+[AI 2027 | Forecasting the future of AI](https://ai-2027.com/)\
 [Everypixel Journal | 2023: The Year of AI | Reading](https://journal.everypixel.com/2023-the-year-of-ai)\
 [Stanford University | AI Index Report (since 2017)](https://aiindex.stanford.edu/report/)\
 [Nathan Benaich & Alex Chalmers | State of AI Report | October, 2024](https://docs.google.com/presentation/d/1GmZmoWOa2O92BPrncRcTKa15xvQGhq7g4I4hJSNlC0M)\
 [Menlo Ventures | The State of Generative AI in the Enterprise | 2024](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise)\
 [Greg Kamradt | Full Stack Retrieval](https://community.fullstackretrieval.com/)\
 [Prompt Engineering Guide](https://www.promptingguide.ai/)\
-OpenAI: [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering), [Model Spec | Old](https://openai.com/index/sharing-the-latest-model-spec/), [Model Spec](https://model-spec.openai.com/2025-02-12.html)\
+OpenAI: [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering), [Cookbook](https://cookbook.openai.com/), [Model Spec](https://openai.com/index/sharing-the-latest-model-spec/), [Model Spec | Old](https://cdn.openai.com/spec/model-spec-2024-05-08.html) \ 
 Anthropic: [Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial), [Anthropic Quickstarts | Code](https://github.com/anthropics/anthropic-quickstarts)\
 BentoML: [LLM Inference Handbook](https://bentoml.com/llm/)
 
@@ -68,8 +69,8 @@ BentoML: [LLM Inference Handbook](https://bentoml.com/llm/)
 [OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/), [o1](https://openai.com/o1/)|[o3-mini](https://openai.com/index/openai-o3-mini), [Deep Research](https://openai.com/index/introducing-deep-research),<br>[GPT-4.5](https://openai.com/index/introducing-gpt-4-5), [GPT-4.1](https://openai.com/index/gpt-4-1),<br>[o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini), [gpt-oss](https://openai.com/index/introducing-gpt-oss/), [GPT-5](https://openai.com/index/introducing-gpt-5/)|
 [MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[Llama 3](https://ai.meta.com/blog/meta-llama-3/), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/), [Llama 3.3 70B](https://www.llama.com/)|[Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence)|
 [Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/),<br>[Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Pixtral Large](https://mistral.ai/news/pixtral-large/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|[Mistral Small 3](https://mistral.ai/news/mistral-small-3/),<br>[Mistral Small 3.1](https://mistral.ai/news/mistral-small-3-1),<br>[Mistral Medium 3](https://mistral.ai/news/mistral-medium-3), [Magistral](https://mistral.ai/news/magistral)|
-[Anthropic](https://www.anthropic.com/)|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|[Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet),<br>[Claude for Education](https://www.anthropic.com/news/introducing-claude-for-education),<br>[Claude 4](https://www.anthropic.com/news/claude-4), [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)|
-Microsoft||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280), [phi-4](https://huggingface.co/microsoft/phi-4)|[phi-4-multimodal](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family), [Phi-4-reasoning](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai)|
+[Anthropic](https://www.anthropic.com/)|RL-CAI|[Claude](https://www.anthropic.com/product), [Claude2](https://www.anthropic.com/index/claude-2), [Claude2.1](https://www.anthropic.com/index/claude-2-1)|[Claude 3](https://www.anthropic.com/news/claude-3-family),<br>[Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)|[Claude 3.7 Sonnet](https://www.anthropic.com/news/claude-3-7-sonnet),<br>[Claude for Education](https://www.anthropic.com/news/introducing-claude-for-education),<br>[Claude 4](https://www.anthropic.com/news/claude-4), [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5), [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)|
+[Microsoft](https://microsoft.ai/)||[phi-1](https://huggingface.co/microsoft/phi-1), [phi-1.5](https://huggingface.co/microsoft/phi-1_5), [phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|[phi-3](https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/), [phi-3.5](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280), [phi-4](https://huggingface.co/microsoft/phi-4)|[phi-4-multimodal](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family), [Phi-4-reasoning](https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai)|
 [Stability AI](https://stability.ai/)||[Stable Vicuna](https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot), [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models),<br>[Stable LM 3B](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices), [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models), [Stable Chat](https://stability.ai/blog/stable-chat-research-defcon-ai-village),<br>[Stable LM Zephyr 3B](https://stability.ai/news/stablelm-zephyr-3b-stability-llm)|[Stable LM 2 1.6B](https://stability.ai/news/introducing-stable-lm-2), [Stable LM 2 12B](https://stability.ai/news/introducing-stable-lm-2-12b)|
 [Inflection AI](https://inflection.ai/)||[Inflection-2](https://inflection.ai/inflection-2)|[Inflection-2.5](https://inflection.ai/inflection-2-5)|
 [TII](https://www.tii.ae/)||[Falcon](https://huggingface.co/blog/falcon)|[Falcon Mamba 7B](https://huggingface.co/tiiuae/falcon-mamba-7b-instruct),<br>[Falcon 3](https://huggingface.co/blog/falcon3)|[Falcon-Edge](https://huggingface.co/blog/tiiuae/falcon-edge), [Falcon-H1](https://huggingface.co/blog/tiiuae/falcon-h1),<br>[Falcon-Arabic](https://huggingface.co/blog/tiiuae/falcon-arabic)|
@@ -134,7 +135,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Phind](https://www.phind.com/blog/phind-model-beats-gpt4-fast), [Phind-70B](https://www.phind.com/blog/introducing-phind-70b) - model that matches and exceeds GPT-4's coding abilities while running 5x faster
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT, by [Vicuna Team](https://lmsys.org/about/)
 - [Alpaca 7B](https://crfm.stanford.edu/2023/03/13/alpaca.html) - a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations
-- [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) -  a chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web, by [Berkeley-BAIR](https://bair.berkeley.edu/)
+- [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) - a chatbot trained by fine-tuning Meta’s LLaMA on dialogue data gathered from the web, by [Berkeley-BAIR](https://bair.berkeley.edu/)
 - [FacTool](https://github.com/GAIR-NLP/factool) - a tool augmented framework for detecting factual errors of texts generated by LLMs. Factool now supports 4 tasks: knowledge-based QA, code generation, mathematical reasoning, scientific literature review
 - [Nougat](https://facebookresearch.github.io/nougat/) - Neural Optical Understanding for Academic Documents, a Visual Transformer model that performs an Optical Character Recognition (OCR) task for processing scientific documents into a markup language, and demonstrate the effectiveness of our model on a new dataset of scientific documents, by MetaAI
 - [TextFX](https://textfx.withgoogle.com/) - AI-powered tools for rappers, writers and wordsmiths
@@ -184,6 +185,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Dmwithme](https://dmwithme.com) - virtual companion with realistic emotions that roleplays as ai friend
 
 ### Offline-Mode
+- [сonductor](https://conductor.build/) - a Mac app that lets you run a bunch of Claude Codes at once
 - [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery) - an experimental app that puts the power of cutting-edge Generative AI models directly into your hands, running entirely on your Android (available now) and iOS (coming soon) devices
 - [msty](https://msty.app/) - the easiest way to use local and online AI models
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
@@ -235,6 +237,8 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
 
 ### Leaderboards
+- [Text-to-Image Arena](https://lmarena.ai/leaderboard/text-to-image) - compare LLMs based on their ability to generate images that match text descriptions
+- [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) - ranks and evaluates speech recognition models on the Hugging Face Hub
 - [Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) - compares 100+ text and image embedding models across 1000+ languages
 - [Game Arena](https://www.kaggle.com/game-arena) - a new benchmarking platform where AI models and agents compete head-to-head in a variety of strategic games to help chart new frontiers for trustworthy AI evaluation, by Kaggle
 - [OpenRouter](https://openrouter.ai/rankings) - a unified interface for LLMs
@@ -244,7 +248,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [LLM Hallucination Index](https://www.rungalileo.io/hallucinationindex) - A Ranking & Evaluation Framework For LLM Hallucinations
 - [Artificial Analysis](https://artificialanalysis.ai/text-to-image) - Text to Image AI Model & Provider Leaderboard across quality, generation time, and price
 - [SEAL Leaderboards](https://scale.com/leaderboard) - Safety, Evaluations and Alignment Lab: (i) generate code, (ii) work on Spanish-language inputs and outputs, (iii) follow detailed instructions, and (iv) solve fifth-grade math problems, by Scale AI
-- [HELM](https://crfm.stanford.edu/helm) - Holistic Evaluation of Language Models projec - leaderboards with many scenarios, metrics, and models with support for multimodality and model-graded evaluation, by Stanford
+- [HELM](https://crfm.stanford.edu/helm) - Holistic Evaluation of Language Models Project - leaderboards with many scenarios, metrics, and models with support for multimodality and model-graded evaluation, by Stanford
 - [vals.ai](https://www.vals.ai/) - an independent model testing service, developed benchmarks that rank LLM performance of tasks associated with income taxes, corporate finance, and contract law; it also maintains a pre-existing legal benchmark, by Vals AI
 - [TrustLLM](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html) - a comprehensive study of Trustworthiness in LLMs
 - [LMSYS Chatbot Arena](https://chat.lmsys.org/) - an open platform to evaluate LLMs by human preference in the real-world
@@ -253,11 +257,12 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Hallucinations Leaderboard](https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard) - evaluates the propensity for hallucination in LLMs across a diverse array of tasks, including Closed-book Open-domain QA, Summarization, Reading Comprehension, Instruction Following, Fact-Checking, and Hallucination Detection
 - [NPHardEval leaderboard](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) - a benchmark for assessing the reasoning abilities of LLMs through the lens of computational complexity classes
 - [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) - evaluation for LLM safety and help researchers and practitioners better understand the capabilities, limitations, and potential risks of LLMs
-- [The Open Medical-LLM Leaderboard](https://huggingface.co/blog/leaderboard-medicalllm) - aims to track, rank and evaluate the performance of LLMs on medical question answering tasks
+- [Open Medical-LLM Leaderboard](https://huggingface.co/blog/leaderboard-medicalllm) - aims to track, rank and evaluate the performance of LLMs on medical question answering tasks
 - [TheFastest.AI](https://thefastest.ai/) - site that provides reliable measurements for the performance of popular models
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
 
 ## Datasets
+- [Satellite Embedding V1](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL) - a global, analysis-ready collection of learned geospatial embeddings
 - [Instruction tuning datasets](https://github.com/zhilizju/Awesome-instruction-tuning) - open-source instruction tuning datasets, models, papers, repositories
 - [InfiMM-WebMath-40B Dataset](https://huggingface.co/datasets/Infi-MM/InfiMM-WebMath-40B) - large-scale, open-source multimodal dataset specifically designed for mathematical reasoning tasks
 - [MMMLU](https://huggingface.co/datasets/openai/MMMLU) - Multilingual Massive Multitask Language Understanding
@@ -265,15 +270,15 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 
 ## Libraries
 - [aisuite](https://github.com/andrewyng/aisuite) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/aisuite?style=plastic) - simple, unified interface to multiple Generative AI providers, by Andrew Ng Team
-- [LangChain](https://github.com/hwchase17/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=plastic&logo=langchain), [Tutorials](https://python.langchain.com/docs/tutorials/) - a framework for developing applications powered by language models
+- [LangChain](https://github.com/hwchase17/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=plastic&logo=langchain), [Tutorials](https://python.langchain.com/docs/tutorials/) - a framework for developing applications powered by LLMs
 - [Open Agent Platform](https://github.com/langchain-ai/open-agent-platform/) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/open-agent-platform?style=plastic) - a no-code agent building platform, by LangChain
 - [Gemini Fullstack LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=plastic) - application serves as an example of building research-augmented conversational AI using LangGraph and Google's Gemini models
-- [LlamaIndex](https://github.com/jerryjliu/llama_index), [docs](https://gpt-index.readthedocs.io/en/latest/) - a “data framework” to help you build LLM apps
+- [LlamaIndex](https://github.com/jerryjliu/llama_index) - a “data framework” to help you build LLM apps
 - [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - an open-source toolkit for pre-training, fine-tuning and deployment of LLMs and mutlimodal LLMs
 - [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models
 - [streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
-- [llamafile](https://github.com/Mozilla-Ocho/llamafile) - run LLMs with a single file
-- [outlines](https://github.com/outlines-dev/outlines), [docs](https://outlines-dev.github.io/outlines/) - a library to write reliable programs for interactions with generative models: language models, diffusers, multimodal models, classifiers, etc
+- [llamafile](https://github.com/Mozilla-Ocho/llamafile) - distribute and run LLMs with a single file
+- [outlines](https://github.com/outlines-dev/outlines) - a library to write reliable programs for interactions with generative models: language models, diffusers, multimodal models, classifiers, etc, by dottxt.ai
 - [OneLLM](https://onellm.csuhan.com/) - One Framework to Align All Modalities with Language
 - [guidance](https://github.com/guidance-ai/guidance) - interleave generation, prompting, and logical control into a single continuous flow matching how the language model actually processes the text
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - the simplest, fastest repository for training/finetuning medium-sized GPTs
@@ -302,20 +307,22 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [fairchem](https://github.com/facebookresearch/fairchem) - the FAIR Chemistry's centralized repository of all its data, models, demos, and application efforts for materials science and quantum chemistry, by MetaAI
 - [LangExtract](https://github.com/google/langextract) - a python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization, by Google
 - [Tinker](https://thinkingmachines.ai/blog/announcing-tinker/) - a flexible API for fine-tuning language models, by Thinking Machines
-- [Petri](https://alignment.anthropic.com/2025/petri/) -  an open-source auditing tool to accelerate AI safety research, by Anthropics
+- [Petri](https://alignment.anthropic.com/2025/petri/) - an open-source auditing tool to accelerate AI safety research, by Anthropics
 
 ### Agents
+- [Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) - an open protocol developed with leading payments and technology companies to securely initiate and transact agent-led payments across platforms, by Google
+- [Agent2Agent (A2A)](https://github.com/google/A2A) - an open protocol enabling communication and interoperability between opaque agentic applications, by Google
+- [Agentic Document Extraction](https://landing.ai/agentic-document-extraction) - Intelligent Document Understanding with Visual Context, by LandingAI
 - [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder, powered by OpenAI's Agents SDK
 - [UI-TARS-1.5](https://seed-tars.com/1.5/) - an open-source multimodal agent built upon a powerful vision-language model. It is capable of effectively performing diverse tasks within virtual worlds
-- [A2A](https://github.com/google/A2A) - an open protocol enabling communication and interoperability between opaque agentic applications, by Google
 - [Browser-Use](https://github.com/browser-use/browser-use) - enable AI to control your browser
 - [smolagents](https://huggingface.co/blog/smolagents) - a very simple library that unlocks agentic capabilities for language models
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - [Multi-Agent Orchestrator ](https://github.com/awslabs/multi-agent-orchestrator) - framework for managing multiple AI agents and handling complex conversations, by AWS
 - [swarm](https://github.com/openai/swarm) - educational framework exploring ergonomic, lightweight multi-agent orchestration, by OpenAI
 - [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
-- [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - a real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities
-- [bee-agent-framework](https://github.com/i-am-bee/bee-agent-framework) - open-source framework for building, deploying, and serving powerful agentic workflows at scale
+- [TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - a comprehensive open-source ecosystem for creating, customizing, and deploying real-time conversational AI agents with multimodal capabilities including voice, vision, and avatar interactions
+- [BeeAI Framework](https://github.com/i-am-bee/bee-agent-framework) - build production-ready multi-agent systems in Python or TypeScript
 - [agent.exe](https://github.com/corbt/agent.exe) - the easiest way to let Claude's new computer use capabilities take over your computer
 - [Pearl](https://github.com/facebookresearch/pearl) - a production-ready RL AI Agent Library, by MetaAI
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - an open platform for using and hosting language agents in the wild of everyday life
@@ -323,7 +330,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - highly customizable and extendable framework, which is based on LLMs and serves as an ideal scenario for studying collective intelligence
 - [JARVIS-1](https://craftjarvis-jarvis1.github.io/) - Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models, generate sophisticated plans, and perform embodied control, within the open-world Minecraft universe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
-- [Kiln AI](https://kiln.tech) - Kiln is a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding.
+- [Kiln AI](https://kiln.tech) - a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding.
 
 ### AI Code Editors
 - [Cursor](https://cursor.com/home) - 
@@ -387,6 +394,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/), [FLUX.1 Tools](https://blackforestlabs.ai/flux-1-tools/)<br>[ FLUX Pro Finetuning API](https://blackforestlabs.ai/announcing-the-flux-pro-finetuning-api), [FLUX.1 Kontext](https://bfl.ai/announcements/flux-1-kontext), [FLUX.1 Krea [dev]](https://bfl.ai/announcements/flux-1-krea-dev)|
 |[Playground](https://playground.com/)|[Playground v2](https://playground.com/blog/playground-v2), [Playground v3](https://playground.com/blog/introducing-playground-v3)|
 
+- [MAI-Image-1](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/) - first image generation model developed entirely in-house, by Microsoft
 - [UniDisc](https://unidisc.github.io/) - model, which is capable of jointly processing text and images for a variety of downstream tasks
 - [Reve Image 1.0](https://preview.reve.art/) - a new model trained from the ground up to excel at prompt adherence, aesthetics, and typography
 - [Frames](https://runwayml.com/research/introducing-frames) - an image generation model offering unprecedented stylistic control, by Runway
@@ -468,7 +476,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [SORA 2](https://openai.com/index/sora-2/), [SORA](https://openai.com/index/video-generation-models-as-world-simulators/) - video generation model is more physically accurate, realistic, and more controllable than prior systems. It also features synchronized dialogue and sound effects, by OpenAI
 - [Matrix-Game 2.0](https://matrix-game-v2.github.io/) - an interactive world model generates long videos on-the-fly via few-step auto-regressive diffusion (high-quality minute-level videos across diverse scenes at an ultra-fast speed of 25 FPS)
 - [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) - the model weights and inference code for our infinite-length film generative models
-- [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Wan2.2](https://github.com/Wan-Video/Wan2.2) -  Effective MoE Architecture; Cinematic-level Aesthetics; Complex Motion Generation; Efficient High-Definition Hybrid TI2V
+- [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Wan2.2](https://github.com/Wan-Video/Wan2.2) - Effective MoE Architecture; Cinematic-level Aesthetics; Complex Motion Generation; Efficient High-Definition Hybrid TI2V
 - [Veo](https://deepmind.google/technologies/veo/veo-1/) - generates high-quality 1080p resolution videos in a wide range of cinematic and visual styles that can go beyond a minute; [Veo2](https://deepmind.google/technologies/veo/veo-2/) - creates videos with realistic motion and high quality output, up to 4K; [VideoFX](https://aitestkitchen.withgoogle.com/tools/video-fx) - a new experimental tool designed to help support creatives through the storytelling journey, by Google
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/) & [Research](https://research.runwayml.com/gen1), [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/) & [Research](https://research.runwayml.com/gen2), GEN-3-alpha & [Research](https://runwayml.com/blog/introducing-gen-3-alpha/), Gen-4 & [Research](https://runwayml.com/research/introducing-runway-gen-4) - a new frontier for high-fidelity, controllable video generation. It is a major improvement in fidelity, consistency, and motion over Gen-2, and a step towards building [General World Models](https://research.runwayml.com/introducing-general-world-models), by Runway
 - [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - A Systematic Framework For Large Video Generation Model
@@ -679,7 +687,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Codex](https://openai.com/index/introducing-codex) - a cloud-based software engineering agent that can work on many tasks in parallel, powered by codex-1; [codex-cli](https://github.com/openai/codex) - lightweight coding agent that runs in your terminal, by OpenAI
 - [DeepCoder](https://www.together.ai/blog/deepcoder), [GitHub](https://github.com/agentica-project/rllm) - a code reasoning model finetuned from Deepseek-R1-Distilled-Qwen-14B via distributed RL, by Agentica team and Together AI
 - [AlphaEvolve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) - a Gemini-powered an agentic system that used LLMs to generate code in an evolutionary process, by Google DeepMind
-- [SWE-1](https://windsurf.com/blog/windsurf-wave-9-swe-1) -  a family of models optimized for the entire software engineering process, not just the task of coding, by Windsurf
+- [SWE-1](https://windsurf.com/blog/windsurf-wave-9-swe-1) - a family of models optimized for the entire software engineering process, not just the task of coding, by Windsurf
 - [DeepWiki](https://deepwiki.com/) - understand unfamiliar codebases by automatically generating architecture diagrams, documentation, and source code links for public GitHub repositories, by Devin
 - [Devin](https://www.cognition-labs.com/introducing-devin), [Devin 2.0](https://cognition.ai/blog/devin-2) - a new agent-native IDE experience for working with Devin
 - [Sleek](https://sleek.design/) - tool that generate a sleek landing page with AI in minutes
@@ -706,7 +714,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [InterCode](https://intercode-benchmark.github.io/) - framework of interactive coding as a standard reinforcement learning (RL) environment, with code as actions and execution feedback as observations
 - [LeanDojo](https://leandojo.org/) - set of open-source LLM-based theorem provers without any proprietary datasets and release it under a permissive MIT license to facilitate further research
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
-- [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for code large language models (Code LLMs) and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
+- [CodeTF](https://github.com/salesforce/CodeTF) - a one-stop Python transformer-based library for Code LLMs and code intelligence, provides a seamless interface for training and inferencing on code intelligence tasks like code summarization, translation, code generation and so on. It aims to facilitate easy integration of SOTA CodeLLMs into real-world applications
 - [Let’s Verify Step by Step](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision#fn-1) - a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”), by OpenAI
 - [🦍 Gorilla: LLM Connected with Massive APIs](https://gorilla.cs.berkeley.edu/) - a finetuned LLaMA-based model that surpasses GPT-4 on writing API calls
 - [Framer](https://www.framer.com/) - a tool that constructs a completely unique website for you based on a text prompt
@@ -753,7 +761,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [ViNT: A Foundation Model for Visual Navigation](https://visualnav-transformer.github.io/) - a goal-conditioned navigation policy trained on diverse, cross-embodiment training data, and can control many different robots in zero-shot
 - [Navigating to Objects in the Real World](https://theophilegervet.github.io/projects/real-world-object-navigation/) - 
 - [RVT: Robotic View Transformer](https://robotic-view-transformer.github.io/) - a multi-view transformer for 3D manipulation that is both scalable and accurate. RVT takes camera images and task language description as inputs and predicts the gripper pose action, by NVIDIA
-- [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with Large Language Models
+- [TidyBot](https://tidybot.cs.princeton.edu/) - personalized Robot Assistance with LLMs
 - [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://sites.google.com/view/op3-soccer) - by OP3 Soccer Team, by Google DeepMind
 - [PaLM-E: An Embodied Multimodal Language Model](https://palm-e.github.io/) - embodied language models to directly incorporate real-world continuous sensor modalities into language models and thereby establish the link between words and percepts
 - [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/) - 
