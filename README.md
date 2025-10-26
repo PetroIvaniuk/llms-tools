@@ -65,7 +65,7 @@ BentoML: [LLM Inference Handbook](https://bentoml.com/llm/)
 ### Models
 ||2021-22|2023|2024|2025
 :-:|:-:|:-:|:-:|:-:
-[Google](https://blog.google/),<br>[DeepMind](https://deepmind.google/)|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/),<br>[Gemma](https://blog.google/technology/developers/gemma-open-models/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/), [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024)|[Gemini 2.0 Flash Thinking](https://deepmind.google/technologies/gemini/flash-thinking),<br>[Gemma 3](https://blog.google/technology/developers/gemma-3), [Gemini 2.5](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/),<br>[Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash),<br>[Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n), [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/), [Gemma 3 270M](https://developers.googleblog.com/en/introducing-gemma-3-270m)|
+[Google](https://blog.google/),<br>[DeepMind](https://deepmind.google/)|[LaMDA](https://blog.google/technology/ai/lamda/), [GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)<br>[PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Chinchilla](https://deepmind.google/discover/blog/an-empirical-analysis-of-compute-optimal-large-language-model-training/)|[Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/), [PaLM-2](https://ai.google/discover/palm2), [Gemini](https://deepmind.google/technologies/gemini/#introduction)|[Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/), [Gemini 1.5 Flash](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/),<br>[Gemma](https://blog.google/technology/developers/gemma-open-models/), [Gemma 2](https://blog.google/technology/developers/google-gemma-2/), [Gemini 2.0](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024)|Gemini 2.0 Flash Thinking,<br>[Gemma 3](https://blog.google/technology/developers/gemma-3), [Gemini 2.5](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/),<br>[Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash),<br>[Gemma 3n](https://developers.googleblog.com/en/introducing-gemma-3n), [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/), [Gemma 3 270M](https://developers.googleblog.com/en/introducing-gemma-3-270m)|
 [OpenAI](https://openai.com/)|[ChatGPT](https://openai.com/blog/chatgpt)|[GPT-4](https://openai.com/product/gpt-4), [GPT-4 Turbo](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)|[GPT-4o](https://openai.com/index/hello-gpt-4o/), [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/), [CriticGPT](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/),<br>[o1-preview](https://openai.com/index/introducing-openai-o1-preview/), [o1-mini](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/), [o1](https://openai.com/o1/)|[o3-mini](https://openai.com/index/openai-o3-mini), [Deep Research](https://openai.com/index/introducing-deep-research),<br>[GPT-4.5](https://openai.com/index/introducing-gpt-4-5), [GPT-4.1](https://openai.com/index/gpt-4-1),<br>[o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini), [gpt-oss](https://openai.com/index/introducing-gpt-oss/), [GPT-5](https://openai.com/index/introducing-gpt-5/)|
 [MetaAI](https://ai.meta.com/)|Galactica|[LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [LLaMA2: HF](https://huggingface.co/blog/llama2),<br>[Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)|[Llama 3](https://ai.meta.com/blog/meta-llama-3/), [Llama 3.1](https://ai.meta.com/blog/meta-llama-3-1/), [Llama 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/),<br>[quantized Llama](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/), [Llama 3.3 70B](https://www.llama.com/)|[Llama 4](https://ai.meta.com/blog/llama-4-multimodal-intelligence)|
 [Mistral AI](https://mistral.ai/)||[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/),<br>[Mixtral of experts](https://mistral.ai/news/mixtral-of-experts)|[Mistral Large](https://mistral.ai/news/mistral-large/), [Mistral Large 2](https://mistral.ai/news/mistral-large-2407/),<br>[Mistral NeMo](https://mistral.ai/news/mistral-nemo/), [Pixtral 12B](https://mistral.ai/news/pixtral-12b/),<br>[Pixtral Large](https://mistral.ai/news/pixtral-large/),<br>[Ministral 3B and Ministral 8B](https://mistral.ai/news/ministraux/)|[Mistral Small 3](https://mistral.ai/news/mistral-small-3/),<br>[Mistral Small 3.1](https://mistral.ai/news/mistral-small-3-1),<br>[Mistral Medium 3](https://mistral.ai/news/mistral-medium-3), [Magistral](https://mistral.ai/news/magistral)|
@@ -82,7 +82,7 @@ NVIDIA|||[Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemot
 [Abacus.AI](https://abacus.ai/)||[Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)|[Smaug-72B-v0.1](https://huggingface.co/abacusai/Smaug-72B-v0.1)|
 Alibaba Cloud|||[Qwen](https://qwenlm.github.io/blog/qwen/), [Qwen2](https://qwenlm.github.io/blog/qwen2/), [Qwen2.5](https://qwenlm.github.io/blog/qwen2.5-llm)|[Qwen2.5-Max](https://qwenlm.github.io/blog/qwen2.5-max/), [QwQ-32B](https://qwenlm.github.io/blog/qwq-32b),<br>[Qwen2.5 Omni](https://qwenlm.github.io/blog/qwen2.5-omni/), [Qwen3](https://qwenlm.github.io/blog/qwen3),<br>[Qwen3-Next](https://qwen.ai/blog?id=e34c4305036ce60d55a0791b170337c2b70ae51d&from=home.latest-research-list)|
 AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://aws.amazon.com/ai/generative-ai/nova/)|[Nova Act](https://labs.amazon.science/blog/nova-act), [Nova Premier](https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation)|
-[DeepSeek](https://api-docs.deepseek.com/)|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226),<br>[DeepSeek-R1-Lite-Preview](https://api-docs.deepseek.com/news/news1120)|[DeepSeek-R1](https://api-docs.deepseek.com/news/news250120), [DeepSeek-V3.1](https://api-docs.deepseek.com/news/news250821), [DeepSeek-V3.2-Exp](https://api-docs.deepseek.com/news/news250929)|
+[DeepSeek](https://api-docs.deepseek.com/)|||[DeepSeek-V2.5](https://api-docs.deepseek.com/news/news1210), [DeepSeek-V3](https://api-docs.deepseek.com/news/news1226),<br>[DeepSeek-R1-Lite-Preview](https://api-docs.deepseek.com/news/news1120)|[DeepSeek-R1](https://api-docs.deepseek.com/news/news250120), [DeepSeek-V3.1](https://api-docs.deepseek.com/news/news250821), [DeepSeek-V3.2-Exp](https://api-docs.deepseek.com/news/news250929), [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)|
 
 ### Open Source Models
 |Model|Company|Date|Notes|
@@ -99,6 +99,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |[phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)|Microsoft|2023-12-12||
 |[Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)|Mistral|2023-09-27|Apache 2.0|
 
+- [Ling-1T](https://huggingface.co/inclusionAI/Ling-1T) - the first flagship non-thinking model in the Ling 2.0 series, featuring 1 trillion total parameters with ≈ 50 billion active parameters per token
 - [Granite 4.0](https://www.ibm.com/new/announcements/ibm-granite-4-0-hyper-efficient-high-performance-hybrid-models), [Granite 3.2](https://www.ibm.com/new/announcements/ibm-granite-3-2-open-source-reasoning-and-vision), [Granite 3.0](https://www.ibm.com/new/ibm-granite-3-0-open-state-of-the-art-enterprise-models), [Granite](https://www.ibm.com/granite) - a family of open, performant, and trusted AI models, tailored for business and optimized to scale your AI applications, by IBM
 - [GLM-4.6](https://z.ai/blog/glm-4.6), [GLM-4.5](https://z.ai/blog/glm-4.5) - Advanced Agentic, Reasoning and Coding Capabilities
 - [Cogito v1 Preview](https://www.deepcogito.com/research/cogito-v1-preview), [Cogito v2 Preview](https://www.deepcogito.com/research/cogito-v2-preview) - from inference-time search to self-improvement (4 hybrid reasoning models)
@@ -273,7 +274,9 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [LangChain](https://github.com/hwchase17/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=plastic&logo=langchain), [Tutorials](https://python.langchain.com/docs/tutorials/) - a framework for developing applications powered by LLMs
 - [Open Agent Platform](https://github.com/langchain-ai/open-agent-platform/) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/open-agent-platform?style=plastic) - a no-code agent building platform, by LangChain
 - [Gemini Fullstack LangGraph](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) ![GitHub Repo stars](https://img.shields.io/github/stars/google-gemini/gemini-fullstack-langgraph-quickstart?style=plastic) - application serves as an example of building research-augmented conversational AI using LangGraph and Google's Gemini models
-- [LlamaIndex](https://github.com/jerryjliu/llama_index) - a “data framework” to help you build LLM apps
+- [LlamaIndex](https://github.com/jerryjliu/llama_index) - the leading framework for building LLM-powered agents over your data
+- [DSPy](https://dspy.ai/) - a declarative framework for building modular AI software
+- [smolagents](https://huggingface.co/blog/smolagents) - a very simple library that unlocks agentic capabilities for language models
 - [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - an open-source toolkit for pre-training, fine-tuning and deployment of LLMs and mutlimodal LLMs
 - [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models
 - [streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
@@ -316,7 +319,6 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder, powered by OpenAI's Agents SDK
 - [UI-TARS-1.5](https://seed-tars.com/1.5/) - an open-source multimodal agent built upon a powerful vision-language model. It is capable of effectively performing diverse tasks within virtual worlds
 - [Browser-Use](https://github.com/browser-use/browser-use) - enable AI to control your browser
-- [smolagents](https://huggingface.co/blog/smolagents) - a very simple library that unlocks agentic capabilities for language models
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
 - [Multi-Agent Orchestrator ](https://github.com/awslabs/multi-agent-orchestrator) - framework for managing multiple AI agents and handling complex conversations, by AWS
 - [swarm](https://github.com/openai/swarm) - educational framework exploring ergonomic, lightweight multi-agent orchestration, by OpenAI
@@ -330,7 +332,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - highly customizable and extendable framework, which is based on LLMs and serves as an ideal scenario for studying collective intelligence
 - [JARVIS-1](https://craftjarvis-jarvis1.github.io/) - Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models, generate sophisticated plans, and perform embodied control, within the open-world Minecraft universe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
-- [Kiln AI](https://kiln.tech) - a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding.
+- [Kiln AI](https://kiln.tech) - a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding
 
 ### AI Code Editors
 - [Cursor](https://cursor.com/home) - 
@@ -344,18 +346,21 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Claude Code Security Reviewer](https://github.com/anthropics/claude-code-security-review) - an AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities
 
 ## Devices
-- [Reachy Mini](https://huggingface.co/blog/reachy-mini) - open-source robot designed for human-robot interaction, creative coding, and AI experimentation, by Hugging Face
 - [Omi](https://www.omi.me/) - AI wearables that revolutionize how you capture and manage conversations
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
-- [biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
+- [Biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
+- [Mytra](https://mytra.ai/) - warehouse robotics, automating the most common industrial task – moving and storing material – with flexible, scalable, and intuitive robotics and AI
+- [Friend](https://friend.com/?page=hardware) - AI-Powered Necklace companion designed not to help you get things done but to be there for you—anytime, anywhere
+- [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard
+- [Rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
+- [01 Project](https://github.com/openinterpreter/open-interpreter) - the open-source language model computer, by Open Interpreter
 - [LPU Inference Engine](https://groq.com/) - Language Processing Units, by Groq
+
+### Robots
+- [Reachy Mini](https://huggingface.co/blog/reachy-mini) - open-source robot designed for human-robot interaction, creative coding, and AI experimentation, by Hugging Face
 - [FigureAI](https://www.figure.ai/) - AI robotics company bringing a general purpose humanoid to life
 - [SanctuaryAI](https://sanctuary.ai/) - company on a mission to create the world’s first human-like intelligence in general-purpose robots
-- [Mytra](https://mytra.ai/) - warehouse robotics
-- [friend](https://www.friend.com/product.html) - AI-Powered Necklace companion designed not to help you get things done but to be there for you—anytime, anywhere
-- [Limitless](https://www.limitless.ai/) - personalized AI powered by what you’ve seen, said, and heard
-- [rabbit r1](https://www.rabbit.tech/) - a personalized operating system through a natural language interface
-- [01 Project](https://www.openinterpreter.com/01) - the open-source language model computer, by Open Interpreter
+- [Unitree Robotics](https://www.unitree.com/) - a world-renowned civilian robotics company, which is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots
 
 ### Glasses
 - [Halo X](https://www.halo.so/) - smart glasses powered by Google Gemini and Perplexity AI that listen to, record, and transcribe every conversation around you
@@ -374,14 +379,14 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [HuggingChat](https://huggingface.co/chat/) - making the community's best AI chat models available to everyone
 
 ## Tools
-|Text-to-Image|Text-to-Music|Text-to-Video|Games|Brand|Prompt Generator|
-:-:|:-:|:-:|:-:|:-:|:-:
-[Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[fal.ai](https://fal.ai/models)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[Flair](https://flair.ai/)|[G-prompter](https://www.g-prompter.com/en)|
-[Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Logolivery](https://logolivery.ai/)|[Prompt Builder](https://promptomania.com/midjourney-prompt-builder/)|
-[Catbird](https://www.catbird.ai/)|[Morph Studio](https://www.morphstudio.com/)|[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)||[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
-[BlueWillow](https://www.bluewillow.ai/)||[Invideo](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets||[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
-[Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building||[FlowGPT](https://flowgpt.com/)|
-[Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|[Anthropic](https://console.anthropic.com/)|
+|Text-to-Image|Text-to-Music|Text-to-Video|Games|Prompt Generator|
+:-:|:-:|:-:|:-:|:-:
+[Midjourney](https://www.midjourney.com/)|[Mubert](https://mubert.com/)|[fal.ai](https://fal.ai/models)|[Leonardo.Ai](https://leonardo.ai/) - Assets|[G-prompter](https://www.g-prompter.com/en)|
+[Adobe Firefly](https://firefly.adobe.com/)|[Waveformer](https://waveformer.replicate.dev/)|[PIKA LABS](https://www.pika.art/)|[Dreamlab](https://dreamlab.gg/) - Animated Sprites|[Prompt Builder](https://promptomania.com/midjourney-prompt-builder/)|
+[Catbird](https://www.catbird.ai/)|[Morph Studio](https://www.morphstudio.com/)|[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)|[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
+[BlueWillow](https://www.bluewillow.ai/)||[Invideo](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets|[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
+[Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building|[FlowGPT](https://flowgpt.com/)|
+[Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|
 [Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
 
 ## Text-to-image
@@ -394,6 +399,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 |Black Forest Labs|[FLUX.1](https://blackforestlabs.ai/#get-flux), [FLUX1.1 [pro]](https://blackforestlabs.ai/announcing-flux-1-1-pro-and-the-bfl-api/), [FLUX1.1 [pro] Ultra](https://blackforestlabs.ai/flux-1-1-ultra/), [FLUX.1 Tools](https://blackforestlabs.ai/flux-1-tools/)<br>[ FLUX Pro Finetuning API](https://blackforestlabs.ai/announcing-the-flux-pro-finetuning-api), [FLUX.1 Kontext](https://bfl.ai/announcements/flux-1-kontext), [FLUX.1 Krea [dev]](https://bfl.ai/announcements/flux-1-krea-dev)|
 |[Playground](https://playground.com/)|[Playground v2](https://playground.com/blog/playground-v2), [Playground v3](https://playground.com/blog/introducing-playground-v3)|
 
+- [HunyuanImage-3.0](https://huggingface.co/tencent/HunyuanImage-3.0) - A Powerful Native Multimodal Model for Image Generation
 - [MAI-Image-1](https://microsoft.ai/news/introducing-mai-image-1-debuting-in-the-top-10-on-lmarena/) - first image generation model developed entirely in-house, by Microsoft
 - [UniDisc](https://unidisc.github.io/) - model, which is capable of jointly processing text and images for a variety of downstream tasks
 - [Reve Image 1.0](https://preview.reve.art/) - a new model trained from the ground up to excel at prompt adherence, aesthetics, and typography
@@ -415,6 +421,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [IP-Adapter](https://ip-adapter.github.io/) - Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models
 - [MatchAI](https://match.color.io/) - a powerful web app that can copy the color grading from images so you can apply it to your own, by [color.io](https://www.color.io/)
 - [Picogen](https://picogen.io/) - nonofficial API to Midjourney AI, Stability AI and DALLE-2 AI
+- [Flair](https://flair.ai/) - the AI design tool for content, images, videos, marketing, advertising
 - [FABRIC - Feedback via Attention-Based Reference Image Conditioning](https://sd-fabric.github.io/) - a technique to incorporate iterative feedback into the generative process of diffusion models based on StableDiffusion
 - [Controlling Text-to-Image Diffusion by Orthogonal Finetuning (OFT)](https://oft.wyliu.com/) - for adapting text-to-image diffusion models to downstream tasks
 - [InstructPix2Pix Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix/) - a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image
@@ -473,11 +480,11 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Behind the Scenes: Density Fields for Single View Reconstruction](https://fwmb.github.io/bts/) - a neural network that predicts an implicit density field from a single image
 
 ## Video & Animation
+- [Flow](https://labs.google/fx/tools/flow) - AI filmmaking tool powered by [Veo](https://deepmind.google/models/veo/); [Veo 3.1](https://blog.google/technology/ai/veo-updates-flow) - SOTA and builds on Veo 3, with stronger prompt adherence and improved audiovisual quality when turning images into videos, by Google
 - [SORA 2](https://openai.com/index/sora-2/), [SORA](https://openai.com/index/video-generation-models-as-world-simulators/) - video generation model is more physically accurate, realistic, and more controllable than prior systems. It also features synchronized dialogue and sound effects, by OpenAI
 - [Matrix-Game 2.0](https://matrix-game-v2.github.io/) - an interactive world model generates long videos on-the-fly via few-step auto-regressive diffusion (high-quality minute-level videos across diverse scenes at an ultra-fast speed of 25 FPS)
 - [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2) - the model weights and inference code for our infinite-length film generative models
 - [Wan2.1](https://github.com/Wan-Video/Wan2.1), [Wan2.2](https://github.com/Wan-Video/Wan2.2) - Effective MoE Architecture; Cinematic-level Aesthetics; Complex Motion Generation; Efficient High-Definition Hybrid TI2V
-- [Veo](https://deepmind.google/technologies/veo/veo-1/) - generates high-quality 1080p resolution videos in a wide range of cinematic and visual styles that can go beyond a minute; [Veo2](https://deepmind.google/technologies/veo/veo-2/) - creates videos with realistic motion and high quality output, up to 4K; [VideoFX](https://aitestkitchen.withgoogle.com/tools/video-fx) - a new experimental tool designed to help support creatives through the storytelling journey, by Google
 - [GEN-1](https://runwayml.com/ai-magic-tools/gen-1/) & [Research](https://research.runwayml.com/gen1), [GEN-2](https://runwayml.com/ai-magic-tools/gen-2/) & [Research](https://research.runwayml.com/gen2), GEN-3-alpha & [Research](https://runwayml.com/blog/introducing-gen-3-alpha/), Gen-4 & [Research](https://runwayml.com/research/introducing-runway-gen-4) - a new frontier for high-fidelity, controllable video generation. It is a major improvement in fidelity, consistency, and motion over Gen-2, and a step towards building [General World Models](https://research.runwayml.com/introducing-general-world-models), by Runway
 - [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - A Systematic Framework For Large Video Generation Model
 - [LTX-Video](https://github.com/Lightricks/LTX-Video) - real-time AI video generation, open-source model, by Lightricks
