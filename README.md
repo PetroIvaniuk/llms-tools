@@ -557,6 +557,7 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [cadwithai](https://www.cadwithai.com/) - a tool that allows users to create and edit CAD models using an AI chatbot to enhance efficiency and creativity in design work
 - [Meshy](https://www.meshy.ai/) - create stunning 3D models with AI
 - [Generative 3D API Toolkit](https://www.shutterstock.com/discover/generative-ai-3d) - generate 3D models, materials, and HDRIs at the speed of your imagination. Supercharge your 3D workflow with our groundbreaking Gen3D toolkit from Shutterstock powered by NVIDIA
+- [Seele AI](https://www.seeles.ai/) - input text to generate playable 3D Games and Asserts
 - [Stable Fast 3D](https://stability.ai/news/introducing-stable-fast-3d) - generates high-quality 3D assets from a single image, by Stability AI
 - [Stable Video 4D](https://stability.ai/news/stable-video-4d) - a single object video into multiple novel-view videos of eight different angles/views, by Stability AI
 - [VGGHeads](https://github.com/KupynOrest/head_detector) - A Large-Scale Synthetic Dataset for 3D Human Heads
