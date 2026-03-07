@@ -315,6 +315,8 @@ AWS||[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https:/
 - [Petri](https://alignment.anthropic.com/2025/petri/) - an open-source auditing tool to accelerate AI safety research, by Anthropics
 - [Chronos-2](https://www.amazon.science/blog/introducing-chronos-2-from-univariate-to-universal-forecasting) - forecast single time series, multiple related time series, and time series influenced by external factors, all without needing extra training
 
+- [Safeguard](https://github.com/lukeslp/oss-safeguard-ux) ![GitHub Repo stars](https://img.shields.io/github/stars/lukeslp/oss-safeguard-ux?style=plastic) - web interface for OpenAI's gpt-oss-safeguard-20b content safety model. Streams reasoning verdicts, provides policy customization for 8 safety categories, fully keyboard navigable and screen reader compatible (WCAG 2.1 AA)
+
 ### Agents
 - [A2UI](https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces) - an open project for agent-driven interfaces, by Google
 - [Aardvark](https://openai.com/index/introducing-aardvark/) - an autonomous GPT-5-powered agent that analyzes code repositories to discover security vulnerabilities, assess their severity, and propose patches, by OpenAI
