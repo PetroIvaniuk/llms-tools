@@ -193,6 +193,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) - an open-source, locally running implementation of OpenAI's Code Interpreter
 - [ollama](https://ollama.com/) - get up and running with Llama 3, Mistral, Gemma, and other LLMs
+- [Prompter](https://github.com/whonixnetworks/prompter) - Terminal-based Ollama model comparison and evaluation. Side-by-side streaming, debate modes, 20-test benchmarks. Python stdlib only.
 - [Dalai](https://cocktailpeanut.github.io/dalai) - run LLaMA and Alpaca on your computer
 - [LLaMAChat](https://llamachat.app/) - allows you to chat with LLaMa, Alpaca and GPT4All models all running locally on your CPU
 - [OpenLLM](https://github.com/bentoml/OpenLLM) - an open-source platform designed to facilitate the deployment and operation of LLMs in real-world applications
