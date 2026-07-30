@@ -472,6 +472,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Kolors](https://huggingface.co/Kwai-Kolors/Kolors) - a large-scale text-to-image generation model based on latent diffusion, by the Kuaishou Kolors team
 - [StoryDiffusion](https://storydiffusion.github.io/) - Consistent Self-Attention for Long-Range Image and Video Generation
 - [Ilus AI](https://ilus.ai/) - AI illustration generator
+- [Illustro](https://illustro.app/) - AI illustration generator and editor with vector recoloring, image-to-art, and animation tools
 - [Improving Diffusion Models for Authentic Virtual Try-on in the Wild](https://idm-vton.github.io/) - image-based virtual try-on, which renders an image of a person wearing a curated garment, given a pair of images depicting the person and the garment, respectively
 - [Distribution Matching Distillation](https://tianweiy.github.io/dmd/) - one-step generator achieves comparable image quality with StableDiffusion v1.5 while being 30x faster
 - [Generative Powers of Ten](https://powers-of-10.github.io/) - a method that uses a text-to-image model to generate consistent content across multiple image scales, enabling extreme semantic zooms into a scene, e.g., ranging from a wide-angle landscape view of a forest to a macro shot of an insect sitting on one of the tree branches
