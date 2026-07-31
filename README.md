@@ -248,6 +248,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Game Arena](https://www.kaggle.com/game-arena) - a new benchmarking platform where AI models and agents compete head-to-head in a variety of strategic games to help chart new frontiers for trustworthy AI evaluation, by Kaggle
 - [OpenRouter](https://openrouter.ai/rankings) - a unified interface for LLMs
 - [MathArena](https://matharena.ai/) - a platform for evaluation of LLMs on the latest math competitions and olympiads
+- [SenseBench](https://sense-bench.com) - a leaderboard for English word sense disambiguation: models pick the correct WordNet sense for a word in context, scored on a lexicographer-reviewed 4,861-item dataset with every run re-verified from stored raw API responses, by Glite
 - [EU AI Act Compliance Leaderboard](https://huggingface.co/spaces/latticeflow/compl-ai-board) - the high-level regulatory requirements of the EU AI Act as concrete technical requirements
 - [AgentBoard](https://hkust-nlp.github.io/agentboard/) - a benchmark designed for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates
 - [LLM Hallucination Index](https://www.rungalileo.io/hallucinationindex) - A Ranking & Evaluation Framework For LLM Hallucinations
