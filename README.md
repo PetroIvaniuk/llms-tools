@@ -319,6 +319,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Agent2Agent (A2A)](https://github.com/google/A2A) - an open protocol enabling communication and interoperability between opaque agentic applications, by Google
 - [Agentic Document Extraction](https://landing.ai/agentic-document-extraction) - Intelligent Document Understanding with Visual Context, by LandingAI
 - [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder, powered by OpenAI's Agents SDK
+- [LLMGraph](https://llmgraph.ai) - a visual no-code builder for LLM workflows; build RAG chatbots and AI agents on a drag-and-drop canvas and deploy each workflow as a REST API with an embeddable chat widget
 - [UI-TARS-1.5](https://seed-tars.com/1.5/) - an open-source multimodal agent built upon a powerful vision-language model. It is capable of effectively performing diverse tasks within virtual worlds
 - [Browser-Use](https://github.com/browser-use/browser-use) - enable AI to control your browser
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - a platform for software development agents powered by AI
