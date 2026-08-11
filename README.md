@@ -265,6 +265,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Open Medical-LLM Leaderboard](https://huggingface.co/blog/leaderboard-medicalllm) - aims to track, rank and evaluate the performance of LLMs on medical question answering tasks
 - [TheFastest.AI](https://thefastest.ai/) - site that provides reliable measurements for the performance of popular models
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
+- [InferenceBench](https://inferencebench.io) - compare LLM inference cost, GPU economics, and performance across models, GPUs, and cloud providers, with ROI, break-even, and scaling analysis
 
 ### Libraries
 - [aisuite](https://github.com/andrewyng/aisuite) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/aisuite?style=plastic) - simple, unified interface to multiple Generative AI providers, by Andrew Ng Team
