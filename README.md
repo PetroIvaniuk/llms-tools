@@ -339,6 +339,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [JARVIS-1](https://craftjarvis-jarvis1.github.io/) - Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models, generate sophisticated plans, and perform embodied control, within the open-world Minecraft universe
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 - [Kiln AI](https://kiln.tech) - a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding
+- [YYLO](https://github.com/yylo-dev/yylo) - an open-source command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries, a dedicated branch/worktree per task, and a risk-based merge queue; installable via npm
 
 ## Code & Math
 ||Code|Math|
