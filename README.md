@@ -573,6 +573,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
+- [shortshort](https://www.shortshort.io) - turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions
 - [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
 - [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
 - [Flow Studio](https://flowgpt.com/) - uses AI to transform your text prompts into visually captivating short films and videos
