@@ -268,8 +268,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [LLM Safety Leaderboard](https://huggingface.co/spaces/AI-Secure/llm-trustworthy-leaderboard) - evaluation for LLM safety and help researchers and practitioners better understand the capabilities, limitations, and potential risks of LLMs
 - [Open Medical-LLM Leaderboard](https://huggingface.co/blog/leaderboard-medicalllm) - aims to track, rank and evaluate the performance of LLMs on medical question answering tasks
 - [TheFastest.AI](https://thefastest.ai/) - site that provides reliable measurements for the performance of popular models
-- [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to
-- search, etc)
+- [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
 
 - [LLM Versus](https://llmversus.vercel.app) — Side-by-side AI model comparisons with API pricing, benchmarks and buying guides.
 
