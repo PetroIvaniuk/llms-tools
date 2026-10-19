@@ -272,6 +272,8 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
 - [InferenceBench](https://inferencebench.io) - compare LLM inference cost, GPU economics, and performance across models, GPUs, and cloud providers, with ROI, break-even, and scaling analysis
 
+- [LLM Versus](https://llmversus.vercel.app) — Side-by-side AI model comparisons with API pricing, benchmarks and buying guides.
+
 ### Libraries
 - [aisuite](https://github.com/andrewyng/aisuite) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/aisuite?style=plastic) - simple, unified interface to multiple Generative AI providers, by Andrew Ng Team
 - [LangChain](https://github.com/hwchase17/langchain) ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=plastic&logo=langchain), [Tutorials](https://python.langchain.com/docs/tutorials/) - a framework for developing applications powered by LLMs
