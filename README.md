@@ -574,10 +574,10 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Mochi 1](https://www.genmo.ai/play) - an open-source model for generating high-quality videos from text prompts, by genmo
 - [Haiper](https://haiper.ai/) - simplifies video creation with text-to-video, image-to-video, and video enhancement options
 - [Hailuo AI](https://hailuoai.video/) - Image-to-Video
+- [MaxVideoAI](https://maxvideoai.com/pay-as-you-go-ai-video-generator) - paid, pay-as-you-go workspace for text-to-video, image-to-video, and model comparison with pricing shown before generation
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
-- [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
 - [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
 - [Flow Studio](https://flowgpt.com/) - uses AI to transform your text prompts into visually captivating short films and videos
 - [LivePortrait](https://liveportrait.github.io/) - Efficient Portrait Animation with Stitching and Retargeting Control
@@ -599,7 +599,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [I2VGen-XL](https://i2vgen-xl.github.io/) - High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models
 - [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - an innovative diffusion pipeline designed for real-time interactive generation
 - [WALT - Window Attention Latent Transformer](https://walt-video-diffusion.github.io/) - a transformer-based method for latent video diffusion models (LVDMs)
-- [Hotshot](https://hotshot.co/) - GIF generator
+- [Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - open-source text-to-GIF model designed to work alongside Stable Diffusion XL
 - [UnscreenPro](https://unscreen.pro/) - remove video background
 - [Video Background Remover](https://videobackgroundremover.io/) - AI-powered video background remover
 - [Motrica](https://www.motorica.ai/) - technologies and tools for advanced character animation
