@@ -345,6 +345,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [AppAgent](https://github.com/mnotgod96/AppAgent) - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone app
 - [Kiln AI](https://kiln.tech) - a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding
 - [Agent QA](https://github.com/vostride/agent-qa) - A source-available, self-improving QA agent for natural-language web and mobile tests with persistent test memory, CLI, MCP, and Agent Skills.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - records an agent's exchange with its model provider and replays it from the trace, so the provider is never called again; a replay can fork at a recorded checkpoint onto a different model, leaving the model as the only variable
 
 ## Code & Math
 ||Code|Math|
