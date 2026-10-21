@@ -273,6 +273,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [InferenceBench](https://inferencebench.io) - compare LLM inference cost, GPU economics, and performance across models, GPUs, and cloud providers, with ROI, break-even, and scaling analysis
 
 - [LLM Versus](https://llmversus.vercel.app) — Side-by-side AI model comparisons with API pricing, benchmarks and buying guides.
+- [Devtoolwatch Board](https://index.devtoolwatch.com/) - tracks 500+ AI developer tools and ranks them weekly by new GitHub stars and npm/PyPI download growth
 
 ### Libraries
 - [aisuite](https://github.com/andrewyng/aisuite) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewyng/aisuite?style=plastic) - simple, unified interface to multiple Generative AI providers, by Andrew Ng Team
