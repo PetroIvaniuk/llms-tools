@@ -346,6 +346,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Kiln AI](https://kiln.tech) - a free desktop app that provides tools for building AI products such as evals, RAG systems, agents, fine-tuning, synthetic data, and more, all without coding
 - [Agent QA](https://github.com/vostride/agent-qa) - A source-available, self-improving QA agent for natural-language web and mobile tests with persistent test memory, CLI, MCP, and Agent Skills.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - records an agent's exchange with its model provider and replays it from the trace, so the provider is never called again; a replay can fork at a recorded checkpoint onto a different model, leaving the model as the only variable
+- [deed.page](https://deed.page) - static hosting for AI agents: one HTTP PUT or a call to its MCP server publishes an HTML file or folder to a permanent `https://<slug>.deed.page` URL, with no account needed on the free plan; the agent skill is open source at [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)
 
 ## Code & Math
 ||Code|Math|
