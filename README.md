@@ -579,6 +579,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Haiper](https://haiper.ai/) - simplifies video creation with text-to-video, image-to-video, and video enhancement options
 - [Hailuo AI](https://hailuoai.video/) - Image-to-Video
 - [MaxVideoAI](https://maxvideoai.com/pay-as-you-go-ai-video-generator) - paid, pay-as-you-go workspace for text-to-video, image-to-video, and model comparison with pricing shown before generation
+- [Vidney](https://vidney.ai/) - freemium workspace with 40+ video and image models (Kling, Veo, Seedance, Wan, Grok Imagine, Nano Banana) on one credit balance; text, image or reference to video, with the cost shown before each run
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
