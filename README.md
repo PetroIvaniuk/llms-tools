@@ -578,6 +578,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Mochi 1](https://www.genmo.ai/play) - an open-source model for generating high-quality videos from text prompts, by genmo
 - [Haiper](https://haiper.ai/) - simplifies video creation with text-to-video, image-to-video, and video enhancement options
 - [Hailuo AI](https://hailuoai.video/) - Image-to-Video
+- [Pixwit](https://pixwit.ai/) - AI photo-to-video and meme dance effects generator (freemium)
 - [MaxVideoAI](https://maxvideoai.com/pay-as-you-go-ai-video-generator) - paid, pay-as-you-go workspace for text-to-video, image-to-video, and model comparison with pricing shown before generation
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
