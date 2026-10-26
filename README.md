@@ -874,6 +874,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 
 ## Other: Fin, Presentation
 - [kdpbook.io](https://kdpbook.io) - describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing ready to upload
+- [CoverNice](https://covernice.com) - browser tool for print-ready book covers: KDP spine width, full-wrap size and 300 dpi pixel dimensions from trim size, paper and page count, with print-ready PDF export
 - [AI Sheets](https://huggingface.co/blog/aisheets) - open-source tool for building, enriching, and transforming datasets using AI models with no code, by Hugging Face
 - [AI Spreadsheet](https://sourcetable.com) - analyze data and complete tasks in seconds with Sourcetable's Excel & data analyst
 - [TacticAI](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/) - an AI assistant for football tactics, by Google DeepMind
