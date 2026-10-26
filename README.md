@@ -532,6 +532,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [UnblurImage](https://unblurimage.ai/) - remove blur from photos and achieve stunning clarity online for free
 - [Text2Infographic](https://text2infographic.com/) - converts your written content into eye-catching infographics without any need for design skills
 - [VDraw](https://vdraw.ai/) - generate and edit images effortlessly with AI — turn your ideas into stunning visuals
+- [APPLORE](https://applore.app/ai-app-icon-generator) - AI app icon generator that uses 18,000+ real App Store / Google Play icons as style references, then exports every iOS/Android size
 
 ### Watermarks
 - [SynthID](https://deepmind.google/technologies/synthid/), [SynthID Text](https://huggingface.co/blog/synthid-text) - watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video, by Google DeepMind and Hugging Face
