@@ -773,6 +773,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Musicfy](https://www.musicfy.lol/) - music like you've never heard. Create and discover AI covers of your favorite songs
 - [Jukebox](https://openai.com/research/jukebox) - a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles, by OpenAI
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
+- [Tera Studio](https://terastudio.co/) - learns your singing voice from about a minute of singing and sings any song back in your voice
 
 ## Games
 - [Genie](https://sites.google.com/view/genie-2024/), [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/), [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) - a general purpose world model that can generate an unprecedented diversity of interactive environment, by Google DeepMind
