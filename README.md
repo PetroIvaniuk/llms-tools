@@ -738,6 +738,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 ### Other
 - [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music), [Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0), [Stable Audio 2.5](https://stability.ai/news/stability-ai-introduces-stable-audio-25-the-first-audio-model-built-for-enterprise-sound-production-at-scale) - audio generation model designed specifically for enterprise-grade sound production, by Stability AI
 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open) - an open source text-to-audio model for generating up to 47 seconds of samples and sound effects, by Stability AI
+- [SFXMint](https://sfxmint.com/) - a free CC0 library of 9,300+ AI-generated and synthesized sound effects for games and apps, searchable by game or app event, with a keyless API and a remote [MCP server](https://github.com/sfxmint/sfxmint-mcp) so coding agents can add sounds to a project; an AI studio generates missing effects from text (commercial use of new generations is paid)
 - [Voxtral](https://mistral.ai/news/voxtral) - SOTA speech understanding models are available in two sizes—a 24B variant for production-scale applications and a 3B variant for local and edge deployments, by Mistral
 - [chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS, by Resemble AI
 - [dia](https://github.com/nari-labs/dia) - a 1.6B parameter text to speech model capable of generating ultra-realistic dialogue in one pass, by Nari Labs
