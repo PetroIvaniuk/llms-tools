@@ -430,6 +430,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Codex Micro](https://openai.com/supply/co-lab/work-louder/) - Codex Keyboard
 - [Omi](https://www.omi.me/) - AI wearables that revolutionize how you capture and manage conversations
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
+- [OneMira C1](https://onemira.com/products/c1) - subscription-free AI voice recorder with local AI transcription, speaker ID, and open-source [MCP server](https://github.com/onemira-space/onemira-mcp)
 - [Biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [Mytra](https://mytra.ai/) - warehouse robotics, automating the most common industrial task – moving and storing material – with flexible, scalable, and intuitive robotics and AI
 - [Friend](https://friend.com/?page=hardware) - AI-Powered Necklace companion designed not to help you get things done but to be there for you—anytime, anywhere
