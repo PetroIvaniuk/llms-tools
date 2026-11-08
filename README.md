@@ -372,6 +372,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0), [Antigravity](https://antigravity.google/) - agentic development platform, allowing anyone to build in the agent-first era, by Google
 - [Grok Build](https://github.com/xai-org/grok-build) - terminal-based AI coding agent
 - [Cline](https://cline.bot/) - the Open Coding Agent
+- [Imagera Code](https://imagera.ai/code) - terminal AI coding agent with Claude, GPT, Gemini and hundreds more models on one subscription
 
 ### Security
 - [Project Glasswing](https://www.anthropic.com/glasswing) - securing critical software for the AI era, by Anthropic
@@ -587,6 +588,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
 - [shortshort](https://www.shortshort.io) - turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions
+- [Imagera](https://imagera.ai) - AI studio for video, images, voice and music; Character IDs keep one face or product consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video
 - [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
 - [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
 - [Flow Studio](https://flowgpt.com/) - uses AI to transform your text prompts into visually captivating short films and videos
