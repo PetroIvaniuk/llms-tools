@@ -391,6 +391,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0), [Antigravity](https://antigravity.google/) - agentic development platform, allowing anyone to build in the agent-first era, by Google
 - [Grok Build](https://github.com/xai-org/grok-build) - terminal-based AI coding agent
 - [Cline](https://cline.bot/) - the Open Coding Agent
+- [Orchestrator](https://orchestrator.inc/) - desktop app (macOS, Windows, Linux) that runs Claude Code, Codex and other coding agents in parallel git worktrees and sends failed CI checks and review comments back to the agent that owns the PR; open source at [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)
 
 ### Security
 - [Project Glasswing](https://www.anthropic.com/glasswing) - securing critical software for the AI era, by Anthropic
