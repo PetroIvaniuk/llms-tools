@@ -784,6 +784,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [CLAP](https://github.com/LAION-AI/CLAP/) - you can extract a latent representation of any given audio and text for your own model, or for different downstream task
 - [Vscoped](https://vscoped.com/) - effortlessly transcribe your video content to boost click-through rates and watch time
 - MERT, [Code](https://github.com/yizhilll/MERT), [Demo: HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
+- [Arcmira](https://arcmira.com/) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. ([docs](https://arcmira.com/docs))
 - [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
 - [SadTalker: Demo](https://huggingface.co/spaces/vinthony/SadTalker) - Stylized Audio-Driven Single Image Talking Face Animation
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
