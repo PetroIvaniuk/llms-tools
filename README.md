@@ -665,6 +665,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [cadwithai](https://www.cadwithai.com/) - a tool that allows users to create and edit CAD models using an AI chatbot to enhance efficiency and creativity in design work
 - [Meshy](https://www.meshy.ai/) - create stunning 3D models with AI
 - [Luphra](https://www.luphra.com/) - prompt-to-matter: text/sketch to editable 3D and manufactured physical products
+- [objekto.io](https://objekto.io/en) - turns a few words, a photo or a sketch into a multi-part, print-ready 3D model (parametric CAD with printability checks, an exploded view and an assembly guide), then has it 3D printed and delivered in France
 - [Image3D](https://image3d.io/) - generate 3D assets from images with GLB, OBJ, STL, and PLY exports
 - [Generative 3D API Toolkit](https://www.shutterstock.com/discover/generative-ai-3d) - generate 3D models, materials, and HDRIs at the speed of your imagination. Supercharge your 3D workflow with our groundbreaking Gen3D toolkit from Shutterstock powered by NVIDIA
 - [Seele AI](https://www.seeles.ai/) - input text to generate playable 3D Games and Asserts
