@@ -423,6 +423,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [MAmmoTH](https://tiger-ai-lab.github.io/MAmmoTH/) - a series of open-source LLMs specifically tailored for general math problem-solving. The MAmmoTH models are trained on MathInstruct, our meticulously curated instruction tuning dataset
 - [WrenAI](https://github.com/Canner/WrenAI) - open-source Text-to-SQL solutionf or data teams to get results and insights faster by asking business questions without writing SQL
 - [Defog](https://defog.ai/blog/open-sourcing-sqlcoder/) - a state-of-the-art LLM for converting natural language questions to SQL queries, which outperforms major open-source models and slightly outperforms gpt-3
+- [AI Math Solver](https://mathsolver.help) - Free AI math solver with step-by-step explanations
 - [v0](https://v0.dev/) - a generative user interface system. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS that people can use in their projects, by Vercel Labs
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
 - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) - a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts, by MetaAI
@@ -449,6 +450,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Codex Micro](https://openai.com/supply/co-lab/work-louder/) - Codex Keyboard
 - [Omi](https://www.omi.me/) - AI wearables that revolutionize how you capture and manage conversations
 - [NotePin](https://www.plaud.ai/products/notepin) - wearable AI memory capsule, by Plaud
+- [OneMira C1](https://onemira.com/products/c1) - subscription-free AI voice recorder with local AI transcription, speaker ID, and open-source [MCP server](https://github.com/onemira-space/onemira-mcp)
 - [Biped.ai](https://biped.ai/) - an AI wearable vest that helps blind and visually impaired people avoid obstacles, follow GPS instructions, and find crosswalks or door
 - [Mytra](https://mytra.ai/) - warehouse robotics, automating the most common industrial task – moving and storing material – with flexible, scalable, and intuitive robotics and AI
 - [Friend](https://friend.com/?page=hardware) - AI-Powered Necklace companion designed not to help you get things done but to be there for you—anytime, anywhere
@@ -551,6 +553,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [UnblurImage](https://unblurimage.ai/) - remove blur from photos and achieve stunning clarity online for free
 - [Text2Infographic](https://text2infographic.com/) - converts your written content into eye-catching infographics without any need for design skills
 - [VDraw](https://vdraw.ai/) - generate and edit images effortlessly with AI — turn your ideas into stunning visuals
+- [APPLORE](https://applore.app/ai-app-icon-generator) - AI app icon generator that uses 18,000+ real App Store / Google Play icons as style references, then exports every iOS/Android size
 
 ### Watermarks
 - [SynthID](https://deepmind.google/technologies/synthid/), [SynthID Text](https://huggingface.co/blog/synthid-text) - watermarks and identifies AI-generated content by embedding digital watermarks directly into AI-generated images, audio, text or video, by Google DeepMind and Hugging Face
@@ -602,10 +605,12 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Pixwit](https://pixwit.ai/) - AI photo-to-video and meme dance effects generator (freemium)
 - [MaxVideoAI](https://maxvideoai.com/pay-as-you-go-ai-video-generator) - paid, pay-as-you-go workspace for text-to-video, image-to-video, and model comparison with pricing shown before generation
 - [Vidney](https://vidney.ai/) - freemium workspace with 40+ video and image models (Kling, Veo, Seedance, Wan, Grok Imagine, Nano Banana) on one credit balance; text, image or reference to video, with the cost shown before each run
+- [RefVid](https://refvid.com/) - upload 1-10 photos of a character or product once, then generate videos (Kling 4, Kling 3.0 Omni, Seedance 2.5, Wan 3.0 and other models) that keep it the same in every shot; templates for product ads, UGC and character series (free first clip, pay-as-you-go)
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
 - [shortshort](https://www.shortshort.io) - turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions
+- [Imagera](https://imagera.ai) - AI studio for video, images, voice and music; Character IDs keep one face or product consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video
 - [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
 - [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
 - [Flow Studio](https://flowgpt.com/) - uses AI to transform your text prompts into visually captivating short films and videos
@@ -662,6 +667,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [cadwithai](https://www.cadwithai.com/) - a tool that allows users to create and edit CAD models using an AI chatbot to enhance efficiency and creativity in design work
 - [Meshy](https://www.meshy.ai/) - create stunning 3D models with AI
 - [Luphra](https://www.luphra.com/) - prompt-to-matter: text/sketch to editable 3D and manufactured physical products
+- [objekto.io](https://objekto.io/en) - turns a few words, a photo or a sketch into a multi-part, print-ready 3D model (parametric CAD with printability checks, an exploded view and an assembly guide), then has it 3D printed and delivered in France
 - [Image3D](https://image3d.io/) - generate 3D assets from images with GLB, OBJ, STL, and PLY exports
 - [Generative 3D API Toolkit](https://www.shutterstock.com/discover/generative-ai-3d) - generate 3D models, materials, and HDRIs at the speed of your imagination. Supercharge your 3D workflow with our groundbreaking Gen3D toolkit from Shutterstock powered by NVIDIA
 - [Seele AI](https://www.seeles.ai/) - input text to generate playable 3D Games and Asserts
@@ -756,6 +762,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 ### Other
 - [Stable Audio](https://stability.ai/blog/stable-audio-using-ai-to-generate-music), [Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0), [Stable Audio 2.5](https://stability.ai/news/stability-ai-introduces-stable-audio-25-the-first-audio-model-built-for-enterprise-sound-production-at-scale) - audio generation model designed specifically for enterprise-grade sound production, by Stability AI
 - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open) - an open source text-to-audio model for generating up to 47 seconds of samples and sound effects, by Stability AI
+- [SFXMint](https://sfxmint.com/) - a free CC0 library of 9,300+ AI-generated and synthesized sound effects for games and apps, searchable by game or app event, with a keyless API and a remote [MCP server](https://github.com/sfxmint/sfxmint-mcp) so coding agents can add sounds to a project; an AI studio generates missing effects from text (commercial use of new generations is paid)
 - [Voxtral](https://mistral.ai/news/voxtral) - SOTA speech understanding models are available in two sizes—a 24B variant for production-scale applications and a 3B variant for local and edge deployments, by Mistral
 - [chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS, by Resemble AI
 - [dia](https://github.com/nari-labs/dia) - a 1.6B parameter text to speech model capable of generating ultra-realistic dialogue in one pass, by Nari Labs
@@ -781,6 +788,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [CLAP](https://github.com/LAION-AI/CLAP/) - you can extract a latent representation of any given audio and text for your own model, or for different downstream task
 - [Vscoped](https://vscoped.com/) - effortlessly transcribe your video content to boost click-through rates and watch time
 - MERT, [Code](https://github.com/yizhilll/MERT), [Demo: HF](https://huggingface.co/spaces/m-a-p/Music-Descriptor) - an Acoustic Music Understanding Model with Large-Scale Self-supervised Training
+- [Arcmira](https://arcmira.com/) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. ([docs](https://arcmira.com/docs))
 - [Ecoute](https://github.com/SevaSk/ecoute) - a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation
 - [SadTalker: Demo](https://huggingface.co/spaces/vinthony/SadTalker) - Stylized Audio-Driven Single Image Talking Face Animation
 - [Recast](https://www.letsrecast.ai/) - turn your want-to-read articles into rich audio summaries
@@ -892,6 +900,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 
 ## Other: Fin, Presentation
 - [kdpbook.io](https://kdpbook.io) - describe a book in a chat and get it written, illustrated and typeset, with the Amazon KDP print PDF, full-wrap cover, Kindle eBook and listing ready to upload
+- [CoverNice](https://covernice.com) - browser tool for print-ready book covers: KDP spine width, full-wrap size and 300 dpi pixel dimensions from trim size, paper and page count, with print-ready PDF export
 - [AI Sheets](https://huggingface.co/blog/aisheets) - open-source tool for building, enriching, and transforming datasets using AI models with no code, by Hugging Face
 - [AI Spreadsheet](https://sourcetable.com) - analyze data and complete tasks in seconds with Sourcetable's Excel & data analyst
 - [TacticAI](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/) - an AI assistant for football tactics, by Google DeepMind
