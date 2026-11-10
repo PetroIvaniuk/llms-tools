@@ -483,7 +483,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 [Catbird](https://www.catbird.ai/)|[Morph Studio](https://www.morphstudio.com/)|[Kaiber](https://kaiber.ai/)|[Didimo](https://www.didimo.co/)|[Midjourney PromptHelper1](https://promptfolder.com/midjourney-prompt-helper/)|
 [BlueWillow](https://www.bluewillow.ai/)||[Invideo](https://invideo.io/)|[Scenario](https://www.scenario.com/) - Assets|[Midjourney PromptHelper2](https://midjourney-prompt-helper.netlify.app/)|
 [Lexica](https://lexica.art/)||[Moonvalley](https://moonvalley.ai/)|[Skybox](https://skybox.blockadelabs.com/) - World-building|[FlowGPT](https://flowgpt.com/)|
-[Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|
+[Imgcreator](https://imgcreator.zmo.ai/)||[ilumine AI](https://ilumine.ai/)|[Bezi](https://www.bezi.com/ai) - 3D Assets|[Prompt Generator](https://trypromptgenerator.com)|
 [Craiyon](https://www.craiyon.com/)||[LTX Studio](https://ltx.studio/)|[Charmed](https://charmed.ai/) - 3D Assets|
 
 ## Text-to-image
