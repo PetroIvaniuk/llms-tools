@@ -424,6 +424,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [WrenAI](https://github.com/Canner/WrenAI) - open-source Text-to-SQL solutionf or data teams to get results and insights faster by asking business questions without writing SQL
 - [Defog](https://defog.ai/blog/open-sourcing-sqlcoder/) - a state-of-the-art LLM for converting natural language questions to SQL queries, which outperforms major open-source models and slightly outperforms gpt-3
 - [AI Math Solver](https://mathsolver.help) - Free AI math solver with step-by-step explanations
+- [MathGPT (mathssolvergpt.com)](https://mathssolvergpt.com/en) - Free step-by-step AI math solver for algebra, calculus and word problems.
 - [v0](https://v0.dev/) - a generative user interface system. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS that people can use in their projects, by Vercel Labs
 - [SafeCoder](https://huggingface.co/blog/safecoder) - a code assistant solution built for the enterprise. In marketing speak: “your own on-prem GitHub copilot”, by Hugging Face
 - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/) - a state-of-the-art LLM capable of generating code, and natural language about code, from both code and natural language prompts, by MetaAI
