@@ -606,6 +606,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [MaxVideoAI](https://maxvideoai.com/pay-as-you-go-ai-video-generator) - paid, pay-as-you-go workspace for text-to-video, image-to-video, and model comparison with pricing shown before generation
 - [Vidney](https://vidney.ai/) - freemium workspace with 40+ video and image models (Kling, Veo, Seedance, Wan, Grok Imagine, Nano Banana) on one credit balance; text, image or reference to video, with the cost shown before each run
 - [RefVid](https://refvid.com/) - upload 1-10 photos of a character or product once, then generate videos (Kling 4, Kling 3.0 Omni, Seedance 2.5, Wan 3.0 and other models) that keep it the same in every shot; templates for product ads, UGC and character series (free first clip, pay-as-you-go)
+- [UberLLM](https://uberllm.dev/models) - pay-as-you-go API: one key for video models (Kling, Veo 3.1, Seedance 2.0, Wan 2.7, Vidu Q3, Hailuo 02) plus image, music and text models; a job's price can be quoted before it runs (prepaid credit, no subscription)
 - [Pyramid Flow](https://pyramid-flow.github.io/) - a training-efficient Autoregressive Video Generation model based on Flow Matching
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
