@@ -337,6 +337,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Tinker](https://thinkingmachines.ai/blog/announcing-tinker/) - a flexible API for fine-tuning language models, by Thinking Machines
 - [Chronos-2](https://www.amazon.science/blog/introducing-chronos-2-from-univariate-to-universal-forecasting) - forecast single time series, multiple related time series, and time series influenced by external factors, all without needing extra training
 - [Safeguard](https://github.com/lukeslp/oss-safeguard-ux) ![GitHub Repo stars](https://img.shields.io/github/stars/lukeslp/oss-safeguard-ux?style=plastic) - web interface for OpenAI's gpt-oss-safeguard-20b content safety model. Streams reasoning verdicts, provides policy customization for 8 safety categories, fully keyboard navigable and screen reader compatible (WCAG 2.1 AA)
+- [json-schema-for-llms](https://github.com/carmenaresearch/json-schema-for-llms) - a TypeScript library that turns JSON too large for a context window into a short JSON Schema with counts, ranges and example records, so the model can write a parser for the full data, by Carmena Research
 
 ### Agents
 - [Agents for financial services](https://www.anthropic.com/news/finance-agents) - ten ready-to-run agent templates for the most time-consuming work in financial services: building pitchbooks, screening KYC files, and closing the books at month-end, by Anthropic
