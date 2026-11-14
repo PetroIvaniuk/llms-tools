@@ -290,6 +290,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [TheFastest.AI](https://thefastest.ai/) - site that provides reliable measurements for the performance of popular models
 - [GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard) - evaluating next-generation LLMs (LLMs with augmented capabilities due to added tooling, efficient prompting, access to search, etc)
 - [InferenceBench](https://inferencebench.io) - compare LLM inference cost, GPU economics, and performance across models, GPUs, and cloud providers, with ROI, break-even, and scaling analysis
+- [AIHOT Model Leaderboard](https://aihot.news/leaderboard) — Chinese-language rankings of open-weight and API models, combining publicly available results from independent evaluators and linking to the original benchmarks.
 - [LLM Versus](https://llmversus.vercel.app) — Side-by-side AI model comparisons with API pricing, benchmarks and buying guides.
 - [Devtoolwatch Board](https://index.devtoolwatch.com/) - tracks 500+ AI developer tools and ranks them weekly by new GitHub stars and npm/PyPI download growth
 
