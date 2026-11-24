@@ -408,6 +408,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [DeepWiki](https://deepwiki.com/) - understand unfamiliar codebases by automatically generating architecture diagrams, documentation, and source code links for public GitHub repositories, by Cognition
 - [Fusion](https://cognition.com/blog/local-fusion) - efficient frontier harness, [Devin](https://www.cognition-labs.com/introducing-devin), [Devin 2.0](https://cognition.ai/blog/devin-2) - a new agent-native IDE experience for working with Devin, by Cognition
 - [Sleek](https://sleek.design/) - tool that generate a sleek landing page with AI in minutes
+- [Kite](https://kite.new/) - a design tool your AI agents and your team share: Claude, ChatGPT, Cursor or Codex connect through a hosted MCP server and draw real, editable layers (frames, text, components, auto layout); any frame copies as HTML, React or Tailwind
 - [MathGPT](https://math-gpt.org/) - simplifies math problems with step-by-step solutions
 - [neo](https://heyneo.so/blog) - a fully autonomous Machine Learning Engineer
 - [bolt.new](https://bolt.new/) - prompt, run, edit, and deploy full-stack web apps
