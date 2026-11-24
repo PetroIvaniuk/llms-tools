@@ -610,6 +610,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Videolulu](https://videolulu.com/) - create engaging content in popular formats for TikTok, Instagram, and YouTube
 - [GoVidify](https://govidify.ai) - an AI-powered tool that turns your written content into short-form videos for TikTok, YouTube, and Instagram
 - [shortshort](https://www.shortshort.io) - turns one long talk, podcast, or course into vertical 9:16 shorts with word-by-word captions
+- [Ziztu Clip Maker](https://getziztu.com/clipper) - turns a YouTube, Twitch or Kick link (up to 10 hours) into vertical clips with word-timed captions, hook titles and facecam layouts; also works inside Claude through an MCP connector
 - [Imagera](https://imagera.ai) - AI studio for video, images, voice and music; Character IDs keep one face or product consistent across shots, and AI Smart Director turns one prompt into an edited multi-shot video
 - [hotshot](https://hotshot.co/release) - a large-scale diffusion transformer model that serves as the foundation for our upcoming consumer product
 - [ClipAnything](https://www.opus.pro/clipanything) - the first-ever multimodal AI clipping that lets you clip any moment from any video using visual, audio, and sentiment cues, by Opus
