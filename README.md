@@ -799,6 +799,8 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [Musicfy](https://www.musicfy.lol/) - music like you've never heard. Create and discover AI covers of your favorite songs
 - [Jukebox](https://openai.com/research/jukebox) - a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles, by OpenAI
 - [Koe Recast](https://koe.ai/) - transform your voice using AI
+- [WatchToText](https://watchtotext.com/) - reads the public captions of YouTube, TikTok and Instagram videos as text and exports TXT, SRT or VTT; free for most videos, no sign-up and no upload
+- [MidiTake](https://miditake.com/) - converts MP3, WAV, video and song to editable MIDI in the browser so every note can be checked before download; free converters, no account, no upload
 
 ## Games
 - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation), [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/), [Genie](https://sites.google.com/view/genie-2024/) - world model, which unlocks unprecedented realism and improves real-time interactive simulation, by Google DeepMind
