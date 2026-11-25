@@ -719,6 +719,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [OmniObject3D](https://omniobject3d.github.io/) - a large vocabulary 3D object dataset with massive high-quality real-scanned 3D objects to facilitate the development of 3D perception, reconstruction, and generation in the real world
 
 ## Audio & Speech & Music
+- [Record to Notes](https://recordtonotes.com/) - transcribe audio and video to text in the browser; free on-device path with no signup or upload.
 ### [MetaAI](https://ai.meta.com/)
 - [SAM Audio](https://ai.meta.com/blog/sam-audio/) - SOTA unified model that uses intuitive and multimodal prompts for audio separation
 - [Spirit LM](https://speechbot.github.io/spiritlm/) - a foundation multimodal language model that freely mixes text and speech
