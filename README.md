@@ -191,6 +191,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 |[MetaAI](https://www.meta.ai)|MetaAI||
 |[character.ai](https://character.ai/)|Character.AI|talk with fictional AI characters|
 |[POE](https://poe.com/)|Quora|talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others|
+|[Whizi](https://whizi.io/)|Whizi|chat with GPT-5.6 Sol, Claude, Gemini, Grok, DeepSeek and Perplexity in one app, switch models mid-chat, import ChatGPT history|
 |[Hume](https://demo.hume.ai/)|Hume|empathic AI voice chat|
 |[Pi](https://pi.ai/)|Inflection AI||
 |[Gemini](https://gemini.google.com/app)|Google||
